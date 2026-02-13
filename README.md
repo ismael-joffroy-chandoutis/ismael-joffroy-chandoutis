@@ -1,10 +1,8 @@
 ### Ismaël Joffroy Chandoutis
 
-Artist and filmmaker based in Paris.
+Artist and filmmaker based in Paris and Brussels.
 
-Working across cinema, contemporary art, and digital art. Films, installations, post-photography, performances.
-
-Currently exploring AI as artistic method -- not to augment, but to alter.
+Films, installations, post-photography, performances. AI as artistic method -- not to augment, but to alter.
 
 #### Current projects
 - *The Goldberg Variations* -- documentary (Villa Albertine 2026)
