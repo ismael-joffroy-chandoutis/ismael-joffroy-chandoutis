@@ -1,15 +1,30 @@
-### Ismaël Joffroy Chandoutis
+## Ismaël Joffroy Chandoutis
 
-Artist and filmmaker based in Paris and Brussels.
+Filmmaker and artist. Paris / Brussels.
 
-Cinema, contemporary art, post-photography, new media, performances. AI as artistic method -- not to augment, but to alter.
+Works across cinema, contemporary art, post-photography and new media. Uses gaming engines, generative AI and post-internet aesthetics as filmmaking tools. Not to augment -- to alter.
 
-#### Current projects
-- *The Goldberg Variations* -- hybrid feature film (Villa Albertine 2026)
-- *Virus* -- hybrid feature film on Mihai Ionut Paunescu
+**César 2022** best short documentary (*Maalbeek*). Selected at **Cannes** (Semaine de la Critique), **Clermont-Ferrand**, **IDFA**, **Hot Docs**, **Annecy**. Honorary Mention at **Ars Electronica**. Associate artist at **Centquatre-Paris**. Alumnus of **Le Fresnoy** and **INSAS**.
 
-#### Open source
-- [claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow) -- how a filmmaker uses Claude Code as a daily creative and technical partner
+### Films
 
-#### Links
-[Website](https://ismaeljoffroychandoutis.com) | [Hugging Face](https://huggingface.co/12georgiadis) | [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) | [Instagram](https://instagram.com/ismaeljoffroychandoutis)
+| | |
+|---|---|
+| *The Goldberg Variations* | Hybrid feature -- in development (Villa Albertine 2026) |
+| *Virus* | Hybrid feature on Mihai Ionut Paunescu -- in development |
+| *Maalbeek* | César 2022, Semaine de la Critique Cannes |
+| *Swatted* | Special Jury Prize Clermont-Ferrand, Oscar Qualified |
+| *Ondes noires* | Grand Prix Regensburg, Prix Clermont-Ferrand |
+
+Production: [Films Grand Huit](http://filmsgrandhuit.com/en/author/ismael-joffroy-chandoutis/)
+
+### Open source
+
+Building tools and documenting methods at the intersection of AI and cinema.
+
+- **[claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow)** -- How a filmmaker uses Claude Code as a daily creative and technical partner. Real config, decisions, patterns.
+- **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** -- ComfyUI for professional cinema production. Research, architecture, workflows. Not hobbyist image generation.
+
+### Links
+
+[Website](https://ismaeljoffroychandoutis.com) ・ [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) ・ [Hugging Face](https://huggingface.co/12georgiadis) ・ [Instagram](https://instagram.com/ismaeljoffroychandoutis) ・ [IMDB](https://www.imdb.com/name/nm5604010/)
