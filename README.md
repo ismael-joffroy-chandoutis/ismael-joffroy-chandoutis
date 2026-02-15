@@ -12,4 +12,4 @@ Cinema, contemporary art, post-photography, new media, performances. AI as artis
 - [claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow) -- how a filmmaker uses Claude Code as a daily creative and technical partner
 
 #### Links
-[Website](https://ismaeljoffroychandoutis.com) | [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) | [Instagram](https://instagram.com/ismaeljoffroychandoutis)
+[Website](https://ismaeljoffroychandoutis.com) | [Hugging Face](https://huggingface.co/12georgiadis) | [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) | [Instagram](https://instagram.com/ismaeljoffroychandoutis)
