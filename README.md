@@ -22,8 +22,10 @@ Production: [Films Grand Huit](http://filmsgrandhuit.com/en/author/ismael-joffro
 
 Building tools and documenting methods at the intersection of AI and cinema.
 
+- **[method](https://github.com/12georgiadis/method)** -- Position, influences, and research methodology. How and why I work with machines.
 - **[claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow)** -- How a filmmaker uses Claude Code as a daily creative and technical partner. Real config, decisions, patterns.
-- **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** -- ComfyUI for professional cinema production. Research, architecture, workflows. Not hobbyist image generation.
+- **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** -- ComfyUI for professional cinema production. Research, architecture, workflows.
+- **[open-source-cinema](https://github.com/12georgiadis/open-source-cinema)** -- RAW video filmmaking with hacked cameras and open hardware.
 
 ### Links
 
