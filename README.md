@@ -1,8 +1,8 @@
 ## Ismaël Joffroy Chandoutis
 
-Creative Technologist & Filmmaker. Paris.
+Post-documentary filmmaker. I make films about things that leave no footage — online identities, cybercrime infrastructure, digital events that happened without witnesses.
 
-I build AI pipelines for professional cinema production — and I make films with them.
+The AI pipelines I build are not a style. They are a method for imaging what cannot be filmed.
 
 **César 2022** best short documentary. Selected at **Cannes** (Semaine de la Critique), **Clermont-Ferrand**, **IDFA**, **Hot Docs**, **Annecy**. Honorary Mention **Ars Electronica**. Associate artist **Centquatre-Paris**. Alumnus **Le Fresnoy** and **INSAS**.
 
@@ -10,25 +10,22 @@ I build AI pipelines for professional cinema production — and I make films wit
 
 ### What I build
 
-AI/generative pipelines for production environments — not hobbyist workflows.
+AI/generative pipelines for cinema production — not hobbyist workflows. The hard problem in AI cinema is temporal consistency across a full shot: keeping hair, clothes, micro-details coherent frame by frame. That's what the architecture below solves.
 
-**Core stack:**
-ComfyUI · Blender (depth/normal passes → ControlNet) · Wan 2.2 · LTX-2 · Flux.1 · Gaussian Splatting · Unreal Engine 5 · DaVinci Resolve · Final Cut Pro · Claude Code / MCP
+**Stack:** ComfyUI · Blender (depth/normal passes → ControlNet) · Wan 2.2 · LTX-2 · Flux.1 · Gaussian Splatting · Unreal Engine 5 · DaVinci Resolve · Final Cut Pro · Claude Code / MCP
 
 **Specialties:**
 - Temporal consistency for long-form video (the hard problem in AI cinema)
 - Blender → ComfyUI pipeline architecture (depth pass, ControlNet conditioning)
 - Multi-model orchestration (local GPU + cloud hybrid)
-- AI-assisted post-production (FCP, DaVinci, automated ours)
-- Agent-driven creative workflows
+- Post-documentary methodology — imaging events that left no footage
 
 ---
 
 ### Open source
 
-Production-grade tools and research. Working documents, not tutorials.
-
 - **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** — 70+ ComfyUI workflows for professional cinema. Honest stability ratings. Hybrid local/cloud architecture.
+- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal)** — Nodes for loading Blender EXR depth/normal passes for ControlNet temporal conditioning.
 - **[open-source-cinema](https://github.com/12georgiadis/open-source-cinema)** — RAW video with hacked cameras. Magic Lantern, open hardware, agent-driven editing.
 - **[filmmaker-ai-brain](https://github.com/12georgiadis/filmmaker-ai-brain)** — Manifesto and roadmap for a persistent AI memory system for filmmakers.
 - **[method](https://github.com/12georgiadis/method)** — How and why I work with machines. Position, influences, liquid writing.
@@ -40,8 +37,8 @@ Production-grade tools and research. Working documents, not tutorials.
 
 | | |
 |---|---|
-| *The Goldberg Variations* | Hybrid feature on online identity — in development (Villa Albertine 2026) |
-| *Virus* | Hybrid feature on cybercrime infrastructure — in development |
+| *The Goldberg Variations* | Feature — online identity construction. In development (Villa Albertine 2026) |
+| *Virus* | Feature — cybercrime infrastructure. In development |
 | *Maalbeek* | César 2022, Semaine de la Critique Cannes |
 | *Swatted* | Special Jury Prize Clermont-Ferrand, Oscar Qualified |
 | *Ondes noires* | Grand Prix Regensburg, Prix Clermont-Ferrand |
