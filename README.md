@@ -10,26 +10,30 @@ The AI pipelines I build are not a style. They are a method for imaging what can
 
 ### What I build
 
-AI/generative pipelines for cinema production — not hobbyist workflows. The hard problem in AI cinema is temporal consistency across a full shot: keeping hair, clothes, micro-details coherent frame by frame. That's what the architecture below solves.
+AI/generative pipelines for cinema production — not hobbyist workflows. The hard problem in AI cinema is temporal consistency across a full shot: keeping hair, clothes, micro-details coherent frame by frame, at feature film length.
 
-**Stack:** ComfyUI · Blender (depth/normal passes → ControlNet) · Wan 2.2 · LTX-2 · Flux.1 · Gaussian Splatting · Unreal Engine 5 · DaVinci Resolve · Final Cut Pro · Claude Code / MCP
+Most AI video tools ignore this problem. This architecture solves it by routing Blender 3D geometry data — depth and normal passes — into ComfyUI as ControlNet conditioning, frame by frame, for entire shots.
 
-**Specialties:**
-- Temporal consistency for long-form video (the hard problem in AI cinema)
-- Blender → ComfyUI pipeline architecture (depth pass, ControlNet conditioning)
-- Multi-model orchestration (local GPU + cloud hybrid)
-- Post-documentary methodology — imaging events that left no footage
+**Stack:** ComfyUI · Blender · Wan 2.2 · LTX-2 · Flux.1 · Gaussian Splatting · Unreal Engine 5 · DaVinci Resolve · Final Cut Pro · Claude Code / MCP
 
 ---
 
 ### Open source
 
-- **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** — 70+ ComfyUI workflows for professional cinema. Honest stability ratings. Hybrid local/cloud architecture.
-- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal)** — Nodes for loading Blender EXR depth/normal passes for ControlNet temporal conditioning.
+Production tools and research. Honest stability ratings. Working documents, not tutorials.
+
+- **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** — 70+ ComfyUI workflows for professional cinema. What works, what doesn't, and why. Hybrid local/cloud architecture.
+- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal)** — Custom nodes for loading Blender EXR depth/normal passes as ControlNet conditioning. AI-assisted development.
 - **[open-source-cinema](https://github.com/12georgiadis/open-source-cinema)** — RAW video with hacked cameras. Magic Lantern, open hardware, agent-driven editing.
-- **[filmmaker-ai-brain](https://github.com/12georgiadis/filmmaker-ai-brain)** — Manifesto and roadmap for a persistent AI memory system for filmmakers.
+- **[filmmaker-ai-brain](https://github.com/12georgiadis/filmmaker-ai-brain)** — Architecture for a persistent AI memory system built around a filmmaker's practice.
 - **[method](https://github.com/12georgiadis/method)** — How and why I work with machines. Position, influences, liquid writing.
 - **[claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow)** — Non-developer filmmaker using Claude Code daily. Real config, specs-driven development, MCP integrations.
+
+---
+
+### Writing
+
+Research and analysis on AI in cinema production — system prompts, deepfake history, iPhone filmmaking, 3D pipeline architecture. Forthcoming on Substack.
 
 ---
 
@@ -49,7 +53,7 @@ Production: [Films Grand Huit](http://filmsgrandhuit.com/en/author/ismael-joffro
 
 ### Available for
 
-R&D consultation · AI pipeline architecture for productions · Creative direction on generative projects · Workshops (ComfyUI, AI cinema, creative technology)
+AI pipeline architecture for productions · Artistic direction on generative projects · Creative technology consulting · Workshops (ComfyUI, AI cinema, post-documentary methodology)
 
 **Contact:** [ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com)
 
