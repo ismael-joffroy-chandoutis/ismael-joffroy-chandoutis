@@ -22,7 +22,7 @@ AI/generative pipelines for cinema production — not hobbyist workflows. The ha
 
 Most AI video tools ignore this problem. This architecture solves it by routing Blender 3D geometry data — depth and normal passes — into ComfyUI as ControlNet conditioning, frame by frame, for entire shots.
 
-**Stack:** ComfyUI · Flux · Gemini · Claude · Blender · Final Cut Pro · Gaussian Splatting · Unreal Engine 5 · DaVinci Resolve
+**Stack:** ComfyUI · Flux · Gemini · Claude Code · Blender · Final Cut Pro · Gaussian Splatting · Unreal Engine 5
 
 ---
 
@@ -30,16 +30,12 @@ Most AI video tools ignore this problem. This architecture solves it by routing 
 
 Production tools and research. Honest stability ratings. Working documents, not tutorials.
 
-- **[vhs-ai-pipeline](https://github.com/12georgiadis/vhs-ai-pipeline)** — Analyze hours of archive footage (VHS, Hi8, miniDV) with Gemini. Export colored markers to Final Cut Pro. Built for documentary filmmakers.
-- **[comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)** — 70+ ComfyUI workflows for professional cinema. What works, what doesn't, and why. Hybrid local/cloud architecture.
-- **[filmmaker-tools](https://github.com/12georgiadis/filmmaker-tools)** — Claude Code skills for filmmakers: screenplay analysis, narrative visualization, coverage generation, story development.
-- **[claude-power-hooks](https://github.com/12georgiadis/claude-power-hooks)** — Power-user hooks for Claude Code: push notifications, auto tab naming, dynamic tmux layout for multi-agent workflows.
-- **[claude-remote-access-guide](https://github.com/12georgiadis/claude-remote-access-guide)** — Every way to run Claude Code remotely from iPhone, MacBook, or any device — compared.
-- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal)** — Custom nodes for Blender EXR depth/normal passes as ControlNet temporal conditioning.
+- **[claude-code-filmmaker](https://github.com/12georgiadis/claude-code-filmmaker)** — How a filmmaker uses Claude Code daily. Config, 14 patterns, hooks, remote access. Not a tutorial.
+- **[ai-cinema-method](https://github.com/12georgiadis/ai-cinema-method)** — AI as artistic method. Position, research, memory architecture. 10 production methods, 6 project case studies.
+- **[cinema-ai-toolkit](https://github.com/12georgiadis/cinema-ai-toolkit)** — Documentary AI toolkit: voice repair, VHS analysis with Gemini, FCP workflows, OCR for handwritten documents.
+- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal)** — Custom ComfyUI nodes for Blender EXR depth/normal passes as ControlNet temporal conditioning.
 - **[open-source-cinema](https://github.com/12georgiadis/open-source-cinema)** — RAW video with hacked cameras. Magic Lantern, open hardware, agent-driven editing.
-- **[ai-cinema-research](https://github.com/12georgiadis/ai-cinema-research)** — AI methods in cinema production: spatial reconstruction, LoRA fine-tuning, real-time diffusion pipelines.
-- **[filmmaker-ai-brain](https://github.com/12georgiadis/filmmaker-ai-brain)** — Architecture for a persistent AI memory system built around a filmmaker's practice.
-- **[method](https://github.com/12georgiadis/method)** — How and why I work with machines. Position, influences, liquid writing.
+- **[agent-viewer](https://github.com/12georgiadis/agent-viewer)** — Kanban board for managing Claude Code agents in tmux sessions.
 
 ---
 
