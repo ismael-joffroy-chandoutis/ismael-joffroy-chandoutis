@@ -139,10 +139,20 @@ Non gelées dans `pinokiofactory`, mais publiées par des acteurs établis ci-de
 - **Critère d'inclusion :** vérifié OU publisher identifié + actif + historique fiable.
 - **Critère d'exclusion :** script anonyme / one-shot non audité → reste « community, à vos risques ».
 
-### Pour mettre à jour
-Relancer une passe de recherche (org pinokiofactory triée par stars + profils des acteurs
-ci-dessus), comparer au tableau, ajouter les nouveautés et rafraîchir les ⭐ + la date.
-Je peux automatiser ce rafraîchissement sur une cadence régulière (ex. hebdo) si tu veux.
+### Pour mettre à jour — depuis n'importe quel appareil
+Le repo embarque une **commande slash** : depuis Claude (web, mobile, desktop, CLI)
+connecté à ce repo, tape simplement :
+
+```
+/pinokio-update
+```
+
+Elle exécute tout le playbook en autonomie (scan `pinokiofactory` trié par stars + profils
+des acteurs fiables → édition du fichier → commit/push → PR avec résumé). Ajoute `--no-pr`
+pour mettre à jour le fichier sans ouvrir de PR.
+
+Le playbook complet vit dans [`.claude/commands/pinokio-update.md`](.claude/commands/pinokio-update.md).
+Pour un rafraîchissement **planifié** (sans intervention), voir [`MAINTENANCE.md`](MAINTENANCE.md).
 
 ---
 
