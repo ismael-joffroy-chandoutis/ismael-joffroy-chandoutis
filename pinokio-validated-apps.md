@@ -4,7 +4,7 @@
 > **vérifiées officiellement** par Cocktail Peanut (le créateur de Pinokio), soit
 > parce qu'elles sont publiées par des **membres établis et actifs** de la communauté.
 >
-> **Dernière mise à jour : 2026-05-31**
+> **Dernière mise à jour : 2026-05-31** (passe automatique `/pinokio-update`)
 
 ---
 
@@ -40,8 +40,11 @@ fonctionnent. À suivre / sources de confiance pour découvrir de nouvelles apps
 | **Morpheus** (`@morpheus` / `6morpheus6`) | TTS, vidéo GPU-poor, voix — ~99 publications | [Profil Pinokio](https://beta.pinokio.co/u/morpheus) |
 | **PierrunoYT** | TTS / voice cloning prolifique (DramaBox, OmniVoice, LuxTTS…) | [GitHub](https://github.com/PierrunoYT) |
 | **mrbizarro** (`bizarro`) | Vidéo/image générative locale sur Apple Silicon | [Phosphene](https://beta.pinokio.co/apps/github-com-mrbizarro-phosphene) |
+| **theinaog** | TTS low-VRAM (VoxCPM — synthèse multilingue tokenizer-free + voice cloning) | [beta.pinokio.co](https://beta.pinokio.co/) |
+| **krynsky** | Outils média (ReClip — downloader vidéo/audio self-hosted, UI web) | [beta.pinokio.co](https://beta.pinokio.co/) |
 | **IAnMove** | TTS multilingue low-VRAM (VoxCPM) | profil Pinokio |
-| holandeb · gujjubhai · dimz · clawt · theinaog · digifxron · krynsky | Contributeurs récurrents vus en page d'accueil Pinokio | [beta.pinokio.co](https://beta.pinokio.co/) |
+| holandeb · gujjubhai · dimz · clawt · digifxron | Contributeurs récurrents vus en page d'accueil Pinokio | [beta.pinokio.co](https://beta.pinokio.co/) |
+| _À vérifier_ : maoper · supersoniquestudio · itouch44 | Publishers vus récemment en vedette, à confirmer (activité/historique) | [beta.pinokio.co](https://beta.pinokio.co/) |
 
 > Pour valider un nouvel acteur : présence sur le Discord Pinokio, historique de repos
 > qui marchent, et idéalement des scripts repris dans `pinokiofactory`.
@@ -72,6 +75,9 @@ de la maj.)
 | [pyramidflow](https://github.com/pinokiofactory/pyramidflow) | PyramidFlow txt2vid | — |
 | [Allegro-txt2vid-install](https://github.com/pinokiofactory/Allegro-txt2vid-install) | Allegro txt2vid (lent, 12GB+ VRAM) | — |
 | [facepoke](https://github.com/pinokiofactory/facepoke) | Manipulation de visage | 18 |
+| [hunyuanvideo](https://github.com/pinokiofactory/hunyuanvideo) | HunyuanVideo génération vidéo | 18 |
+| [ai-video-composer](https://github.com/pinokiofactory/ai-video-composer) | Composition vidéo assistée par IA | 17 |
+| [hallo](https://github.com/pinokiofactory/hallo) | Animation de portrait pilotée par l'audio | 13 |
 
 ### Audio / TTS / voix
 | App | Description | ⭐ |
@@ -81,18 +87,28 @@ de la maj.)
 | [openaudio](https://github.com/pinokiofactory/openaudio) | OpenAudio | 27 |
 | [Nari-Dia-TTS](https://github.com/pinokiofactory/Nari-Dia-TTS) | TTS basé Dia-1.6B (Nari Labs) | 34 |
 | [Orpheus-TTS-FastAPI](https://github.com/pinokiofactory/Orpheus-TTS-FastAPI) | Orpheus TTS via FastAPI | 21 |
+| [diffrhythm](https://github.com/pinokiofactory/diffrhythm) | DiffRhythm — génération musicale | 19 |
+| [yue](https://github.com/pinokiofactory/yue) | YuE — génération de chansons (paroles + voix) | 18 |
+| [StyleTTS2_Studio](https://github.com/pinokiofactory/StyleTTS2_Studio) | Crée ta propre voix StyleTTS 2 | 12 |
+| [whisper-webui](https://github.com/pinokiofactory/whisper-webui) | Installer Whisper-WebUI (transcription/sous-titres) | 12 |
+| [MMAudio](https://github.com/pinokiofactory/MMAudio) | Génération audio synchronisée à la vidéo | 12 |
+| [mlx-video-transcription](https://github.com/pinokiofactory/mlx-video-transcription) | Transcription vidéo (MLX, Apple Silicon) | 13 |
 | [zonos](https://github.com/pinokiofactory/zonos) · [dia](https://github.com/pinokiofactory/dia) | TTS additionnels | — |
 
 ### 3D
 | App | Description | ⭐ |
 |---|---|---|
 | [Hunyuan3d-2-lowvram](https://github.com/pinokiofactory/Hunyuan3d-2-lowvram) | Hunyuan3D 2 en low VRAM | 22 |
+| [TRELLIS](https://github.com/pinokiofactory/TRELLIS) | Génération 3D (Microsoft TRELLIS) | 18 |
 
 ### LLM / dev / divers
 | App | Description | ⭐ |
 |---|---|---|
-| [comfy](https://github.com/pinokiofactory/comfy) | ComfyUI packagé | 26 |
 | [bolt](https://github.com/pinokiofactory/bolt) | Bolt (dev assistant) | 59 |
+| [comfy](https://github.com/pinokiofactory/comfy) | ComfyUI packagé | 26 |
+| [openui](https://github.com/pinokiofactory/openui) | OpenUI — génère des interfaces depuis une description | 19 |
+| [open-webui](https://github.com/pinokiofactory/open-webui) | Open WebUI — interface de chat LLM self-hosted | 18 |
+| [macOS-use](https://github.com/pinokiofactory/macOS-use) | Rend les apps macOS accessibles aux agents IA | 13 |
 
 > Catalogue complet : **[github.com/orgs/pinokiofactory/repositories](https://github.com/orgs/pinokiofactory/repositories?type=all&sort=stargazers)** (~100 repos vérifiés).
 
@@ -107,7 +123,7 @@ Non gelées dans `pinokiofactory`, mais publiées par des acteurs établis ci-de
 - **Kokoro-TTS-Multilingual** — TTS multilingue rapide, 54 voix / 8 langues
 - **IndexTTS-2** — TTS zero-shot expressif, contrôle de durée
 - **Whisper-WebUI** — sous-titrage via Whisper
-- **Forge Neo** — SD WebUI léger (Flux & co., NVIDIA)
+- **Forge Neo** — SD WebUI léger (Flux & Qwen, NVIDIA)
 - **X-Voice / XVoice** — TTS 27 langues, un seul speaker
 - **Kokoro-FastAPI** — wrapper API pour KokoroTTS (intègre Open-WebUI)
 - **Sam3D** — meshes 3D de poses corporelles depuis des images
@@ -123,12 +139,17 @@ Non gelées dans `pinokiofactory`, mais publiées par des acteurs établis ci-de
 ### mrbizarro
 - **[Phosphene](https://beta.pinokio.co/apps/github-com-mrbizarro-phosphene)** — vidéo/image générative locale + entraînement visage/voix in-app (Apple Silicon)
 
-### IAnMove
-- **VoxCPM** — TTS multilingue + voice cloning, faible mémoire
+### theinaog (anc. attribué à IAnMove)
+- **VoxCPM** — TTS multilingue tokenizer-free + voice cloning, faible VRAM
+
+### krynsky
+- **ReClip** — downloader vidéo/audio self-hosted open-source, UI web propre, multi-plateformes
 
 ### Cocktail Peanut (en page d'accueil, hors org)
-- **Stable Audio 3**, **HiDream O1 Image FP8**, **ds4-webui** (DeepSeek V4 Flash, Metal),
-  **Overworld** (générateur de monde temps réel) — toutes signées de l'auteur de Pinokio.
+- **Stable Audio 3** — launcher Stable Audio 3 (musique / SFX)
+- **HiDream O1 Image FP8** — génération d'image (NVIDIA CUDA)
+- **WorldMirror 2.0** — reconstruction 3D depuis HY-World 2.0 (NVIDIA, PyTorch + gsplat)
+- **ds4-webui** — DeepSeek V4 Flash (Metal) · **Overworld** — générateur de monde temps réel
 
 ---
 
