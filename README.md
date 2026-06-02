@@ -1,66 +1,66 @@
 ## Ismaël Joffroy Chandoutis
 
-Filmmaker & artist working at the intersection of cinema, contemporary art and AI.
+Filmmaker and artist at the intersection of cinema, contemporary art and AI. I move between documentary, fiction and animation, in hybrid and experimental forms: film, immersive installation, performance.
 
-I make films about things that leave no footage — online identities, cybercrime infrastructure, digital events that happened without witnesses.
+I make films about things that leave no footage: online identities, cybercrime infrastructure, digital events that happened without witnesses. My documentary gesture takes hybrid forms, probing the invisible and the unspeakable of the digital.
 
-The AI pipelines I build are not a style. They are a method for imaging what cannot be filmed.
+The latent space has become my documentary territory, where singular traces of the real contaminate the generative models. The AI I work with is not a style and not a tool. It is a method for imaging what cannot be filmed.
 
-**César 2022** best short documentary. Selected at **Cannes** (Semaine de la Critique), **Clermont-Ferrand**, **IDFA**, **Hot Docs**, **Annecy**. Honorary Mention **Ars Electronica**. Associate artist **Centquatre-Paris**. Alumnus **Le Fresnoy** and **INSAS**.
+**César 2022** for Best Documentary Short (*Maalbeek*). Selected at the Semaine de la Critique (Cannes), Annecy, IDFA, Clermont-Ferrand, Hot Docs. Honorary Mention at Ars Electronica. Prix Révélation Art Numérique (ADAGP). *Maalbeek* in the City of Paris contemporary art collection. Associate artist at the **Centquatre-Paris** since 2022. Resident at **Villa Albertine**. Alumnus of **Le Fresnoy** and **INSAS**.
 
 ---
 
 ### Currently
 
-**The Goldberg Variations** — Feature documentary on Joshua Ryne Goldberg, an online identity construction case. Researching at **Villa Albertine 2026** (New York · Miami · Los Angeles).
+**The Goldberg Variations.** Hybrid feature film on Joshua Ryne Goldberg, a case of online identity construction. Developed during a Villa Albertine residency (New York, Miami, Los Angeles), 2026.
 
-**Virus** — Feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented. OSINT methodology, forensic reconstruction, bulletproof hosting networks.
+**Virus.** Hybrid feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented. OSINT methodology, forensic reconstruction, bulletproof hosting networks. In development.
 
-**Spectre** — A unified AI intelligence layer across all machines. One memory, one context, distributed across MacBook · Mac Mini · Windows GPU. Claude Code as operating system.
-
----
-
-### Research lab
-
-Current experiments. Working documents, not finished tools.
-
-- Temporal consistency in AI cinema — routing Blender depth/normal passes into ComfyUI as ControlNet conditioning, frame by frame, at feature length
-- OSINT & investigative methodology for documentary — open-source intelligence, network mapping, digital forensics as film research
-- Steganography & media provenance — hiding and detecting information in image/audio for post-deepfake documentary ethics
-- Agent systems as creative infrastructure — LLM personas as research collaborators, not assistants
+**Spectre.** A personal research project. A unified AI layer across my machines: one memory, one context, distributed over multiple workstations, Windows and Mac, with Claude Code as the orchestration layer.
 
 ---
 
-### What I build
+### Method
 
-**Stack:** ComfyUI · Flux · Gemini · Claude Code · Blender · Final Cut Pro · Gaussian Splatting · Unreal Engine 5
+Not a filmmaker who uses AI, but an artist whose method is computational and whose material is documentary. I practice a form of permacomputing: open-source models running locally, on my own machines, fine-tuned on datasets I capture in the field, rather than prompts sent to a closed platform. The author stays in the loop, deciding what to keep and what to reject. The research is the work.
 
-- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal)** — Custom nodes for Blender EXR depth/normal as ControlNet temporal conditioning
-- **[claude-code-filmmaker](https://github.com/12georgiadis/claude-code-filmmaker)** — How a filmmaker uses Claude Code daily. Config, patterns, hooks, remote access
-- **[ai-cinema-method](https://github.com/12georgiadis/ai-cinema-method)** — AI as artistic method. Position, research, memory architecture
-- **[cinema-ai-toolkit](https://github.com/12georgiadis/cinema-ai-toolkit)** — Voice repair, VHS analysis with Gemini, FCP workflows, OCR for handwritten documents
-- **[stegg-lab](https://github.com/12georgiadis/stegg-lab)** — Steganography toolkit. Hide secrets in images, text, audio. Post-deepfake provenance research
-- **[storycurve](https://github.com/12georgiadis/storycurve)** — D3.js nonlinear narrative visualization
-- **[agent-viewer](https://github.com/12georgiadis/agent-viewer)** — Kanban for Claude Code agents in tmux
+- Latent space as documentary territory: training models on singular traces of the real
+- Cinema without a camera: intervening in the interstices of image generation
+- Photogrammetry, point clouds, game engines and deepfake as plastic materials and metaphors, not effects
+- Media provenance and the production of the real in the post-truth era
 
 ---
 
-### Films
+### Open research
+
+Working documents, not finished tools. Notes from a practice changing faster than it can be documented.
+
+- **[deep-research](https://github.com/12georgiadis/deep-research):** Essays from inside an AI-native creative practice
+- **[ai-cinema-method](https://github.com/12georgiadis/ai-cinema-method):** AI as artistic method. Position, research, memory architecture
+- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal):** Blender depth and normal passes as temporal conditioning for AI cinema
+- **[stegg-lab](https://github.com/12georgiadis/stegg-lab):** Steganography and media provenance for post-deepfake documentary
+- **[cinema-ai-toolkit](https://github.com/12georgiadis/cinema-ai-toolkit):** Voice repair, archive analysis, OCR, tools built for real productions
+- **[storycurve](https://github.com/12georgiadis/storycurve):** Visualizing nonlinear narrative
+
+---
+
+### Films and video art
 
 | | |
 |---|---|
-| *The Goldberg Variations* | Feature · online identity construction · Villa Albertine 2026 |
-| *Virus* | Feature · cybercrime infrastructure · in development |
-| *Maalbeek* | César 2022 · Semaine de la Critique Cannes |
-| *Swatted* | Special Jury Prize Clermont-Ferrand · Oscar Qualified |
-| *Ondes noires* | Grand Prix Regensburg · Prix Clermont-Ferrand |
-
-Production: [Films Grand Huit](http://filmsgrandhuit.com)
+| *The Goldberg Variations* | Hybrid feature, in development, Villa Albertine 2026 |
+| *Virus* | Hybrid feature, in development |
+| *Rewild* | Immersive video installation, Biennale NÉMO 2025, Centquatre-Paris |
+| *Madotsuki_the_dreamer* | Immersive video installation, 2023, FRAC PACA |
+| *Virtual Kintsugi* | Generative video installation, 2022, Musée Granet collection |
+| *Maalbeek* | Short, 2020, César 2022, Semaine de la Critique Cannes |
+| *Swatted* | Short, 2018, Honorary Mention Ars Electronica, Oscar-qualifying |
+| *Ondes noires* | Short, 2017, Grand Prix Regensburg |
 
 ---
 
 ### Available for
 
-AI pipeline architecture · Generative project direction · Creative technology consulting · Workshops (ComfyUI · AI cinema · post-documentary methodology)
+Artistic direction. Auteur AI work. Research-creation collaborations. Talks and workshops (AI cinema, post-documentary methodology).
 
 [ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) · [Hugging Face](https://huggingface.co/12georgiadis) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDB](https://www.imdb.com/name/nm5604010/)
