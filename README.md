@@ -49,8 +49,8 @@ Working documents, not finished tools. Notes from a practice changing faster tha
 | | |
 |---|---|
 | *Rewild* | Video installation, Biennale NÉMO 2025, Centquatre-Paris |
-| *Mémoires fractales* | Photo series and video installation, 2024 |
-| *Madostuki_the_dreamer* | Generative video installation, 2023, Le Port des Créateurs, Toulon |
+| *Mémoires fractales* | Photo series and video installation, in progress |
+| *Madostuki_the_dreamer* | Generative video installation, 2023. Videoformes, Le Port des Créateurs, Biennale NÉMO |
 | *Virtual Kintsugi* | Generative video installation, 2023, Musée Granet collection |
 | *Deep Forensic* | Photographic series, 2022 |
 | *Maalbeek* | Short film, 2020, César 2022, Semaine de la Critique Cannes |
