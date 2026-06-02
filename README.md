@@ -48,19 +48,20 @@ Working documents, not finished tools. Notes from a practice changing faster tha
 
 | | |
 |---|---|
-| *The Goldberg Variations* | Hybrid feature, in development, Villa Albertine 2026 |
-| *Virus* | Hybrid feature, in development |
-| *Rewild* | Immersive video installation, Biennale NÉMO 2025, Centquatre-Paris |
-| *Madotsuki_the_dreamer* | Immersive video installation, 2023, FRAC PACA |
-| *Virtual Kintsugi* | Generative video installation, 2022, Musée Granet collection |
-| *Maalbeek* | Short, 2020, César 2022, Semaine de la Critique Cannes |
-| *Swatted* | Short, 2018, Honorary Mention Ars Electronica, Oscar-qualifying |
-| *Ondes noires* | Short, 2017, Grand Prix Regensburg |
+| *Rewild* | Video installation, Biennale NÉMO 2025, Centquatre-Paris |
+| *Mémoires fractales* | Photo series and video installation, 2024 |
+| *Madostuki_the_dreamer* | Generative video installation, 2023, Le Port des Créateurs, Toulon |
+| *Virtual Kintsugi* | Generative video installation, 2023, Musée Granet collection |
+| *Deep Forensic* | Photographic series, 2022 |
+| *Maalbeek* | Short film, 2020, César 2022, Semaine de la Critique Cannes |
+| *Amnesia* | Digital image series, 2019 |
+| *Swatted* | Short film, 2018, Honorary Mention Ars Electronica, Oscar-qualifying |
+| *Ondes noires* | Short film, 2017, Grand Prix Regensburg |
 
 ---
 
 ### Available for
 
-Artistic direction. Auteur AI work. Research-creation collaborations. Talks and workshops (AI cinema, post-documentary methodology).
+Artistic direction. Auteur AI work. Film consulting. Research-creation collaborations. Talks and workshops (AI cinema, post-documentary methodology).
 
 [ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) · [Hugging Face](https://huggingface.co/12georgiadis) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDB](https://www.imdb.com/name/nm5604010/)
