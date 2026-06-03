@@ -47,7 +47,9 @@ Working documents, not finished tools.
 
 | | |
 |---|---|
-| *Rewild* | Video installation, Biennale NÉMO 2025, Centquatre-Paris |
+| *The Goldberg Variations* | Hybrid feature, in development, Villa Albertine 2026 |
+| *Virus* | Hybrid feature, in development |
+| *Rewild* | Video installation, ongoing, Biennale NÉMO 2025, Centquatre-Paris |
 | *Mémoires fractales* | Photo series and video installation, in progress |
 | *Madostuki_the_dreamer* | Generative video installation, 2023. Videoformes, Le Port des Créateurs, Biennale NÉMO |
 | *Virtual Kintsugi* | Generative video installation, 2023, Musée Granet collection |
