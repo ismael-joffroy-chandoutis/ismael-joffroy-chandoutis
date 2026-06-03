@@ -6,17 +6,17 @@ I make films about things that leave no footage: online identities, cybercrime i
 
 The latent space has become my documentary territory, where singular traces of the real contaminate the generative models. The AI I work with is not a style and not a tool. It is a method for imaging what cannot be filmed.
 
-César 2022 for Best Documentary Short (*Maalbeek*). Selected at the Semaine de la Critique (Cannes), Annecy, IDFA, Clermont-Ferrand and Hot Docs. Honorary Mention at Ars Electronica. Prix Révélation Art Numérique (ADAGP). *Maalbeek* in the City of Paris contemporary art collection. Associate artist at the Centquatre-Paris since 2022. Resident at Villa Albertine. Alumnus of Le Fresnoy and INSAS.
+**César 2022** for Best Documentary Short (*Maalbeek*). Selected at the Semaine de la Critique (Cannes), Annecy, IDFA, Clermont-Ferrand and Hot Docs. Honorary Mention at Ars Electronica. Prix Révélation Art Numérique (ADAGP). *Maalbeek* in the City of Paris contemporary art collection. Associate artist at the **Centquatre-Paris** since 2022. Resident at **Villa Albertine**. Alumnus of **Le Fresnoy** and **INSAS**.
 
 ---
 
 ### Currently
 
-*The Goldberg Variations*. Hybrid feature film on Joshua Ryne Goldberg, a case of online identity construction. Developed at Villa Albertine, 2026.
+**The Goldberg Variations.** Hybrid feature film on Joshua Ryne Goldberg, a case of online identity construction. Developed at Villa Albertine, 2026.
 
-*Virus*. Hybrid feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented. In development.
+**Virus.** Hybrid feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented. In development.
 
-*Spectre*. A personal research project: a unified AI layer across my machines, one memory and one context over multiple workstations, Windows and Mac, with Claude Code as the orchestration layer.
+**Spectre.** A personal research project: a unified AI layer across my machines, one memory and one context over multiple workstations, Windows and Mac, with Claude Code as the orchestration layer.
 
 ---
 
@@ -35,11 +35,11 @@ Not a filmmaker who uses AI, but an artist whose method is computational and who
 
 Working documents, not finished tools.
 
-- [deep-research](https://github.com/12georgiadis/deep-research): essays from inside an AI-native practice
-- [ai-cinema-method](https://github.com/12georgiadis/ai-cinema-method): AI as artistic method
-- [comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal): Blender passes as temporal conditioning for AI cinema
-- [stegg-lab](https://github.com/12georgiadis/stegg-lab): steganography and media provenance for post-deepfake documentary
-- [storycurve](https://github.com/12georgiadis/storycurve): visualizing nonlinear narrative
+- **[deep-research](https://github.com/12georgiadis/deep-research):** essays from inside an AI-native practice
+- **[ai-cinema-method](https://github.com/12georgiadis/ai-cinema-method):** AI as artistic method
+- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal):** Blender passes as temporal conditioning for AI cinema
+- **[stegg-lab](https://github.com/12georgiadis/stegg-lab):** steganography and media provenance for post-deepfake documentary
+- **[storycurve](https://github.com/12georgiadis/storycurve):** visualizing nonlinear narrative
 
 ---
 
