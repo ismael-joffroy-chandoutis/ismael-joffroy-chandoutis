@@ -1,7 +1,7 @@
 # La Chine : l'angle mort du dossier — autre technofascisme ou autre chose ?
 
 > Rapport de recherche documenté. Rédigé le 5 juin 2026. Sources en fin de document.
-> Volet 15 : le dossier était jusqu'ici 100 % occidentalo-centré ; la Chine n'y figurait que comme épouvantail rhétorique (« la course contre la Chine »). Ce volet documente l'écosystème réel, l'idéologie d'État, la gouvernance, les penseurs — et pose la question : **le modèle chinois relève-t-il du « technofascisme » au sens du volet 13, ou d'autre chose ?**
+> Volet 15 : le dossier était jusqu'ici 100 % occidentalo-centré ; la Chine n'y figurait que comme épouvantail rhétorique (« la course contre la Chine »). Ce volet documente l'écosystème réel, l'idéologie d'État, la gouvernance, les penseurs, et pose la question : **le modèle chinois relève-t-il du « technofascisme » au sens du volet 13, ou d'autre chose ?**
 > Claims-clés vérifiés par contre-recherche adversariale (dates, chiffres, citations confirmés).
 
 ---
@@ -53,7 +53,7 @@ L'architecture idéologique chinoise est l'exact inverse structurel de celle du 
 | 15 août 2023 | Mesures intérimaires IA générative (CAC + 6 agences) | Première régulation contraignante au monde sur l'IA générative ; « valeurs socialistes fondamentales » obligatoires |
 | 14 mars 2025 (en vigueur 1er sept. 2025) | Mesures d'étiquetage des contenus IA | Premier régime national obligatoire d'identification des médias synthétiques (labels explicites + watermark dans les métadonnées) |
 
-À comparer : les États-Unis de 2025-2026 ont abrogé l'EO Biden, renommé leur Safety Institute, tenté un moratoire sur les lois des États (volet 17). **L'asymétrie est réelle mais son sens est ambivalent** : la régulation chinoise est d'abord un instrument de contrôle politique du contenu (censure), pas une protection des citoyens contre l'État. Elle prouve en revanche qu'un État *peut* contraindre ses champions nationaux quand il le veut — l'argument « réguler est impossible » est démenti par le pays le plus avancé après les US.
+À comparer : les États-Unis de 2025-2026 ont abrogé l'EO Biden, renommé leur Safety Institute, tenté un moratoire sur les lois des États (volet 17). **L'asymétrie est réelle mais son sens est ambivalent** : la régulation chinoise est d'abord un instrument de contrôle politique du contenu (censure), pas une protection des citoyens contre l'État. Elle prouve en revanche qu'un État *peut* contraindre ses champions nationaux quand il le veut, l'argument « réguler est impossible » est démenti par le pays le plus avancé après les US.
 
 - **Sommets** : la Chine signe à Bletchley (2023), ne signe PAS la déclaration de Séoul (2024), signe à Paris (février 2025) la déclaration « IA inclusive et durable » que les US et le UK refusent. Élévation diplomatique constante (vice-ministre à Bletchley → vice-Premier ministre à Paris). Aucun soutien documenté à un traité contraignant.
 - **Signaux** : Xi et Biden actent (novembre 2024) que l'IA ne doit pas contrôler l'arme nucléaire ; le plénum de juillet 2024 liste les risques IA aux côtés des biorisques.
@@ -74,7 +74,7 @@ Découverte structurante pour le volet 11 (qui traitait le camp prudence comme p
 Deux penseurs sinophones, **indépendants** (pas des idéologues d'État), qui déplacent le débat :
 
 - **Yuk Hui** (Hong Kong, Erasmus Rotterdam) : concepts de **cosmotechnique** et **technodiversité**. Il n'existe pas UNE technologie universelle ; chaque cosmologie engendre son propre rapport à la technique. Sa critique frappe des deux côtés : l'universalisme de la Silicon Valley ET la fusion militaro-civile chinoise partagent le même monisme technologique. Conférence « In Defence of Technodiversity » (Glasgow, mars 2025) : accélération et décélération sont la même impasse. Développé au volet 19.
-- **Zhao Tingyang** (Académie chinoise des sciences sociales) : réinvention du **Tianxia** (« tout sous le ciel ») ; talk de juin 2025 sur « les limites éthiques de l'IA » avec une inversion provocatrice du paradigme occidental : aligner l'IA sur les valeurs humaines serait un « suicide d'espèce », la nature humaine étant égoïste et cruelle. *(Sources : analyses citant ses talks en chinois, pas de littérature relue par les pairs — confiance moyenne.)*
+- **Zhao Tingyang** (Académie chinoise des sciences sociales) : réinvention du **Tianxia** (« tout sous le ciel ») ; talk de juin 2025 sur « les limites éthiques de l'IA » avec une inversion provocatrice du paradigme occidental : aligner l'IA sur les valeurs humaines serait un « suicide d'espèce », la nature humaine étant égoïste et cruelle. *(Sources : analyses citant ses talks en chinois, pas de littérature relue par les pairs, confiance moyenne.)*
 
 Fait notable : **aucun idéologue chinois assumant un « technofascisme »** au sens du dossier n'a été identifié. Le discours d'État reste « modernisation socialiste » et « communauté de destin » ; les équivalents fonctionnels de Yarvin ou Land n'ont pas pignon sur rue à Pékin.
 
@@ -85,7 +85,7 @@ La grille du volet 13 (Paxton/Eco/Stanley) appliquée aux deux modèles donne ce
 | | **Modèle US 2025-26** | **Modèle chinois** |
 |---|---|---|
 | Moteur | Capital privé capturant l'État (« Thielverse ») | Parti-État subordonnant le capital privé |
-| Idéologie | e/acc, NRx, longtermisme — privées, concurrentes | « Modernisation socialiste », officielle, unique |
+| Idéologie | e/acc, NRx, longtermisme, privées, concurrentes | « Modernisation socialiste », officielle, unique |
 | Surveillance | Privée (Palantir) vendue à l'État | D'État (crédit social, Xinjiang) imposée au privé |
 | Régulation des labs | Démantelée (2025-26) | Dure mais orientée contrôle du contenu |
 | Discours international | « We totally reject global governance of AI » | Multilatéralisme ONU, WAICO, « rhinocéros gris » |
@@ -101,20 +101,20 @@ La grille du volet 13 (Paxton/Eco/Stanley) appliquée aux deux modèles donne ce
 ## 8. Sources
 
 **DeepSeek et écosystème**
-- [IISS — DeepSeek's release of an open-weight frontier AI model](https://www.iiss.org/publications/strategic-comments/2025/04/deepseeks-release-of-an-open-weight-frontier-ai-model/) · [Epoch AI — What went into training DeepSeek R1](https://epoch.ai/gradient-updates/what-went-into-training-deepseek-r1)
-- [CNBC — Nvidia sheds almost $600 billion](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html) · [The Register — coûts d'entraînement](https://www.theregister.com/2025/09/19/deepseek_cost_train/) · [CNN — Nature publication](https://www.cnn.com/2025/09/19/business/deepseek-ai-training-cost-china-intl)
-- [PIIE — How the AI boom shrugged off the DeepSeek shock](https://www.piie.com/blogs/realtime-economics/2026/how-ai-boom-shrugged-deepseek-shock-and-keeps-gaining-steam) · [USCC — « Two Loops » (mars 2026)](https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf) · [Xinhua — Qwen 700M](https://english.news.cn/20260113/)
+- [IISS, DeepSeek's release of an open-weight frontier AI model](https://www.iiss.org/publications/strategic-comments/2025/04/deepseeks-release-of-an-open-weight-frontier-ai-model/) · [Epoch AI, What went into training DeepSeek R1](https://epoch.ai/gradient-updates/what-went-into-training-deepseek-r1)
+- [CNBC, Nvidia sheds almost $600 billion](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html) · [The Register, coûts d'entraînement](https://www.theregister.com/2025/09/19/deepseek_cost_train/) · [CNN, Nature publication](https://www.cnn.com/2025/09/19/business/deepseek-ai-training-cost-china-intl)
+- [PIIE, How the AI boom shrugged off the DeepSeek shock](https://www.piie.com/blogs/realtime-economics/2026/how-ai-boom-shrugged-deepseek-shock-and-keeps-gaining-steam) · [USCC, « Two Loops » (mars 2026)](https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf) · [Xinhua, Qwen 700M](https://english.news.cn/20260113/)
 
 **Gouvernance et idéologie d'État**
-- [China Briefing — Mesures intérimaires IA générative](https://www.china-briefing.com/news/how-to-interpret-chinas-first-effort-to-regulate-generative-ai-measures/) · [Bird & Bird — règles d'étiquetage 2025 vs AI Act](https://www.twobirds.com/en/insights/2025/new-ai-content-labelling-rules-in-china-what-are-they-and-how-do-they-compare-to-the-eu-ai-act)
-- [SCMP — discours Ding Xuexiang à Davos](https://www.scmp.com/news/china/diplomacy/article/3295705/) · [Mission chinoise à l'ONU — texte officiel](https://un.china-mission.gov.cn/eng/zgyw/202501/t20250122_11543099.htm)
-- [MFA — Action Plan WAIC juillet 2025](https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202507/t20250729_11679232.html) · [CIGI — China's AI governance initiative](https://www.cigionline.org/articles/chinas-ai-governance-initiative-and-its-geopolitical-ambitions/) · [Gov.cn — plan AI+](https://english.www.gov.cn/policies/latestreleases/202508/27/content_WS68ae7976c6d0868f4e8f51a0.html) · [Trivium China](https://triviumchina.com/2025/08/04/)
-- [CSET — Military-Civil Fusion](https://cset.georgetown.edu/publication/pulling-back-the-curtain-on-chinas-military-civil-fusion/)
+- [China Briefing, Mesures intérimaires IA générative](https://www.china-briefing.com/news/how-to-interpret-chinas-first-effort-to-regulate-generative-ai-measures/) · [Bird & Bird, règles d'étiquetage 2025 vs AI Act](https://www.twobirds.com/en/insights/2025/new-ai-content-labelling-rules-in-china-what-are-they-and-how-do-they-compare-to-the-eu-ai-act)
+- [SCMP, discours Ding Xuexiang à Davos](https://www.scmp.com/news/china/diplomacy/article/3295705/) · [Mission chinoise à l'ONU, texte officiel](https://un.china-mission.gov.cn/eng/zgyw/202501/t20250122_11543099.htm)
+- [MFA, Action Plan WAIC juillet 2025](https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202507/t20250729_11679232.html) · [CIGI, China's AI governance initiative](https://www.cigionline.org/articles/chinas-ai-governance-initiative-and-its-geopolitical-ambitions/) · [Gov.cn, plan AI+](https://english.www.gov.cn/policies/latestreleases/202508/27/content_WS68ae7976c6d0868f4e8f51a0.html) · [Trivium China](https://triviumchina.com/2025/08/04/)
+- [CSET, Military-Civil Fusion](https://cset.georgetown.edu/publication/pulling-back-the-curtain-on-chinas-military-civil-fusion/)
 
 **Camp prudence chinois et penseurs**
-- [Carnegie — How some of China's top AI thinkers built their own AI safety institute](https://carnegieendowment.org/research/2025/06/how-some-of-chinas-top-ai-thinkers-built-their-own-ai-safety-institute) · [DigiChina Stanford — China's new AI safety institute](https://digichina.stanford.edu/work/what-do-we-know-about-chinas-new-ai-safety-institute/)
-- [MIRI — Promising signals on AI governance from China (avril 2026)](https://intelligence.org/2026/04/06/promising-signals-on-ai-governance-from-china/)
-- [Yuk Hui — Wikipedia](https://en.wikipedia.org/wiki/Yuk_Hui) · [Zhao Tingyang et l'alignement (analyse)](https://russwilcoxdata.substack.com/p/and-the-alignment-problem-what-chinas)
+- [Carnegie, How some of China's top AI thinkers built their own AI safety institute](https://carnegieendowment.org/research/2025/06/how-some-of-chinas-top-ai-thinkers-built-their-own-ai-safety-institute) · [DigiChina Stanford, China's new AI safety institute](https://digichina.stanford.edu/work/what-do-we-know-about-chinas-new-ai-safety-institute/)
+- [MIRI, Promising signals on AI governance from China (avril 2026)](https://intelligence.org/2026/04/06/promising-signals-on-ai-governance-from-china/)
+- [Yuk Hui, Wikipedia](https://en.wikipedia.org/wiki/Yuk_Hui) · [Zhao Tingyang et l'alignement (analyse)](https://russwilcoxdata.substack.com/p/and-the-alignment-problem-what-chinas)
 
 ### Voir aussi
-[Volet 13 — Techno-fascisme : anatomie d'un concept](./techno-fascisme-anatomie-concept.md) · [Volet 16 — L'empire matériel](./empire-materiel-sud-global-compute.md) · [Volet 17 — Le pont natsec](./pont-natsec-doomers-faucons.md) · [Volet 19 — Les troisièmes voies](./troisiemes-voies-ia.md)
+[Volet 13, Techno-fascisme : anatomie d'un concept](./techno-fascisme-anatomie-concept.md) · [Volet 16, L'empire matériel](./empire-materiel-sud-global-compute.md) · [Volet 17, Le pont natsec](./pont-natsec-doomers-faucons.md) · [Volet 19, Les troisièmes voies](./troisiemes-voies-ia.md)

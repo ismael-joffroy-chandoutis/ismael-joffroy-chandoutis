@@ -71,16 +71,16 @@ Pour que ce ne soit pas un seul réquisitoire, il faut le contre-champ théoriqu
 ## 8. Sources
 
 **Pronatalisme et la coalition**
-- [NPR — What is pronatalism, Musk and Vance](https://www.npr.org/2025/04/25/nx-s1-5371718/pronatalist-birth-rate-musk-natal-conference) · [OPB — pronatalism, beneath the surface](https://www.opb.org/article/2025/04/25/what-is-pronatalism-and-what-role-do-musk-and-vance-have-with-it/) · [Columbia Political Review — Selective Gestation: The Racial Politics of American Pronatalism](http://www.cpreview.org/articles/2025/6/selective-gestation-the-racial-politics-of-american-pronatalism)
+- [NPR, What is pronatalism, Musk and Vance](https://www.npr.org/2025/04/25/nx-s1-5371718/pronatalist-birth-rate-musk-natal-conference) · [OPB, pronatalism, beneath the surface](https://www.opb.org/article/2025/04/25/what-is-pronatalism-and-what-role-do-musk-and-vance-have-with-it/) · [Columbia Political Review, Selective Gestation: The Racial Politics of American Pronatalism](http://www.cpreview.org/articles/2025/6/selective-gestation-the-racial-politics-of-american-pronatalism)
 
 **Collins, sélection d'embryons, Natal Con**
-- [HOPE not hate — Breed or Die: Inside Pronatalism](https://investigations.hopenothate.org.uk/inside-pronatalism/) · [HOPE not hate — The Superbaby Factory](https://investigations.hopenothate.org.uk/superbaby-factory/) · [Simone and Malcolm Collins — Wikipedia](https://en.wikipedia.org/wiki/Simone_and_Malcolm_Collins)
+- [HOPE not hate, Breed or Die: Inside Pronatalism](https://investigations.hopenothate.org.uk/inside-pronatalism/) · [HOPE not hate, The Superbaby Factory](https://investigations.hopenothate.org.uk/superbaby-factory/) · [Simone and Malcolm Collins, Wikipedia](https://en.wikipedia.org/wiki/Simone_and_Malcolm_Collins)
 
 **Contre-champ**
-- [Data Feminism (D'Ignazio & Klein, MIT Press)](https://data-feminism.mitpress.mit.edu/) · [Donna Haraway — A Cyborg Manifesto](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto)
+- [Data Feminism (D'Ignazio & Klein, MIT Press)](https://data-feminism.mitpress.mit.edu/) · [Donna Haraway, A Cyborg Manifesto](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto)
 
 ### Note de méthode
 Faits datés vérifiés sur presse (NPR, OPB) et enquêtes (HOPE not hate, Columbia Political Review). La nuance est explicite : le couplage natalité + sélection + cadrage civilisationnel est documenté, la natalité en général n'est pas mise en cause. Le contre-champ féministe est inclus pour éviter le réquisitoire à sens unique.
 
 ### Voir aussi
-[Volet 4 — Transhumanisme × crypto](./transhumanisme-crypto-convergences.md) · [Volet 16 — L'empire matériel (travail genré)](./empire-materiel-sud-global-compute.md) · [Volet 28 — Eugénisme et TESCREAL](./eugenisme-tescreal-filiation.md) · [Volet 13 — Anatomie du techno-fascisme](./techno-fascisme-anatomie-concept.md)
+[Volet 4, Transhumanisme × crypto](./transhumanisme-crypto-convergences.md) · [Volet 16, L'empire matériel (travail genré)](./empire-materiel-sud-global-compute.md) · [Volet 28, Eugénisme et TESCREAL](./eugenisme-tescreal-filiation.md) · [Volet 13, Anatomie du techno-fascisme](./techno-fascisme-anatomie-concept.md)

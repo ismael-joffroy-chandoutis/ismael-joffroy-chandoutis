@@ -39,7 +39,7 @@ Andreessen liste **Nick Land** comme « saint patron du techno-optimisme ». Mai
 
 Dans les années 1990, Land co-fonde à Warwick le **CCRU (Cybernetic Culture Research Unit)** avec la philosophe cyberféministe **Sadie Plant**. Le collectif mêle **occultisme, cybernétique, science-fiction et philosophie poststructuraliste** pour penser l'**accélération techno-capitaliste**. En gravitaient **Mark Fisher** (futur auteur de *Capitalist Realism*), Kodwo Eshun, Steve Goodman (Kode9).
 
-Concept clé : la **« hyperstition »** (mot-valise *hyper* + *superstition*) — une idée qui, **par le seul fait d'exister comme idée, provoque sa propre réalisation**. (Ex. : une prophétie auto-réalisatrice technologique.)
+Concept clé : la **« hyperstition »** (mot-valise *hyper* + *superstition*), une idée qui, **par le seul fait d'exister comme idée, provoque sa propre réalisation**. (Ex. : une prophétie auto-réalisatrice technologique.)
 
 > Détail important : le CCRU était à l'origine un milieu **expérimental et plutôt de gauche** (Mark Fisher en sortira un accélérationnisme **de gauche**). Land en tirera, lui, une version **d'extrême droite**.
 
@@ -50,7 +50,7 @@ Concept clé : la **« hyperstition »** (mot-valise *hyper* + *superstition*) �
 Pour Land, **l'accélérationnisme est la conscience que le capitalisme a de lui-même**. Le techno-capitalisme fonctionne comme une **boucle de rétroaction positive** qui mène le monde soit au « rapture » (extase), soit au « rupture » (rupture).
 
 - Le **capitalisme = une intelligence artificielle** en gestation : un processus impersonnel de **déterritorialisation** qui dissout les structures sociales humaines pour atteindre une **singularité technologique**.
-- Concept de **« teleoplexy »** : l'**intelligence composée du capital** qui s'auto-augmente — Land écarte l'idée (chère aux accélérationnistes de gauche) que le capitalisme s'autodétruirait.
+- Concept de **« teleoplexy »** : l'**intelligence composée du capital** qui s'auto-augmente, Land écarte l'idée (chère aux accélérationnistes de gauche) que le capitalisme s'autodétruirait.
 - Posture **anti-humaniste radicale** : il ne s'agit pas de mettre la technologie au service de l'humain, mais de laisser le **capital-machine** suivre sa propre téléologie, **par-delà l'humain**.
 
 C'est la matrice théorique dont **l'« effective accelerationism » (e/acc)** d'Andreessen & co est une version **optimiste et grand public** (Land lui-même juge l'e/acc trop naïf).
@@ -60,7 +60,7 @@ C'est la matrice théorique dont **l'« effective accelerationism » (e/acc)** d
 ## 5. Le tournant réactionnaire : Dark Enlightenment
 
 Après son effondrement, Land réémerge comme penseur de la **droite radicale**. Sa série de billets **« The Dark Enlightenment »** (vers 2012-2013) et son blog **Xenosystems** fondent, avec **Curtis Yarvin (Mencius Moldbug)**, le courant **néo-réactionnaire (NRx)** :
-- **Rejet de l'égalitarisme et de la démocratie** (« la démocratie tend au fascisme/à l'effondrement » — argument retourné contre la démocratie elle-même).
+- **Rejet de l'égalitarisme et de la démocratie** (« la démocratie tend au fascisme/à l'effondrement », argument retourné contre la démocratie elle-même).
 - Préférence pour une **gouvernance technocratique, voire le « gouvernement par la technologie »** comme force débridée, ou un **État géré comme une entreprise** (CEO-monarque, idée partagée avec Yarvin).
 - Influence mutuelle Land ↔ Yarvin.
 
@@ -68,7 +68,7 @@ Après son effondrement, Land réémerge comme penseur de la **droite radicale**
 
 ## 6. La controverse race/QI
 
-Point central et accablant : Land a passé beaucoup de temps sur les sites de **« human biodiversity » (HBD)** — nom contemporain du **racialisme pseudo-scientifique**. Il y soutient que :
+Point central et accablant : Land a passé beaucoup de temps sur les sites de **« human biodiversity » (HBD)**, nom contemporain du **racialisme pseudo-scientifique**. Il y soutient que :
 (a) les « races » existent comme catégories biologiques,
 (b) elles auraient des **QI différents**,
 (c) ce serait la cause des écarts de résultats sociaux.
@@ -84,17 +84,17 @@ Land est un **nœud de diffusion** de l'idéologie néo-réactionnaire vers la S
 - Influence (via Yarvin) sur **JD Vance** (VP), **Peter Thiel**, **Steve Bannon**, **Michael Anton** (planification politique sous Trump).
 - Fournit la **caution « philosophique »** au passage d'un libertarianisme tech vers un **techno-autoritarisme** assumé.
 
-> **Ce que ça implique :** là où Marinetti apporte l'**esthétique** (vitesse, violence, machine), Land apporte la **théorie politique** : l'idée que le **capital-technologie doit transcender la démocratie et l'humain**. Le citer en « saint », c'est — volontairement ou non — légitimer le corpus le plus explicitement anti-démocratique et raciste de la galaxie tech. Les défenseurs parlent de provocation intellectuelle ; les critiques, de fenêtre d'Overton qu'on déplace.
+> **Ce que ça implique :** là où Marinetti apporte l'**esthétique** (vitesse, violence, machine), Land apporte la **théorie politique** : l'idée que le **capital-technologie doit transcender la démocratie et l'humain**. Le citer en « saint », c'est, volontairement ou non, légitimer le corpus le plus explicitement anti-démocratique et raciste de la galaxie tech. Les défenseurs parlent de provocation intellectuelle ; les critiques, de fenêtre d'Overton qu'on déplace.
 
 ---
 
 ## 8. Sources
 
-- [Nick Land — Wikipedia](https://en.wikipedia.org/wiki/Nick_Land)
-- [Dark Enlightenment — Wikipedia](https://en.wikipedia.org/wiki/Dark_Enlightenment)
-- [Reality Studies — « What is Accelerationism? » (Land, Fisher, e/acc)](https://www.realitystudies.co/p/what-is-accelerationism-effective-eacc-nick-land-mark-fisher)
-- [The Spectator — « In conversation with Nick Land, the father of accelerationism »](https://spectator.com/article/in-conversation-with-nick-land-the-father-of-accelerationism/)
-- [Jules Evans — « Accelerationism, amphetamine philosophy, and the Death Trip »](https://julesevans.medium.com/accelerationism-amphetamine-philosophy-and-the-death-trip-bb67ff079f8)
-- [boundary2 — Robert Topinka, « The Alt-Right and the Uncanny Form of Racism »](https://www.boundary2.org/2019/10/robert-topinka-back-to-a-past-that-was-futuristic-the-alt-right-and-the-uncanny-form-of-racism/)
-- [ResetDOC — « Curtis Yarvin, Nick Land and the Dark Utopia of the New Radical Right »](https://www.resetdoc.org/story/curtis-yarvin-nick-land-black-utopia-of-new-radical-right/)
-- [retrochronic.com — « Nick Land: Capitalism is AI »](https://retrochronic.com/)
+- [Nick Land, Wikipedia](https://en.wikipedia.org/wiki/Nick_Land)
+- [Dark Enlightenment, Wikipedia](https://en.wikipedia.org/wiki/Dark_Enlightenment)
+- [Reality Studies, « What is Accelerationism? » (Land, Fisher, e/acc)](https://www.realitystudies.co/p/what-is-accelerationism-effective-eacc-nick-land-mark-fisher)
+- [The Spectator, « In conversation with Nick Land, the father of accelerationism »](https://spectator.com/article/in-conversation-with-nick-land-the-father-of-accelerationism/)
+- [Jules Evans, « Accelerationism, amphetamine philosophy, and the Death Trip »](https://julesevans.medium.com/accelerationism-amphetamine-philosophy-and-the-death-trip-bb67ff079f8)
+- [boundary2, Robert Topinka, « The Alt-Right and the Uncanny Form of Racism »](https://www.boundary2.org/2019/10/robert-topinka-back-to-a-past-that-was-futuristic-the-alt-right-and-the-uncanny-form-of-racism/)
+- [ResetDOC, « Curtis Yarvin, Nick Land and the Dark Utopia of the New Radical Right »](https://www.resetdoc.org/story/curtis-yarvin-nick-land-black-utopia-of-new-radical-right/)
+- [retrochronic.com, « Nick Land: Capitalism is AI »](https://retrochronic.com/)

@@ -85,16 +85,16 @@ C'est précisément le glissement à documenter. Antonio Regalado (MIT Tech Revi
 ## 8. Sources
 
 **Bostrom**
-- [The Verge — Bostrom apology for racist email](https://www.theverge.com/2023/1/12/23552922/nick-bostrom-apology-racist-email-controversy) · [Nick Bostrom — « Existential Risks » (2002, dysgenic pressures)](https://nickbostrom.com/existential/risks)
+- [The Verge, Bostrom apology for racist email](https://www.theverge.com/2023/1/12/23552922/nick-bostrom-apology-racist-email-controversy) · [Nick Bostrom, « Existential Risks » (2002, dysgenic pressures)](https://nickbostrom.com/existential/risks)
 
 **Manifest / Lighthaven / HBD**
-- [The Guardian — investigation (relayée)](https://forum.effectivealtruism.org/posts/E8zZxPnAkmLSRNfTx/against-the-guardian-s-hit-piece-on-manifest) · [Reflective Altruism — Human biodiversity (Part 2: Manifest)](https://reflectivealtruism.com/2024/06/27/human-biodiversity-part-2-manifest/) · [EA Forum — My experience at the controversial Manifest 2024](https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the-controversial-manifest-2024) · [Quillette — In Defence of Manifest 2024](https://quillette.com/2024/06/19/enemies-of-free-thought-manifest-2024-jason-wilson-ali-winston/)
+- [The Guardian, investigation (relayée)](https://forum.effectivealtruism.org/posts/E8zZxPnAkmLSRNfTx/against-the-guardian-s-hit-piece-on-manifest) · [Reflective Altruism, Human biodiversity (Part 2: Manifest)](https://reflectivealtruism.com/2024/06/27/human-biodiversity-part-2-manifest/) · [EA Forum, My experience at the controversial Manifest 2024](https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the-controversial-manifest-2024) · [Quillette, In Defence of Manifest 2024](https://quillette.com/2024/06/19/enemies-of-free-thought-manifest-2024-jason-wilson-ali-winston/)
 
 **TESCREAL / eugénisme 2.0 / Collins**
-- [TESCREAL — Wikipedia (Gebru/Torres)](https://en.wikipedia.org/wiki/TESCREAL) · [HOPE not hate — The Superbaby Factory](https://investigations.hopenothate.org.uk/superbaby-factory/) · [Simone and Malcolm Collins — Wikipedia](https://en.wikipedia.org/wiki/Simone_and_Malcolm_Collins) · [Columbia Political Review — Selective Gestation](http://www.cpreview.org/articles/2025/6/selective-gestation-the-racial-politics-of-american-pronatalism)
+- [TESCREAL, Wikipedia (Gebru/Torres)](https://en.wikipedia.org/wiki/TESCREAL) · [HOPE not hate, The Superbaby Factory](https://investigations.hopenothate.org.uk/superbaby-factory/) · [Simone and Malcolm Collins, Wikipedia](https://en.wikipedia.org/wiki/Simone_and_Malcolm_Collins) · [Columbia Political Review, Selective Gestation](http://www.cpreview.org/articles/2025/6/selective-gestation-the-racial-politics-of-american-pronatalism)
 
 ### Note de méthode
 Les trois niveaux (individus / infrastructure / logique structurelle) sont tenus séparés. Les démentis (Austin Chen, Habryka, Quillette, Collins) sont inclus dans le corps. Le volet nomme explicitement ceux qui ne sont pas dans le filon (Yudkowsky, Bengio, EA caritatif). La thèse Gebru/Torres est présentée comme thèse, pas comme fait.
 
 ### Voir aussi
-[Volet 11 — Camp prudence (Bostrom)](./camp-prudence-bengio-bostrom-yudkowsky.md) · [Volet 12 — Glossaire (TESCREAL)](./glossaire-critique-concepts.md) · [Volet 13 — Anatomie du techno-fascisme](./techno-fascisme-anatomie-concept.md) · [Volet 29 — Genre, masculinité, pronatalisme](./genre-masculinite-pronatalisme.md)
+[Volet 11, Camp prudence (Bostrom)](./camp-prudence-bengio-bostrom-yudkowsky.md) · [Volet 12, Glossaire (TESCREAL)](./glossaire-critique-concepts.md) · [Volet 13, Anatomie du techno-fascisme](./techno-fascisme-anatomie-concept.md) · [Volet 29, Genre, masculinité, pronatalisme](./genre-masculinite-pronatalisme.md)

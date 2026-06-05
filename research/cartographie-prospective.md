@@ -35,10 +35,10 @@
 ```mermaid
 graph TD
     subgraph CAPITAL["💰 Capital-risque"]
-        A16Z["a16z — Andreessen & Horowitz"]
-        FF["Founders Fund — Thiel"]
-        SEQ["Sequoia — Botha"]
-        CRAFT["Craft Ventures — Sacks"]
+        A16Z["a16z, Andreessen & Horowitz"]
+        FF["Founders Fund, Thiel"]
+        SEQ["Sequoia, Botha"]
+        CRAFT["Craft Ventures, Sacks"]
     end
 
     subgraph ORIGINE["🌱 Matrices"]
@@ -47,16 +47,16 @@ graph TD
     end
 
     subgraph POUVOIR["🏛️ État (2025-2026)"]
-        VANCE["JD Vance — VP"]
-        MUSK["Musk — DOGE"]
-        SACKS["Sacks — czar IA/crypto"]
-        PCAST["Andreessen — PCAST"]
+        VANCE["JD Vance, VP"]
+        MUSK["Musk, DOGE"]
+        SACKS["Sacks, czar IA/crypto"]
+        PCAST["Andreessen, PCAST"]
     end
 
     subgraph INFRA["🛰️ Infrastructure / Authoritarian Stack"]
-        PLTR["Palantir — données/surveillance"]
-        ANDURIL["Anduril — drones/défense"]
-        XAI["xAI / OpenAI — IA"]
+        PLTR["Palantir, données/surveillance"]
+        ANDURIL["Anduril, drones/défense"]
+        XAI["xAI / OpenAI, IA"]
     end
 
     subgraph IDEO["📚 Idéologues"]
@@ -111,12 +111,12 @@ graph LR
 ## 4. Qui dirige réellement ? Le « Thielverse » au pouvoir
 
 La donnée centrale de 2025-2026 : **le réseau né de PayPal a pris pied dans l'État**.
-- **JD Vance** (vice-président) — protégé de Thiel, fonds Narya financé par Thiel & Andreessen, idées puisées chez Yarvin.
-- **Elon Musk** — a dirigé le **DOGE** (coupes dans l'administration).
-- **David Sacks** — **« czar » IA & crypto** de la Maison-Blanche.
-- **Marc Andreessen** — conseiller, nommé au **PCAST** (2026).
-- **Thiel** — aurait placé **≥ 10 proches** dans l'administration.
-- **Palantir** — contrat US Army **~10 Md$** (2025).
+- **JD Vance** (vice-président), protégé de Thiel, fonds Narya financé par Thiel & Andreessen, idées puisées chez Yarvin.
+- **Elon Musk**, a dirigé le **DOGE** (coupes dans l'administration).
+- **David Sacks**, **« czar » IA & crypto** de la Maison-Blanche.
+- **Marc Andreessen**, conseiller, nommé au **PCAST** (2026).
+- **Thiel**, aurait placé **≥ 10 proches** dans l'administration.
+- **Palantir**, contrat US Army **~10 Md$** (2025).
 
 Ce n'est plus du lobbying : c'est une **fusion partielle entre capital tech et appareil d'État**, ce que des analystes nomment **« Authoritarian Stack »** (cloud + IA + finance + drones + satellites) ou **« oligarchie technologique »** (Oxfam).
 
@@ -127,8 +127,8 @@ Ce n'est plus du lobbying : c'est une **fusion partielle entre capital tech et a
 ## 5. Les axes structurants
 
 Tout le champ se lit sur **trois axes** :
-1. **Accélérer ↔ Sécuriser** (e/acc vs EA) — la faille majeure sur l'IA.
-2. **Sortir de l'État ↔ Capturer l'État** (network state/exit vs Thielverse au pouvoir) — tension entre l'éthos cypherpunk anti-État et la réalité 2025 d'une fusion avec l'État.
+1. **Accélérer ↔ Sécuriser** (e/acc vs EA), la faille majeure sur l'IA.
+2. **Sortir de l'État ↔ Capturer l'État** (network state/exit vs Thielverse au pouvoir), tension entre l'éthos cypherpunk anti-État et la réalité 2025 d'une fusion avec l'État.
 3. **Égalitaire ↔ Aristocratique** (rhétorique « pro-humain » d'Andreessen vs nietzschéisme assumé de Thiel/Yarvin).
 
 La **trajectoire observée** : déplacement vers **Accélérer + Capturer l'État + Aristocratique**.
@@ -173,7 +173,7 @@ Le plus vraisemblable est un **mélange A + D** (oligarchie au centre, enclaves 
 2. **L'idéologie n'est pas décorative** : elle **précède et justifie** les décisions (Thiel cite Girard ; Andreessen, Marinetti ; Vance, Yarvin). La prendre au sérieux est une condition pour la contester.
 3. **Le clivage déterminant des années à venir** n'est pas gauche/droite classique, mais **accélération+concentration du pouvoir** ↔ **prudence+contre-pouvoirs démocratiques**.
 4. **L'Europe** apparaît comme le principal **contrepoids institutionnel** ; l'enjeu est de savoir si elle régule sans renoncer à l'innovation.
-5. **La meilleure boussole citoyenne** : refuser le faux choix « techno-optimisme béat vs techno-pessimisme ». La position défendable est l'**innovation couplée à la démocratie, au pluralisme, à l'éthique et à l'écologie** — exactement ce que les manifestes étudiés évacuent.
+5. **La meilleure boussole citoyenne** : refuser le faux choix « techno-optimisme béat vs techno-pessimisme ». La position défendable est l'**innovation couplée à la démocratie, au pluralisme, à l'éthique et à l'écologie**, exactement ce que les manifestes étudiés évacuent.
 
 ---
 

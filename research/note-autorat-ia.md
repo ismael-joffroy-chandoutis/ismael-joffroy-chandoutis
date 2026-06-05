@@ -41,4 +41,4 @@ Ne lisez pas ce dossier comme la parole neutre d'un observateur surplombant. Lis
 ---
 
 ### Voir aussi
-[Synthèse — l'argument du dossier](./00-SYNTHESE-argument.md) · [Volet 14 — « grown, not crafted »](./if-anyone-builds-it-lecture-critique.md) · [Volet 20 — Anthropic, le double discours](./anthropic-double-discours.md) · [Volet 24 — Vectofascisme (l'espace latent comme lieu politique)](./vectofascisme-chatonsky-wark.md)
+[Synthèse, l'argument du dossier](./00-SYNTHESE-argument.md) · [Volet 14, « grown, not crafted »](./if-anyone-builds-it-lecture-critique.md) · [Volet 20, Anthropic, le double discours](./anthropic-double-discours.md) · [Volet 24, Vectofascisme (l'espace latent comme lieu politique)](./vectofascisme-chatonsky-wark.md)
