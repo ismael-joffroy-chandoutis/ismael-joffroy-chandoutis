@@ -79,6 +79,18 @@ Le piège : on suppose que « anti-accélérationniste » = « anti-techno-fasci
 
 **Ce que ça implique :** Yudkowsky est sincèrement anti-accélérationniste, mais sa logique est **technocratique et apocalyptique**, pas démocratique. Le **rationalisme** est la composante **R** de TESCREAL — et, ironie de l'histoire, c'est le **même terreau (LessWrong, la Bay Area)** d'où sont sortis aussi bien les *doomers* que des néo-réactionnaires. Vouloir « arrêter l'IA » au nom de l'extinction ne fait pas de lui un défenseur de la démocratie ou un adversaire du pouvoir oligarchique.
 
+### 4.1 Approfondissement (FAQ)
+
+**D'où vient-il ?** Né le **11 septembre 1979 à Chicago**, dans une famille **juive orthodoxe** (deuxième prénom *Shlomo*). **Autodidacte total** : ni lycée, ni université. Transhumaniste assumé (inscrit pour la cryogénisation).
+
+**Est-il fasciste ?** **Non — plutôt l'inverse.** Il **rejette explicitement** le néoréactionnaire (NRx) et « méprise » les néoréactionnaires, au point de **refuser d'en débattre** ; il trouve leur politique raciste « dégoûtante ». Origine juive + libertarien-transhumaniste = à l'opposé de l'idéologie fasciste. **Le paradoxe :** la sous-culture qu'il a fondée (LessWrong / Overcoming Bias) a servi de **terreau d'incubation** à la NRx — **Curtis Yarvin** a émergé dans ces cercles rationalistes. Yudkowsky est donc **anti-fasciste à titre personnel**, mais sa culture est la **« culture-hôte »** d'où une partie du techno-autoritarisme est sortie. Son « danger » n'est pas le fascisme : c'est une logique **technocratique non démocratique**.
+
+**Crédible sans diplôme ?** Crédibilité **contestée**. Pas de recherche évaluée par les pairs, pas de système d'IA fonctionnel ; ses chiffres (P(doom) ≈ 100 %) sont jugés « absurdement élevés » **même dans l'EA**. Sa légitimité est **subculturelle et médiatique** (LessWrong, best-seller NYT 2025, Time100 AI), **pas scientifique** — d'où le contraste avec **Bengio** (Prix Turing, qui *fait* l'IA). Sans diplôme on peut **influencer**, beaucoup plus difficilement **faire autorité**.
+
+**Bourgeois ?** Pas au sens classique : aucune fortune héritée documentée. Sa vraie catégorie est l'**intellectuel sous mécénat** — carrière financée par des patrons : couple **Atkins** (2000), **Peter Thiel** (≥ 1,6 M$, + le Singularity Summit ; Thiel s'en désintéresse vers 2015), puis l'**altruisme efficace / Open Philanthropy**. Dépendance gênante : **le même argent (Thiel) a financé et la "prudence" (Yudkowsky) et l'accélération/NRx (Yarvin)** — la critique de l'IA en partie **payée par ceux qu'elle prétend freiner** (cf. capture réglementaire, §5).
+
+> Sources complémentaires : [Wikipedia — Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) · [Eruditorum Press — « Neoreaction, Rationalism, and Yudkowsky »](https://www.eruditorumpress.com/blog/neoreaction-rationalism-and-eliezer-yudkowsky) · [New Savanna — « Thiel's second thoughts about funding Yudkowsky »](https://new-savanna.blogspot.com/2023/01/peter-thiels-second-thoughts-about.html)
+
 ---
 
 ## 5. L'altruisme efficace (EA) : contre-pouvoir ou capture ?

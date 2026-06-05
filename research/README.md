@@ -19,7 +19,8 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 8 | [**Hiérarchie pouvoir & influence (2026)**](./hierarchie-pouvoir-influence.md) | Classement chiffré + pyramide : qui pèse le plus aujourd'hui |
 | 9 | [**Portraits individuels**](./portraits-individuels.md) | Fiches : Musk, Altman, Vance, Karp, Yarvin, Balaji |
 | 10 | [**Contre-pouvoirs**](./contre-pouvoirs.md) | Europe (AI Act/DSA/DMA), antitrust, critiques (Doctorow, Varoufakis, Zuboff), opinion publique |
-| 11 | [**Camp « prudence IA » : Bengio, Bostrom, Yudkowsky**](./camp-prudence-bengio-bostrom-yudkowsky.md) | Portraits + analyse : vrai contre-pouvoir ou faux ami ? EA = capture réglementaire ? |
+| 11 | [**Camp « prudence IA » : Bengio, Bostrom, Yudkowsky**](./camp-prudence-bengio-bostrom-yudkowsky.md) | Portraits + analyse : vrai contre-pouvoir ou faux ami ? EA = capture réglementaire ? (+ FAQ Yudkowsky : origines, fasciste ?, crédibilité, mécénat) |
+| 12 | [**Glossaire critique : concepts décodés**](./glossaire-critique-concepts.md) | Technocratie vs démocratie, transhumanisme, rationalisme, TESCREAL — avec verdict « bullshit ou pas ? » |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
