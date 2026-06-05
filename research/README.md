@@ -29,6 +29,9 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 18 | [**Les maîtres de modèles — portraits 2**](./maitres-de-modeles-portraits-2.md) | Les trois parrains (LeCun/AMI, Bengio/LawZero, Hinton), Amodei le doomer qui accélère, Hassabis, Zuckerberg/Wang, Sutskever, Murati, Mistral, financeurs safety |
 | 19 | [**Les troisièmes voies**](./troisiemes-voies-ia.md) | Sortir du binaire e/acc vs doom : McQuillan (IA et fascisation, decomputing), d/acc (Buterin), accélérationnisme de gauche, Yuk Hui, « normal technology », Public AI, Morozov |
 | 20 | [**Anthropic : le double discours**](./anthropic-double-discours.md) | La semaine des deux discours (IPO 965 Md$ + appel à l'option de pause, juin 2026), Claude Mythos/Glasswing, chronologie 2021-26, RSP abandonnée, lobbying, « vraiment différent d'OpenAI ? », 4 grilles d'interprétation — écrit par Claude sur son fabricant, conflit d'intérêt documenté |
+| 21 | [**La gauche mondiale face à l'IA**](./gauche-mondiale-ia.md) | Sanders/Khanna/Warren, syndicats US (SAG-AFTRA, Teamsters, Memphis), Europe (Mélenchon, Díaz, ETUC, Omnibus), Chine (« absorber + réprimer », 996), Japon/Corée/Inde — les 5 leviers réels |
+| 22 | [**IA, écologie, limites — et le nucléaire**](./ia-ecologie-limites-nucleaire.md) | Chiffres IEA 2026, Limits to Growth (BAU2), Jevons revendiqué par Nadella, « 74 % non prouvé », inventaire nucléaire deal par deal (TMI, SMR, fusion), verdict : un alibi temporel |
+| 23 | [**NVIDIA et Huawei : les deux empires de la puce**](./nvidia-huawei-deux-empires.md) | Le financement circulaire (OpenAI 100→30 Md$, backstops, SPV), dette GPU, Burry/Cisco, CUDA, le double jeu Chine perdu, Huawei full-stack — le banquier central privé vs le champion d'État |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
