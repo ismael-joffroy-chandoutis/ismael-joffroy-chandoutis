@@ -8,6 +8,7 @@
   :root{
     --bg:#0d1117; --panel:#161b22; --line:#2b3340; --text:#e6edf3; --muted:#9da7b3;
     --eacc:#f0883e; --nrx:#d2596e; --crypto:#3fb950; --ea:#58a6ff; --idea:#bc8cff; --power:#e3b341; --infra:#56d4dd;
+    --labs:#ff9bce; --chine:#f85149; --gauche:#9ee87d;
   }
   *{box-sizing:border-box}
   html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
@@ -39,7 +40,7 @@
 <body>
 <header>
   <h1>🗺️ Cartographie de la tech radicale</h1>
-  <span class="sub">Acteurs &amp; idées — Andreessen · Thiel · Musk · e/acc · néo-réaction · crypto · transhumanisme</span>
+  <span class="sub">Acteurs &amp; idées — Andreessen · Thiel · Musk · labs · NVIDIA · Chine · doomers · gauche &amp; 3èmes voies (volets 1-25)</span>
   <div class="legend" id="legend" style="margin-left:auto"></div>
 </header>
 <div class="wrap">
@@ -59,6 +60,9 @@ const FACTIONS={
   idea:{label:"Sources philo / SF",c:getComputedStyle(document.documentElement).getPropertyValue('--idea').trim()},
   power:{label:"Pouvoir d'État (2025-26)",c:getComputedStyle(document.documentElement).getPropertyValue('--power').trim()},
   infra:{label:"Infrastructure",c:getComputedStyle(document.documentElement).getPropertyValue('--infra').trim()},
+  labs:{label:"Maîtres de modèles",c:getComputedStyle(document.documentElement).getPropertyValue('--labs').trim()},
+  chine:{label:"Chine",c:getComputedStyle(document.documentElement).getPropertyValue('--chine').trim()},
+  gauche:{label:"Critiques / gauche / 3èmes voies",c:getComputedStyle(document.documentElement).getPropertyValue('--gauche').trim()},
 };
 // x,y en coordonnées logiques 0..1000 (viewBox)
 const NODES=[
@@ -95,6 +99,28 @@ const NODES=[
   {id:"anduril",label:"Anduril",f:"infra",r:15,x:820,y:360,d:"Drones/défense (Palmer Luckey), financé par Founders Fund."},
   {id:"ai",label:"OpenAI / xAI",f:"infra",r:16,x:300,y:560,d:"IA de pointe — ultra-centralisée (calcul, données, capital), en tension avec l'éthos décentralisé crypto."},
   {id:"state",label:"État US 2025-26",f:"power",r:20,x:560,y:520,d:"Fusion partielle capital-tech / appareil d'État : Vance (VP), Musk (DOGE), Sacks (IA/crypto), Andreessen (PCAST), ≥10 proches de Thiel. « Authoritarian Stack »."},
+  // Maîtres de modèles & silicium (volets 18, 20, 23)
+  {id:"nvidia",label:"NVIDIA / Huang",f:"infra",r:22,x:1050,y:300,d:"~90 % des accélérateurs IA, 5 000 Md$ de capitalisation. Financement circulaire (OpenAI ~30 Md$, CoreWeave, xAI), backstops, dette GPU : le <b>banquier central privé</b> de l'IA. A « évacué » le marché chinois (mai 2026). Volet 23."},
+  {id:"tsmc",label:"TSMC / ASML",f:"infra",r:16,x:1050,y:430,d:"Les deux goulets physiques mondiaux : la fonderie (Taïwan) et la lithographie EUV (Pays-Bas). ASML est aussi lead investor de Mistral. Volets 16, 23."},
+  {id:"anthropic",label:"Anthropic / Amodei",f:"labs",r:20,x:80,y:120,d:"Le « doomer qui accélère » : p(doom) 25 %, IPO à 965 Md$ déposée le 1er juin 2026, appel à « l'option de pause » le 4. RSP abandonnée (fév. 2026), lignes rouges Pentagone réelles. Volets 18, 20."},
+  {id:"lecun",label:"Yann LeCun",f:"labs",r:16,x:62,y:250,d:"La « quatrième position » : anti-doom (« complete B.S. ») ET anti-Trump ET souverainiste européen (AMI Labs, 1,03 Md$). Casse l'équation techno-optimiste = trumpiste. Volet 18."},
+  {id:"bengio",label:"Yoshua Bengio",f:"ea",r:16,x:62,y:430,d:"LawZero (Scientist AI non-agentique), International AI Safety Report 2026 avec son chapitre « concentration of power ». Le contre-pouvoir le plus solide du camp prudence. Volet 18."},
+  {id:"hinton",label:"Geoffrey Hinton",f:"ea",r:15,x:62,y:550,d:"p(doom) 10-20 %, « maternal AI », et la solution en un mot : « Socialism ». Le seul parrain qui relie risque IA et critique du capital. Volet 18."},
+  {id:"safetymoney",label:"Moskovitz / Tallinn",f:"ea",r:14,x:130,y:650,d:"Coefficient Giving (ex-Open Philanthropy) + Survival and Flourishing Fund : ~60 % du financement externe de la safety. Le même robinet finance LawZero ET la Série A d'Anthropic. Volet 18."},
+  {id:"aschenbrenner",label:"L. Aschenbrenner",f:"power",r:15,x:990,y:170,d:"« Situational Awareness » (2024) : le doomer devenu faucon devenu hedge fund (1,5 Md$). Le pont entre peur existentielle et course contre Pékin. Volet 17."},
+  {id:"golfe",label:"MGX / QIA (Golfe)",f:"power",r:16,x:990,y:640,d:"L'argent souverain d'Abu Dhabi et du Qatar au capital d'Anthropic (Série G/H) et d'OpenAI. « There is a truly giant amount of capital in the Middle East » (Amodei, mémo fuité). Volets 16, 20."},
+  {id:"buterin",label:"Vitalik Buterin",f:"crypto",r:15,x:990,y:520,d:"d/acc : l'accélération défensive et décentralisée — la troisième voie née de la crypto, contre e/acc ET doom. Volet 19."},
+  // Chine (volets 15, 23)
+  {id:"pekin",label:"Pékin (CAC)",f:"chine",r:18,x:950,y:790,d:"L'État-parti : régule ses plateformes plus durement que Washington, interdit l'achat de NVIDIA (sept. 2025), crée le marché captif de Huawei. Techno-autoritarisme d'État vs technofascisme oligarchique. Volet 15."},
+  {id:"huawei",label:"Huawei",f:"chine",r:18,x:1060,y:860,d:"Le champion full-stack : puce (Ascend), mémoire, framework (CANN open-sourcé contre CUDA), modèles (Pangu), OS (HarmonyOS), cloud, télécoms. Force brute : 4× les watts. Volet 23."},
+  {id:"deepseek",label:"DeepSeek",f:"chine",r:15,x:850,y:860,d:"Janvier 2025 : R1 open-weights pulvérise le récit « le compute US garantit la suprématie » (-589 Md$ pour NVIDIA en un jour). Volet 15."},
+  // Critiques / gauche / troisièmes voies (volets 19, 21, 24)
+  {id:"sanders",label:"Sanders / gauche US",f:"gauche",r:16,x:90,y:800,d:"Robot tax, semaine de 32h, codétermination, moratoire datacenters (avec AOC). Et le front syndical : SAG-AFTRA, Teamsters, NAACP à Memphis. Volet 21."},
+  {id:"hao",label:"Karen Hao",f:"gauche",r:15,x:215,y:845,d:"« Empire of AI » (2025) : l'IA comme empire colonial — mission civilisatrice, extraction, travail du Sud global. Volet 16."},
+  {id:"mcquillan",label:"Dan McQuillan",f:"gauche",r:14,x:95,y:905,d:"« Resisting AI: An Anti-Fascist Approach » : la fascisation par l'IA (tri, exclusion, états d'exception algorithmiques) ; « decomputing ». Volet 19."},
+  {id:"wark",label:"McKenzie Wark",f:"gauche",r:14,x:340,y:855,d:"La classe vectorialiste (A Hacker Manifesto, 2004 ; Capital is Dead, 2019) : ceux qui possèdent les vecteurs de l'information possèdent les capitalistes eux-mêmes. Volet 24."},
+  {id:"chatonsky",label:"G. Chatonsky",f:"gauche",r:15,x:470,y:895,d:"Le <b>vectofascisme</b> : pas les fascistes qui utilisent la technologie, mais les propriétés des espaces vectoriels qui reconfigurent le politique. Ennemis personnalisés, différend industrialisé, esthétique du grotesque. Volet 24."},
+  {id:"yukhui",label:"Yuk Hui",f:"gauche",r:14,x:600,y:860,d:"Cosmotechnique et technodiversité : sortir du face-à-face Valley/Pékin — accélération et décélération sont la même impasse. Volet 19."},
 ];
 const EDGES=[
   ["musk","andreessen"],["andreessen","a16z"],["thiel","ff"],["thiel","karp"],["thiel","palantir"],
@@ -108,9 +134,21 @@ const EDGES=[
   ["vance","state"],["sacks","state"],["musk","state"],["andreessen","state","d"],["palantir","state","d"],
   ["anduril","state","d"],["thiel","state","d"],["yarvin","land"],["bostrom","yud"],["a16z","andreessen"],
   ["ff","thiel"],["hoffman","musk","d"],
+  // Maîtres de modèles & silicium
+  ["nvidia","ai"],["nvidia","state","d"],["tsmc","nvidia"],["tsmc","huawei","d"],["nvidia","huawei","d"],
+  ["anthropic","ai","d"],["anthropic","state","d"],["ff","anthropic"],["anthropic","golfe"],["golfe","ai","d"],
+  ["safetymoney","anthropic","d"],["safetymoney","bengio"],["bengio","hinton","d"],["bengio","lecun","d"],
+  ["lecun","yud","d"],["yud","anthropic","d"],["hinton","yud","d"],
+  ["aschenbrenner","state","d"],["aschenbrenner","yud","d"],["aschenbrenner","palantir","d"],
+  ["buterin","cypherpunks","d"],["buterin","balaji","d"],
+  // Chine
+  ["pekin","huawei"],["pekin","deepseek"],["deepseek","ai","d"],["pekin","state","d"],["pekin","nvidia","d"],
+  // Critiques / gauche / 3èmes voies
+  ["sanders","state","d"],["hao","ai","d"],["wark","chatonsky","d"],["chatonsky","land","d"],
+  ["yukhui","land","d"],["mcquillan","state","d"],["hao","golfe","d"],["sanders","ai","d"],
 ];
 const svg=document.getElementById('svg');
-svg.setAttribute('viewBox','0 0 1000 780');
+svg.setAttribute('viewBox','0 0 1150 1000');
 const NS='http://www.w3.org/2000/svg';
 const byId=Object.fromEntries(NODES.map(n=>[n.id,n]));
 const active=new Set(Object.keys(FACTIONS));
@@ -170,7 +208,7 @@ Object.entries(FACTIONS).forEach(([k,v])=>{
 // Pan
 let panX=0,panY=0,sx,sy,dragging=false;
 const stage=document.getElementById('stage');
-function setView(){svg.setAttribute('viewBox',`${-panX} ${-panY} 1000 780`);}
+function setView(){svg.setAttribute('viewBox',`${-panX} ${-panY} 1150 1000`);}
 stage.addEventListener('mousedown',e=>{if(e.target.closest('.node'))return;dragging=true;sx=e.clientX;sy=e.clientY;});
 window.addEventListener('mousemove',e=>{if(!dragging)return;const k=1000/stage.clientWidth;panX+=(e.clientX-sx)*k;panY+=(e.clientY-sy)*k;sx=e.clientX;sy=e.clientY;setView();});
 window.addEventListener('mouseup',()=>dragging=false);
