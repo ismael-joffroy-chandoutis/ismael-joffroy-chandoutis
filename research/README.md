@@ -17,7 +17,10 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 6 | [**Marinetti — futurisme & fascisme**](./marinetti-futurisme-fascisme.md) | Portrait dédié d'un « saint patron » : biographie, Manifeste futuriste/fasciste, écho techno-optimiste |
 | 7 | [**Nick Land — accélérationnisme**](./nick-land-accelerationnisme.md) | Portrait dédié : CCRU, capitalisme-IA, Dark Enlightenment, controverse race/QI, influence |
 | 8 | [**Hiérarchie pouvoir & influence (2026)**](./hierarchie-pouvoir-influence.md) | Classement chiffré + pyramide : qui pèse le plus aujourd'hui |
+| 9 | [**Portraits individuels**](./portraits-individuels.md) | Fiches : Musk, Altman, Vance, Karp, Yarvin, Balaji |
+| 10 | [**Contre-pouvoirs**](./contre-pouvoirs.md) | Europe (AI Act/DSA/DMA), antitrust, critiques (Doctorow, Varoufakis, Zuboff), opinion publique |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
+| 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
 ## Comment lire la série
 
