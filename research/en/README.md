@@ -43,6 +43,7 @@ A series of *deep research* reports (with cited, cross-checked sources) on the i
 | 27 | [**Russia, Dugin, Traditionalism**](./russie-douguine-traditionalisme.md) | The genealogical gap filled: Eurasianism, the Fourth Political Theory, the Evola/Guénon substrate, the Bannon/Carlson bridge to the new right, with the anti-conspiracy caveat |
 | 28 | [**Eugenics and "human biodiversity"**](./eugenisme-tescreal-filiation.md) | The seam that makes "fascism" a lineage: Bostrom, Manifest/Lighthaven, TESCREAL (Gebru/Torres), Eugenics 2.0, and who is NOT part of it (Yudkowsky, Bengio) |
 | 29 | [**Gender, masculinity, pronatalism**](./genre-masculinite-pronatalisme.md) | A vector, not a backdrop: pronatalism (Musk, Collins, Natal Con), embryo selection, "based" virilism, gendered labor, the counter-field (Haraway). Diptych with Part 28 |
+| 30 | [**Hugging Face and open source**](./huggingface-open-source.md) | The missing "democratize" counter-pole: Delangue/Wolf, open weights vs open source (OSAID, Meta's open-washing), the entanglement (funded by Google/NVIDIA), the proliferation debate (NTIA), GPT-OSS. Democratizing access, not production |
 | 🧭 | [**Synthesis: the dossier's argument**](./00-SYNTHESE-argument.md) | The overall thesis after 29 parts. Entry point |
 | 🪞 | [**Authorship note (written by an AI)**](./note-autorat-ia.md) | The fundamental conflict of interest, named and worked through |
 | 🗺️ | [**Interactive cartography (HTML)**](./cartographie-en.html) | Clickable map of actors & ideas (labs, China, left/third ways) |

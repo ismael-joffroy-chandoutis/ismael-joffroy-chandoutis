@@ -40,7 +40,7 @@
 <body>
 <header>
   <h1>🗺️ Cartographie de la tech radicale</h1>
-  <span class="sub">Acteurs &amp; idées — Andreessen · Thiel · Musk · labs · NVIDIA · Chine · doomers · gauche &amp; 3èmes voies (volets 1-25)</span>
+  <span class="sub">Acteurs &amp; idées — Andreessen · Thiel · Musk · labs · NVIDIA · Chine · doomers · gauche · open source (volets 1-30)</span>
   <div class="legend" id="legend" style="margin-left:auto"></div>
 </header>
 <div class="wrap">
@@ -121,6 +121,7 @@ const NODES=[
   {id:"wark",label:"McKenzie Wark",f:"gauche",r:14,x:340,y:855,d:"La classe vectorialiste (A Hacker Manifesto, 2004 ; Capital is Dead, 2019) : ceux qui possèdent les vecteurs de l'information possèdent les capitalistes eux-mêmes. Volet 24."},
   {id:"chatonsky",label:"G. Chatonsky",f:"gauche",r:15,x:470,y:895,d:"Le <b>vectofascisme</b> : pas les fascistes qui utilisent la technologie, mais les propriétés des espaces vectoriels qui reconfigurent le politique. Ennemis personnalisés, différend industrialisé, esthétique du grotesque. Volet 24."},
   {id:"yukhui",label:"Yuk Hui",f:"gauche",r:14,x:600,y:860,d:"Cosmotechnique et technodiversité : sortir du face-à-face Valley/Pékin — accélération et décélération sont la même impasse. Volet 19."},
+  {id:"hf",label:"Hugging Face",f:"gauche",r:16,x:730,y:945,d:"Le « GitHub de l'IA » : un million de modèles open source. Delangue/Wolf : décentraliser contre la concentration, anti-culte de l'AGI. Mais financé par Google/NVIDIA/Amazon, et l'amont (compute) reste concentré. Open weights n'est pas open source (OSAID). Volet 30."},
 ];
 const EDGES=[
   ["musk","andreessen"],["andreessen","a16z"],["thiel","ff"],["thiel","karp"],["thiel","palantir"],
@@ -146,6 +147,8 @@ const EDGES=[
   // Critiques / gauche / 3èmes voies
   ["sanders","state","d"],["hao","ai","d"],["wark","chatonsky","d"],["chatonsky","land","d"],
   ["yukhui","land","d"],["mcquillan","state","d"],["hao","golfe","d"],["sanders","ai","d"],
+  // Hugging Face / open source (volet 30)
+  ["hf","lecun","d"],["hf","buterin","d"],["hf","ai","d"],["nvidia","hf","d"],["hf","huawei","d"],
 ];
 const svg=document.getElementById('svg');
 svg.setAttribute('viewBox','0 0 1150 1000');
