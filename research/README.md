@@ -14,6 +14,9 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 3 | [**Généalogie philosophique, littéraire & SF**](./genealogie-philosophique-litteraire-sf.md) | Toutes les sources : Hayek, Nietzsche, Rand, Marinetti, Yarvin/Land + SF (Banks, Stephenson, Tolkien, Asimov, Herbert…) |
 | 4 | [**Transhumanisme × Crypto**](./transhumanisme-crypto-convergences.md) | Convergences/divergences, TESCREAL, e/acc vs altruisme efficace |
 | 5 | [**Cartographie & prospective**](./cartographie-prospective.md) | Synthèse : 4 factions, diagrammes, qui dirige, 4 scénarios, points de bascule |
+| 6 | [**Marinetti — futurisme & fascisme**](./marinetti-futurisme-fascisme.md) | Portrait dédié d'un « saint patron » : biographie, Manifeste futuriste/fasciste, écho techno-optimiste |
+| 7 | [**Nick Land — accélérationnisme**](./nick-land-accelerationnisme.md) | Portrait dédié : CCRU, capitalisme-IA, Dark Enlightenment, controverse race/QI, influence |
+| 8 | [**Hiérarchie pouvoir & influence (2026)**](./hierarchie-pouvoir-influence.md) | Classement chiffré + pyramide : qui pèse le plus aujourd'hui |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 
 ## Comment lire la série
