@@ -32,6 +32,8 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 21 | [**La gauche mondiale face à l'IA**](./gauche-mondiale-ia.md) | Sanders/Khanna/Warren, syndicats US (SAG-AFTRA, Teamsters, Memphis), Europe (Mélenchon, Díaz, ETUC, Omnibus), Chine (« absorber + réprimer », 996), Japon/Corée/Inde — les 5 leviers réels |
 | 22 | [**IA, écologie, limites — et le nucléaire**](./ia-ecologie-limites-nucleaire.md) | Chiffres IEA 2026, Limits to Growth (BAU2), Jevons revendiqué par Nadella, « 74 % non prouvé », inventaire nucléaire deal par deal (TMI, SMR, fusion), verdict : un alibi temporel |
 | 23 | [**NVIDIA et Huawei : les deux empires de la puce**](./nvidia-huawei-deux-empires.md) | Le financement circulaire (OpenAI 100→30 Md$, backstops, SPV), dette GPU, Burry/Cisco, CUDA, le double jeu Chine perdu, Huawei full-stack — le banquier central privé vs le champion d'État |
+| 24 | [**Vectofascisme (Chatonsky, après Wark)**](./vectofascisme-chatonsky-wark.md) | Sources primaires lues : la critique du « technofascisme », politique des vecteurs, indécidabilité calculée, ennemis personnalisés, différend industrialisé (Lyotard), esthétique du grotesque, lecture critique — le triplet alliance/processus/milieu |
+| 25 | [**Les solutions : ce qui peut faire bifurquer**](./solutions-bifurcations.md) | Synthèse actionnable : 7 preuves d'efficacité, 5 leviers (antitrust, conditionnalité énergétique, travail, épistémique, gouvernance du compute), 4 scénarios de bifurcation, liste négative — le portfolio à 3 horizons |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
