@@ -1,6 +1,6 @@
 # L'argument du dossier (synthèse)
 
-> Texte de synthèse. Écrit le 5 juin 2026. C'est la porte d'entrée du dossier : ce qu'il soutient, après 27 volets. À lire en premier, ou en dernier.
+> Texte de synthèse. Écrit le 5 juin 2026. C'est la porte d'entrée du dossier : ce qu'il soutient, après 29 volets. À lire en premier, ou en dernier.
 > Il remplace la fonction du volet 5 (cartographie/prospective), écrit alors que le dossier n'avait que dix volets et avant le tournant matériel et chinois.
 
 ---
@@ -54,12 +54,12 @@ Si le danger est l'exigence d'illimité, alors chaque solution est une manière 
 
 La conclusion n'est donc ni doomer ni optimiste. Elle est politique : la terre ne sombre pas avec l'IA, elle sombre avec l'illimité. Et l'illimité, lui, a des adresses, des bilans et des permis de construire. C'est-à-dire des prises.
 
-## Comment lire les 27 volets
+## Comment lire les 29 volets
 
 - **Pour comprendre l'idéologie** : volets 1 (Andreessen), 2 (Thiel), 3 et 4 (les sources), 13 (anatomie du concept).
 - **Pour le débat IA lui-même** : volets 11 (camp prudence), 14 (le livre de Yudkowsky lu en entier), 18 (les maîtres de modèles), 19 (les troisièmes voies), 20 (Anthropic).
 - **Pour la matière et la géopolitique** : volets 15 (Chine), 16 (l'empire matériel), 17 (natsec), 22 (énergie/nucléaire), 23 (NVIDIA/Huawei), 26 (Palantir/Anduril).
-- **Pour la généalogie fasciste** : volets 6 (Marinetti), 7 (Land), 24 (vectofascisme), 27 (Douguine).
+- **Pour la généalogie fasciste** : volets 6 (Marinetti), 7 (Land), 24 (vectofascisme), 27 (Douguine), 28 (eugénisme), 29 (genre et pronatalisme).
 - **Pour agir** : volets 10 (contre-pouvoirs), 21 (la gauche mondiale), 25 (les solutions).
 - **Les cartes** : la [cartographie interactive](./cartographie.html) et la [carte Lombardi des flux](./lombardi.html).
 
