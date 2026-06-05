@@ -40,7 +40,7 @@
 <body>
 <header>
   <h1>🗺️ Map of radical tech</h1>
-  <span class="sub">Actors &amp; ideas — Andreessen · Thiel · Musk · labs · NVIDIA · China · doomers · left &amp; third ways (Parts 1-29)</span>
+  <span class="sub">Actors &amp; ideas — Andreessen · Thiel · Musk · labs · NVIDIA · China · doomers · left · open source (Parts 1-30)</span>
   <div class="legend" id="legend" style="margin-left:auto"></div>
 </header>
 <div class="wrap">
@@ -114,6 +114,7 @@ const NODES=[
   {id:"wark",label:"McKenzie Wark",f:"gauche",r:14,x:340,y:855,d:"The vectorialist class (A Hacker Manifesto, 2004; Capital is Dead, 2019): those who own the vectors of information now own the capitalists themselves. Part 24."},
   {id:"chatonsky",label:"G. Chatonsky",f:"gauche",r:15,x:470,y:895,d:"Vectofascism: not the fascists who use technology, but the properties of vector spaces that reconfigure the political. Personalized enemies, the industrialized differend, the aesthetics of the grotesque. Part 24."},
   {id:"yukhui",label:"Yuk Hui",f:"gauche",r:14,x:600,y:860,d:"Cosmotechnics and technodiversity: exiting the Valley/Beijing standoff, acceleration and deceleration are the same dead end. Part 19."},
+  {id:"hf",label:"Hugging Face",f:"gauche",r:16,x:730,y:945,d:"The \"GitHub of AI\": a million open-source models. Delangue/Wolf: decentralize against concentration, anti-AGI-cult. But funded by Google/NVIDIA/Amazon, and the upstream (compute) stays concentrated. Open weights is not open source (OSAID). Part 30."},
 ];
 const EDGES=[
   ["musk","andreessen"],["andreessen","a16z"],["thiel","ff"],["thiel","karp"],["thiel","palantir"],
@@ -136,6 +137,7 @@ const EDGES=[
   ["pekin","huawei"],["pekin","deepseek"],["deepseek","ai","d"],["pekin","state","d"],["pekin","nvidia","d"],
   ["sanders","state","d"],["hao","ai","d"],["wark","chatonsky","d"],["chatonsky","land","d"],
   ["yukhui","land","d"],["mcquillan","state","d"],["hao","golfe","d"],["sanders","ai","d"],
+  ["hf","lecun","d"],["hf","buterin","d"],["hf","ai","d"],["nvidia","hf","d"],["hf","huawei","d"],
 ];
 const svg=document.getElementById('svg');
 svg.setAttribute('viewBox','0 0 1150 1000');

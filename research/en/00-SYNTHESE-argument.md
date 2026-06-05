@@ -1,6 +1,6 @@
 # The Dossier's Argument (Synthesis)
 
-> Synthesis text. Written June 5, 2026. This is the dossier's entry point: what it argues, after 29 parts. To be read first, or last.
+> Synthesis text. Written June 5, 2026. This is the dossier's entry point: what it argues, after 30 parts. To be read first, or last.
 > It replaces the function of Part 5 (cartography/foresight), written when the dossier had only ten parts and before the material and Chinese turn.
 
 ---
@@ -54,10 +54,10 @@ If the danger is the demand for the limitless, then every solution is a way of m
 
 The conclusion is therefore neither doomer nor optimist. It is political: the earth does not sink with AI, it sinks with the limitless. And the limitless, for its part, has addresses, balance sheets, and building permits. That is to say, handles.
 
-## How to Read the 29 Parts
+## How to Read the 30 Parts
 
 - **To understand the ideology**: Parts 1 (Andreessen), 2 (Thiel), 3 and 4 (the sources), 13 (anatomy of the concept).
-- **For the AI debate itself**: Parts 11 (caution camp), 14 (Yudkowsky's book read in full), 18 (the model masters), 19 (the third ways), 20 (Anthropic).
+- **For the AI debate itself**: Parts 11 (caution camp), 14 (Yudkowsky's book read in full), 18 (the model masters), 19 (the third ways), 20 (Anthropic), 30 (Hugging Face and open source).
 - **For matter and geopolitics**: Parts 15 (China), 16 (the material empire), 17 (natsec), 22 (energy/nuclear), 23 (NVIDIA/Huawei), 26 (Palantir/Anduril).
 - **For the fascist genealogy**: Parts 6 (Marinetti), 7 (Land), 24 (vectofascism), 27 (Dugin), 28 (eugenics), 29 (gender and pronatalism).
 - **To act**: Parts 10 (counter-powers), 21 (the global left), 25 (solutions).
