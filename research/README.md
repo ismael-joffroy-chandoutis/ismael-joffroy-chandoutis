@@ -21,6 +21,7 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 10 | [**Contre-pouvoirs**](./contre-pouvoirs.md) | Europe (AI Act/DSA/DMA), antitrust, critiques (Doctorow, Varoufakis, Zuboff), opinion publique |
 | 11 | [**Camp « prudence IA » : Bengio, Bostrom, Yudkowsky**](./camp-prudence-bengio-bostrom-yudkowsky.md) | Portraits + analyse : vrai contre-pouvoir ou faux ami ? EA = capture réglementaire ? (+ FAQ Yudkowsky : origines, fasciste ?, crédibilité, mécénat) |
 | 12 | [**Glossaire critique : concepts décodés**](./glossaire-critique-concepts.md) | Technocratie vs démocratie, transhumanisme, rationalisme, TESCREAL — avec verdict « bullshit ou pas ? » |
+| 13 | [**Techno-fascisme : anatomie d'un concept**](./techno-fascisme-anatomie-concept.md) | Généalogie (Mimura, Herf), Coeckelbergh, grilles (Paxton/Eco/Stanley), le débat « est-ce vraiment du fascisme ? », définition de travail |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
