@@ -2,7 +2,7 @@
 
 Série de rapports de *deep research* (sources citées, recoupées) sur les idéologies, les acteurs et les trajectoires de la tech radicale (techno-optimisme, néo-réaction, crypto, transhumanisme).
 
-> Rédigé en français. Dernière mise à jour : 4 juin 2026.
+> Rédigé en français. Dernière mise à jour : 5 juin 2026.
 > ⚠️ Avertissement : rapports d'analyse appuyés sur des sources secondaires (presse, encyclopédie, essais). Les citations sont fidèles aux sources mais à recouper avec les textes primaires pour tout usage formel.
 
 ## Sommaire des rapports
@@ -22,6 +22,7 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 11 | [**Camp « prudence IA » : Bengio, Bostrom, Yudkowsky**](./camp-prudence-bengio-bostrom-yudkowsky.md) | Portraits + analyse : vrai contre-pouvoir ou faux ami ? EA = capture réglementaire ? (+ FAQ Yudkowsky : origines, fasciste ?, crédibilité, mécénat) |
 | 12 | [**Glossaire critique : concepts décodés**](./glossaire-critique-concepts.md) | Technocratie vs démocratie, transhumanisme, rationalisme, TESCREAL — avec verdict « bullshit ou pas ? » |
 | 13 | [**Techno-fascisme : anatomie d'un concept**](./techno-fascisme-anatomie-concept.md) | Généalogie (Mimura, Herf), Coeckelbergh, grilles (Paxton/Eco/Stanley), le débat « est-ce vraiment du fascisme ? », définition de travail |
+| 14 | [**« If Anyone Builds It, Everyone Dies » — lecture critique**](./if-anyone-builds-it-lecture-critique.md) | Première source primaire de la série : le livre de Yudkowsky & Soares (2025) lu en intégralité — arguments, failles, placement sur les deux axes du volet 11 |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
