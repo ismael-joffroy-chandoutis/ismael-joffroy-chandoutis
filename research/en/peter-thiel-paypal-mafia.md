@@ -18,9 +18,9 @@
 
 ## 1. Executive summary
 
-**Peter Thiel** (born 1967) is arguably **the most influential and ideologically explicit investor-intellectual** in Silicon Valley. Co-founder of **PayPal** (1998), **Palantir** (2003) and **Founders Fund** (2005), the first outside investor in **Facebook** (2004), he also seeded a human network — the **"PayPal Mafia"** — that today dominates both tech *and* American political power.
+**Peter Thiel** (born 1967) is arguably **the most influential and ideologically explicit investor-intellectual** in Silicon Valley. Co-founder of **PayPal** (1998), **Palantir** (2003) and **Founders Fund** (2005), the first outside investor in **Facebook** (2004), he also seeded a human network, the **"PayPal Mafia"**, that today dominates both tech *and* American political power.
 
-Where Andreessen offers a mass-market technological optimism, Thiel formulates a **frontal critique of democracy**. His 2009 line — **"I no longer believe that freedom and democracy are compatible"** — has become a cornerstone of the neoreactionary current. Through his protégé **JD Vance** (US Vice President), **David Sacks** (Trump's AI & crypto adviser) and **Elon Musk**, Thiel's orbit (the "Thielverse") now exerts direct influence over the state.
+Where Andreessen offers a mass-market technological optimism, Thiel formulates a **frontal critique of democracy**. His 2009 line, **"I no longer believe that freedom and democracy are compatible"**, has become a cornerstone of the neoreactionary current. Through his protégé **JD Vance** (US Vice President), **David Sacks** (Trump's AI & crypto adviser) and **Elon Musk**, Thiel's orbit (the "Thielverse") now exerts direct influence over the state.
 
 ---
 
@@ -29,7 +29,7 @@ Where Andreessen offers a mass-market technological optimism, Thiel formulates a
 **Peter Andreas Thiel**, born **October 11, 1967, in Frankfurt** (Germany), emigrated to California as a child. A junior chess champion, he studied **philosophy at Stanford**, then law (**J.D. from Stanford Law in 1992**). As a student he co-founded the conservative paper *The Stanford Review*.
 
 - **PayPal (1998-2002).** He co-founds Confinity, which merges with Elon Musk's X.com to become **PayPal**. As CEO, he sells the company to **eBay for $1.5 billion in 2002**.
-- **Palantir (2003).** With **Alex Karp**, Joe Lonsdale, Stephen Cohen and Nathan Gettings, he founds **Palantir Technologies**, specialized in mass-data analytics for intelligence, police, the military and finance. The name comes from the **palantíri**, the "seeing-stones" of Tolkien's *Lord of the Rings* — an avowed reference. Originally funded by **In-Q-Tel**, the CIA's venture fund.
+- **Palantir (2003).** With **Alex Karp**, Joe Lonsdale, Stephen Cohen and Nathan Gettings, he founds **Palantir Technologies**, specialized in mass-data analytics for intelligence, police, the military and finance. The name comes from the **palantíri**, the "seeing-stones" of Tolkien's *Lord of the Rings*, an avowed reference. Originally funded by **In-Q-Tel**, the CIA's venture fund.
 - **Facebook (2004).** He is the **first outside investor**: **$500,000 for ~10%**, one of the most profitable bets in the history of venture capital.
 - **Founders Fund (2005).** His VC firm (slogan: *"We wanted flying cars, instead we got 140 characters"*), investor in **SpaceX**, Airbnb, Stripe, Anduril, etc.
 - **Zero to One (2014).** Bestseller drawn from his Stanford course (CS183), co-written with **Blake Masters**.
@@ -46,11 +46,11 @@ Thiel is one of the few tech billionaires whose economic decisions stem from an 
 
 At Stanford, Thiel studied under **René Girard** and claims to be his disciple; he calls the encounter transformative and funds the **Imitatio** institute dedicated to Girard's work. Girard's **mimetic theory** holds that **desire is imitative**: we want what others want, which breeds rivalry, conflict and violence (channeled by the "scapegoat").
 
-Thiel **applies this theory to business**: **competition is mimetic and value-destroying**. Hence his central thesis in *Zero to One*: *"Competition is for losers"* — one must **flee competition and build monopolies** by creating something radically new ("zero to one"), then dominate a niche before expanding. Monopoly is not a flaw of capitalism: it is its goal.
+Thiel **applies this theory to business**: **competition is mimetic and value-destroying**. Hence his central thesis in *Zero to One*: *"Competition is for losers"*, one must **flee competition and build monopolies** by creating something radically new ("zero to one"), then dominate a niche before expanding. Monopoly is not a flaw of capitalism: it is its goal.
 
 ### Leo Strauss and esotericism
 
-According to several analysts (Shullenberger, Weigel), Thiel and Alex Karp built **Palantir** on their reading of **Leo Strauss** (and the Frankfurt School). Strauss distinguishes between an **exoteric** teaching (public) and an **esoteric** one (reserved for an elite) — a lens that pervades Thiel's "contrarian" stance: the important truth is hidden, unpopular, and reserved for those who dare to see it.
+According to several analysts (Shullenberger, Weigel), Thiel and Alex Karp built **Palantir** on their reading of **Leo Strauss** (and the Frankfurt School). Strauss distinguishes between an **exoteric** teaching (public) and an **esoteric** one (reserved for an elite), a lens that pervades Thiel's "contrarian" stance: the important truth is hidden, unpopular, and reserved for those who dare to see it.
 
 ### Carl Schmitt and friend/enemy
 
@@ -70,7 +70,7 @@ The **"PayPal Mafia"** refers to the group of PayPal alumni who fanned out and f
 |---|---|---|
 | **Peter Thiel** | CEO | Palantir, Founders Fund, first investor in Facebook |
 | **Elon Musk** | (via X.com) | Tesla, SpaceX, Neuralink, xAI, Twitter/X buyout; **DOGE** under Trump |
-| **Reid Hoffman** | COO | **LinkedIn**, investor (Greylock) — *Democratic wing* of the group |
+| **Reid Hoffman** | COO | **LinkedIn**, investor (Greylock), *Democratic wing* of the group |
 | **Max Levchin** | CTO | Affirm, Slide |
 | **David Sacks** | COO/product | Yammer, Craft Ventures; Trump's **AI & crypto "czar"** |
 | **Roelof Botha** | CFO | leads **Sequoia Capital** |
@@ -109,38 +109,38 @@ Analysts nonetheless distinguish two families:
 - **Elon Musk**: ran the **DOGE** (Department of Government Efficiency).
 - **Palantir** signs a **~$10 billion** contract with the US Army in July 2025.
 
-Analysts (TNI, Oxfam, TechPolicy.press) speak of an **"Authoritarian Stack"**: cloud, AI, finance, drones, satellites — an integrated infrastructure of control under a "patriotic tech" banner.
+Analysts (TNI, Oxfam, TechPolicy.press) speak of an **"Authoritarian Stack"**: cloud, AI, finance, drones, satellites, an integrated infrastructure of control under a "patriotic tech" banner.
 
 ---
 
 ## 6. Implications and consequences
 
 1. **Unprecedented concentration of power.** The same small network simultaneously controls the **digital infrastructure** (data, AI, payments), the **capital** (the leading VC funds) and now **levers of the state**. The separation between economic and political power erodes.
-2. **Surveillance and security.** Palantir puts mass-data analysis at the heart of the policing, military and immigration apparatus. Tolkien's "seeing-stone" was, in the story, an **instrument of corruption and manipulation** — an irony critics enjoy pointing out.
+2. **Surveillance and security.** Palantir puts mass-data analysis at the heart of the policing, military and immigration apparatus. Tolkien's "seeing-stone" was, in the story, an **instrument of corruption and manipulation**, an irony critics enjoy pointing out.
 3. **Delegitimization of democracy.** Unlike Andreessen (who claims to serve "everyone"), Thiel **openly accepts** that democracy is an obstacle. It is a shift of intellectual regime: no longer "tech will liberate us," but "tech must govern us."
 4. **Avowed monopolies.** The monopoly doctrine ("competition is for losers") clashes head-on with competition law and the ideal of an open market.
 5. **Political theology.** The Girard/Schmitt/Strauss apparatus gives this project an **ideological depth** that Andreessen's techno-optimism lacks: it is not a slogan, it is a structured, anti-egalitarian **worldview**.
 
-> **In one sentence:** if Andreessen is the **preacher** of techno-capitalism, Thiel is its **political strategist** — and he does not hide that the ultimate target is representative democracy itself.
+> **In one sentence:** if Andreessen is the **preacher** of techno-capitalism, Thiel is its **political strategist**, and he does not hide that the ultimate target is representative democracy itself.
 
 ---
 
 ## 7. Sources
 
 **Encyclopedic / biographical**
-- [Peter Thiel — Wikipedia](https://en.wikipedia.org/wiki/Peter_Thiel)
-- [PayPal Mafia — Wikipedia](https://en.wikipedia.org/wiki/PayPal_Mafia)
-- [Dark Enlightenment — Wikipedia](https://en.wikipedia.org/wiki/Dark_Enlightenment)
+- [Peter Thiel, Wikipedia](https://en.wikipedia.org/wiki/Peter_Thiel)
+- [PayPal Mafia, Wikipedia](https://en.wikipedia.org/wiki/PayPal_Mafia)
+- [Dark Enlightenment, Wikipedia](https://en.wikipedia.org/wiki/Dark_Enlightenment)
 
 **Philosophy & analysis**
-- [Jacobin — "Would-Be Philosopher King, Takes on Democracy" (2025)](https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy)
-- [Reason — "Wait, Wasn't Peter Thiel a Libertarian?"](https://reason.com/2020/08/02/wait-wasnt-peter-thiel-a-libertarian/)
-- [Strange Matters — Thiel, Yarvin, "fascist" debates](https://strangematters.coop/fascist-economic-debates-peter-thiel-curtis-yarvin/)
-- [The Conversation — "neoreaction creeping into GOP politics"](https://theconversation.com/an-antidemocratic-philosophy-called-neoreaction-is-creeping-into-gop-politics-182581)
-- [W. David Phillips — "From Libertarian Dreams to Techno-Authoritarian Reality"](https://www.wdavidphillips.com/p/peter-thiel-from-libertarian-dreams)
+- [Jacobin, "Would-Be Philosopher King, Takes on Democracy" (2025)](https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy)
+- [Reason, "Wait, Wasn't Peter Thiel a Libertarian?"](https://reason.com/2020/08/02/wait-wasnt-peter-thiel-a-libertarian/)
+- [Strange Matters, Thiel, Yarvin, "fascist" debates](https://strangematters.coop/fascist-economic-debates-peter-thiel-curtis-yarvin/)
+- [The Conversation, "neoreaction creeping into GOP politics"](https://theconversation.com/an-antidemocratic-philosophy-called-neoreaction-is-creeping-into-gop-politics-182581)
+- [W. David Phillips, "From Libertarian Dreams to Techno-Authoritarian Reality"](https://www.wdavidphillips.com/p/peter-thiel-from-libertarian-dreams)
 
 **Power & politics (2024-2026)**
-- [The New Republic — "Where J.D. Vance Gets His Techno-Authoritarian Ideas"](https://newrepublic.com/article/183971/jd-vance-weird-terrifying-techno-authoritarian-ideas)
-- [Transnational Institute — "The Rise of the Techno-Tyrants"](https://www.tni.org/en/article/the-rise-of-the-techno-tyrants)
-- [Fortune — "The PayPal Mafia still rules Silicon Valley"](https://fortune.com/2024/07/21/paypal-mafia-silicon-valley-thiel-hoffman-botha-rabois-musk/)
-- [Oxfam — "Rise of the Tech Oligarchy"](https://politicsofpoverty.oxfamamerica.org/rise-of-the-tech-oligarchy-part-ii/)
+- [The New Republic, "Where J.D. Vance Gets His Techno-Authoritarian Ideas"](https://newrepublic.com/article/183971/jd-vance-weird-terrifying-techno-authoritarian-ideas)
+- [Transnational Institute, "The Rise of the Techno-Tyrants"](https://www.tni.org/en/article/the-rise-of-the-techno-tyrants)
+- [Fortune, "The PayPal Mafia still rules Silicon Valley"](https://fortune.com/2024/07/21/paypal-mafia-silicon-valley-thiel-hoffman-botha-rabois-musk/)
+- [Oxfam, "Rise of the Tech Oligarchy"](https://politicsofpoverty.oxfamamerica.org/rise-of-the-tech-oligarchy-part-ii/)

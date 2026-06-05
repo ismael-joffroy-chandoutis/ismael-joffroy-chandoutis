@@ -40,7 +40,7 @@ The text is widely recognized as **the founding document of "effective accelerat
 
 ### "Why Software Is Eating the World" (2011)
 
-In **August 2011**, his op-ed in the *Wall Street Journal* — **"Why Software Is Eating the World"** — articulated the idea that **every company will become a software company**. It has become one of the most cited texts in tech, having anticipated the dominance of Amazon, Netflix, Spotify, and others. In April 2020, he also published **"It's Time to Build,"** a call to rebuild American productive capacity.
+In **August 2011**, his op-ed in the *Wall Street Journal*, **"Why Software Is Eating the World"**, articulated the idea that **every company will become a software company**. It has become one of the most cited texts in tech, having anticipated the dominance of Amazon, Netflix, Spotify, and others. In April 2020, he also published **"It's Time to Build,"** a call to rebuild American productive capacity.
 
 ### Political evolution
 
@@ -48,17 +48,17 @@ His political trajectory is striking: long a **Democratic donor** (Clinton, Gore
 
 ### Wealth and private life
 
-Net worth estimated at around **$1.7-1.9 billion** (Forbes 2023 / 2025). Married since **2006** to **Laura Arrillaga** (daughter of real-estate billionaire John Arrillaga). In 2021, the couple bought a property in **Malibu for $177M**, a California record at the time — a detail often noted in light of his positions on housing.
+Net worth estimated at around **$1.7-1.9 billion** (Forbes 2023 / 2025). Married since **2006** to **Laura Arrillaga** (daughter of real-estate billionaire John Arrillaga). In 2021, the couple bought a property in **Malibu for $177M**, a California record at the time, a detail often noted in light of his positions on housing.
 
 ---
 
 ## 3. a16z: the venture-capital machine
 
-**Andreessen Horowitz** ("a16z" — *a*, then 16 letters, then *z*) was founded on **July 6, 2009** by Marc Andreessen and Ben Horowitz. Started with **$300M**, the fund managed **$2.7 billion** within three years and became one of the most powerful funds in Silicon Valley (tens of billions under management). Portfolio: **Facebook, GitHub, Twitter, Pinterest, Coinbase, Slack, Lyft, Skype, Oculus...**
+**Andreessen Horowitz** ("a16z", *a*, then 16 letters, then *z*) was founded on **July 6, 2009** by Marc Andreessen and Ben Horowitz. Started with **$300M**, the fund managed **$2.7 billion** within three years and became one of the most powerful funds in Silicon Valley (tens of billions under management). Portfolio: **Facebook, GitHub, Twitter, Pinterest, Coinbase, Slack, Lyft, Skype, Oculus...**
 
 a16z bet heavily on **crypto** ($2.2B fund in 2021, $4.5B in 2022; OpenSea, Solana, Yuga Labs), launched the **"American Dynamism"** fund (defense, space, industry) in 2023, and in 2025 led a record **$2B round for the AI startup Thinking Machines Lab**.
 
-> **Key point for understanding the manifesto**: Andreessen is not a disinterested philosopher. He is an **investor whose business model rests on maximal deregulation** of tech, crypto, and AI. The manifesto is also — indeed first and foremost — a **document of self-interest**.
+> **Key point for understanding the manifesto**: Andreessen is not a disinterested philosopher. He is an **investor whose business model rests on maximal deregulation** of tech, crypto, and AI. The manifesto is also, indeed first and foremost, a **document of self-interest**.
 
 ---
 
@@ -82,7 +82,7 @@ The text is organized into **15 sections**:
 - "Societies, like sharks, grow or die." (Societies, like sharks, grow or die.)
 
 **On AI**
-- "Artificial Intelligence is our alchemy, our Philosopher's Stone — we are literally making sand think." (We are literally making *sand think*.)
+- "Artificial Intelligence is our alchemy, our Philosopher's Stone, we are literally making sand think." (We are literally making *sand think*.)
 - "**Any deceleration of AI will cost lives.**" → slowing AI would be morally criminal.
 
 **On population**
@@ -91,7 +91,7 @@ The text is organized into **15 sections**:
 
 **On energy**
 - "Energy is life… we should raise everyone to the energy consumption level we have."
-- "We have the silver bullet for virtually unlimited zero-emissions energy — **nuclear fission**."
+- "We have the silver bullet for virtually unlimited zero-emissions energy, **nuclear fission**."
 
 The manifesto explicitly rejects **universal basic income**, attacks **"sustainability"** and the **precautionary principle**, and presents technology as the *solution* to environmental degradation rather than as a cause of it.
 
@@ -108,7 +108,7 @@ The manifesto is considered **the manifesto of "effective accelerationism" (e/ac
 Andreessen **rewrites the *Manifesto of Futurism*** (1909) by **Filippo Tommaso Marinetti**:
 > "Beauty exists only in struggle. There is no masterpiece that has not an aggressive character. Technology must be a violent assault on the forces of the unknown, to force them to bow before man."
 
-But **Marinetti also co-signed the *Fascist Manifesto* in 1919** and founded a futurist party that merged with Mussolini's fascists. To single out Marinetti specifically — when "other futurist thinkers exist" (Vice) — and turn him into a "saint" amounts, for critics, to embracing an **aesthetic of force, speed, hierarchy, and violence** inherited from a proto-fascist current.
+But **Marinetti also co-signed the *Fascist Manifesto* in 1919** and founded a futurist party that merged with Mussolini's fascists. To single out Marinetti specifically, when "other futurist thinkers exist" (Vice), and turn him into a "saint" amounts, for critics, to embracing an **aesthetic of force, speed, hierarchy, and violence** inherited from a proto-fascist current.
 
 ### Nietzsche, Hayek, and "aristocratic radicalism"
 
@@ -116,7 +116,7 @@ The substantive critique (notably from *Jacobin*) ties the text to a long tradit
 
 ### TESCREAL
 
-Andreessen has described himself as a **"tescrealist."** The acronym **TESCREAL** (Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, Longtermism) designates, according to its critics (Gebru, Torres), an **ideological constellation** of Silicon Valley that justifies present-day decisions in the name of a distant, grandiose future — often at the cost of contempt for immediate human costs.
+Andreessen has described himself as a **"tescrealist."** The acronym **TESCREAL** (Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, Longtermism) designates, according to its critics (Gebru, Torres), an **ideological constellation** of Silicon Valley that justifies present-day decisions in the name of a distant, grandiose future, often at the cost of contempt for immediate human costs.
 
 ---
 
@@ -129,7 +129,7 @@ A heterogeneous list mixing scientists, classical-liberal/libertarian economists
 ### The designated "enemies"
 
 In the *The Enemy* section, Andreessen draws up a **list of "enemies"** presented as a "mass demoralization campaign" against technology:
-**ESG; sustainability; "existential risk"; the precautionary principle; degrowth/depopulation; central planning; statism and authoritarianism; "tech ethics"; risk management; speech control; bureaucracy and "vetocracy"; and — most polemically of all — "trust and safety."**
+**ESG; sustainability; "existential risk"; the precautionary principle; degrowth/depopulation; central planning; statism and authoritarianism; "tech ethics"; risk management; speech control; bureaucracy and "vetocracy"; and, most polemically of all, "trust and safety."**
 
 Naming the **"trust & safety"** and **"tech ethics"** teams (those that, on platforms, fight disinformation, child abuse, etc.) provoked an **outcry from the online-safety community**, which points out that safety and profitability are not antagonistic.
 
@@ -142,10 +142,10 @@ Naming the **"trust & safety"** and **"tech ethics"** teams (those that, on plat
 **Substantive criticisms.**
 - **Adam Tooze** (historian): an "unjustified eulogy of late capitalism and American nationalism," a reflection of venture-capital interests; the "We believe" anaphora evokes **"Christian statements of faith."**
 - **Henry Farrell** (political scientist): counts **113 occurrences of "We believe"** and sees in them a **"Nicene Creed for the cult of progress,"** founded on a belief in a **"techno-capital singularity"** that destroys existing social and political structures.
-- ***Jacobin*** (William Banks): the manifesto is nothing more than **"old-school reactionary elitism in new packaging"**; the contradiction is unsolvable — one cannot claim that the interests of the techno-elite and those of ordinary people coincide, when the Nietzschean matrix presupposes the **domination of some by others**.
+- ***Jacobin*** (William Banks): the manifesto is nothing more than **"old-school reactionary elitism in new packaging"**; the contradiction is unsolvable, one cannot claim that the interests of the techno-elite and those of ordinary people coincide, when the Nietzschean matrix presupposes the **domination of some by others**.
 - ***The Conversation***: a **"bleak and dangerous philosophy"**; **colonial** vocabulary ("mapping unexplored territories, slaying dragons, bringing back the spoils"), **social Darwinism** ("smart people and smart societies outperform less smart ones"), valorization of **power** (economic, cultural, military) at the expense of democracy.
 - ***Vice***: pointing to Marinetti, **"an architect of fascism,"** as a saint, on the blog of a major Silicon Valley fund, illustrates that e/acc has become **"the official ideology of Silicon Valley."**
-- **Empirical criticisms**: **Ipsos** polls indicate that **more than 70% of Americans** want safety standards for AI and that **83% do not trust** AI companies to self-regulate — the opposite of Andreessen's premise.
+- **Empirical criticisms**: **Ipsos** polls indicate that **more than 70% of Americans** want safety standards for AI and that **83% do not trust** AI companies to self-regulate, the opposite of Andreessen's premise.
 - **Philosophical criticisms** (Žižek, Yuk Hui): accelerationism is **"far too optimistic"** and deterministic; it assumes that chaos necessarily leads to a radiant future, when it can also lead to fascism or collapse; it carries a **Western-centric historicism** reminiscent of the justifications for colonialism.
 
 ---
@@ -158,7 +158,7 @@ We have to be honest: **some of the premises are defensible**. Technology *has* 
 
 ### 8.2 The rhetorical slippage: from the true to the dangerous
 
-The problem is not technological optimism in itself — it is **absolutism**. By positing that there is **"no material problem"** unsolvable by *more* technology, and that any brake is the work of "enemies," Andreessen turns a debatable empirical thesis into an **unfalsifiable dogma**. This is precisely what Farrell and Tooze point to when they speak of "faith" and "creed": a manifesto does not argue, **it converts**. The binary structure (the "builders" versus the "enemies") **forecloses debate** instead of organizing it.
+The problem is not technological optimism in itself, it is **absolutism**. By positing that there is **"no material problem"** unsolvable by *more* technology, and that any brake is the work of "enemies," Andreessen turns a debatable empirical thesis into an **unfalsifiable dogma**. This is precisely what Farrell and Tooze point to when they speak of "faith" and "creed": a manifesto does not argue, **it converts**. The binary structure (the "builders" versus the "enemies") **forecloses debate** instead of organizing it.
 
 ### 8.3 The structural conflict of interest
 
@@ -167,7 +167,7 @@ This is the decisive point. The text presents as a **universal moral truth** wha
 ### 8.4 Concrete consequences for society
 
 1. **Regulatory capture.** Disqualifying "trust & safety," "tech ethics," and the precautionary principle in advance amounts to **disarming the checks and balances** at the very moment when generative AI poses real risks (disinformation, deepfakes, bias, child safety, concentration of power).
-2. **Denied externalities.** Treating the environment, labor, and attention as mere "resources to be conquered" **makes the question of costs disappear** (climate, employment, mental health) — even though it is these costs that materialize in people's lives.
+2. **Denied externalities.** Treating the environment, labor, and attention as mere "resources to be conquered" **makes the question of costs disappear** (climate, employment, mental health), even though it is these costs that materialize in people's lives.
 3. **Concentration of power.** Behind the vocabulary of freedom, the Nietzschean/Hayekian logic **legitimizes government by a wealthy elite** that declares itself "superior" because it has succeeded in the marketplace. This is a **threat to democratic equality**, not a promise of shared prosperity.
 4. **Risk of ideological radicalization.** The adoption of Marinetti and Nick Land is not a flourish: it inscribes tech within an **anti-democratic** genealogy ("Dark Enlightenment"). When this aesthetic of force becomes the "official ideology" of an industry that controls information and AI, the political risk is serious.
 5. **Demobilizing determinism.** Asserting that progress is *inevitable* ("grow or die") **discourages collective choices**: if the future is already written, why bother to deliberate, vote, regulate? Yet, as Žižek notes, accelerated chaos can just as easily produce catastrophe as utopia.
@@ -180,35 +180,35 @@ The manifesto is **less a philosophy than a political act**. Its defensible part
 
 ## 9. Conclusion
 
-*The Techno-Optimist Manifesto* is an important document — not because it is original (its critics show that it recycles Nietzsche, Hayek, futurism, and Randian objectivism), but because it **crystallizes and makes explicit the ideology of a dominant faction of Silicon Valley** at the moment when that faction is gaining access to political power. To read it attentively is to understand **how a demand for power without checks justifies itself today**, in the name of progress. That is precisely why it must be taken seriously — and criticized rigorously.
+*The Techno-Optimist Manifesto* is an important document, not because it is original (its critics show that it recycles Nietzsche, Hayek, futurism, and Randian objectivism), but because it **crystallizes and makes explicit the ideology of a dominant faction of Silicon Valley** at the moment when that faction is gaining access to political power. To read it attentively is to understand **how a demand for power without checks justifies itself today**, in the name of progress. That is precisely why it must be taken seriously, and criticized rigorously.
 
 ---
 
 ## 10. Sources
 
 **Primary sources**
-- [The Techno-Optimist Manifesto — Andreessen Horowitz (a16z)](https://a16z.com/the-techno-optimist-manifesto/)
-- [Marc Andreessen — a16z author page](https://a16z.com/author/marc-andreessen/)
+- [The Techno-Optimist Manifesto, Andreessen Horowitz (a16z)](https://a16z.com/the-techno-optimist-manifesto/)
+- [Marc Andreessen, a16z author page](https://a16z.com/author/marc-andreessen/)
 
 **Encyclopedic / factual**
-- [Techno-Optimist Manifesto — Wikipedia](https://en.wikipedia.org/wiki/Techno-Optimist_Manifesto)
-- [Marc Andreessen — Wikipedia](https://en.wikipedia.org/wiki/Marc_Andreessen)
+- [Techno-Optimist Manifesto, Wikipedia](https://en.wikipedia.org/wiki/Techno-Optimist_Manifesto)
+- [Marc Andreessen, Wikipedia](https://en.wikipedia.org/wiki/Marc_Andreessen)
 
 **Press**
-- [Fortune — "50 billion people"](https://fortune.com/2023/10/16/marc-andreessen-techno-optimist-manifesto-ai-50-billion-people-billionaire-vc/)
-- [Fortune — utopian / libertarianism / e-acc](https://fortune.com/2023/10/17/marc-andreessen-techno-optimist-manifesto-ai-libertarianism-effective-accelerationism/)
-- [Axios — "Civilization depends on more AI"](https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist)
-- [VentureBeat — "names enemies including ESG, Trust and Safety"](https://venturebeat.com/ai/marc-andreessen-publishes-techno-optimist-manifesto-names-enemies-including-esg-trust-and-safety)
+- [Fortune, "50 billion people"](https://fortune.com/2023/10/16/marc-andreessen-techno-optimist-manifesto-ai-50-billion-people-billionaire-vc/)
+- [Fortune, utopian / libertarianism / e-acc](https://fortune.com/2023/10/17/marc-andreessen-techno-optimist-manifesto-ai-libertarianism-effective-accelerationism/)
+- [Axios, "Civilization depends on more AI"](https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist)
+- [VentureBeat, "names enemies including ESG, Trust and Safety"](https://venturebeat.com/ai/marc-andreessen-publishes-techno-optimist-manifesto-names-enemies-including-esg-trust-and-safety)
 
 **Critical analyses**
-- [Jacobin — "Just Old-School Reactionary Elitism"](https://jacobin.com/2024/01/marc-andreessen-techno-optimist-manifesto-reactionary-elitism-nietzsche-hayek-ideology)
-- [The Conversation — "a bleak, dangerous philosophy"](https://theconversation.com/a-new-silicon-valley-manifesto-reveals-the-bleak-dangerous-philosophy-driving-the-tech-industry-216894)
-- [Vice — "Calls Architect of Fascism a 'Saint'"](https://www.vice.com/en/article/major-tech-investor-calls-architect-of-fascism-a-saint-in-unhinged-manifesto/)
-- [Reality Studies — primer on accelerationism / e/acc / Nick Land](https://www.realitystudies.co/p/what-is-accelerationism-effective-eacc-nick-land-mark-fisher)
-- [Online Safety Exchange — response from the "trust & safety" community](https://onlinesafetyexchange.org/from-enemies-to-allies-of-the-techno-optimists/)
+- [Jacobin, "Just Old-School Reactionary Elitism"](https://jacobin.com/2024/01/marc-andreessen-techno-optimist-manifesto-reactionary-elitism-nietzsche-hayek-ideology)
+- [The Conversation, "a bleak, dangerous philosophy"](https://theconversation.com/a-new-silicon-valley-manifesto-reveals-the-bleak-dangerous-philosophy-driving-the-tech-industry-216894)
+- [Vice, "Calls Architect of Fascism a 'Saint'"](https://www.vice.com/en/article/major-tech-investor-calls-architect-of-fascism-a-saint-in-unhinged-manifesto/)
+- [Reality Studies, primer on accelerationism / e/acc / Nick Land](https://www.realitystudies.co/p/what-is-accelerationism-effective-eacc-nick-land-mark-fisher)
+- [Online Safety Exchange, response from the "trust & safety" community](https://onlinesafetyexchange.org/from-enemies-to-allies-of-the-techno-optimists/)
 
 **Responses / counterpoints**
-- [Jenny Stefanotti — "In Response to…" (Medium)](https://developingjen.medium.com/in-response-to-marc-andreessens-techno-optimist-manifesto-31cee3a5350c)
-- [AEI / Faster, Please! — "Critics… Fail Basic Economics"](https://www.aei.org/articles/critics-of-marc-andreessens-techno-optimist-manifesto-fail-basic-economics/)
+- [Jenny Stefanotti, "In Response to…" (Medium)](https://developingjen.medium.com/in-response-to-marc-andreessens-techno-optimist-manifesto-31cee3a5350c)
+- [AEI / Faster, Please! "Critics… Fail Basic Economics"](https://www.aei.org/articles/critics-of-marc-andreessens-techno-optimist-manifesto-fail-basic-economics/)
 
 > *Methodological caveat: this report synthesizes secondary sources (press, encyclopedia, critical essays) and excerpts from the original text. The quotes attributed to the manifesto are drawn from these sources and faithful to the a16z text; for any exact quotation, refer to the [primary source](https://a16z.com/the-techno-optimist-manifesto/).*

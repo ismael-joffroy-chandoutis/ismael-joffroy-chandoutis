@@ -70,16 +70,16 @@ La bonne formule pour le dossier : Douguine est le **nœud russe et traditionali
 ## 7. Sources
 
 **Douguine et l'interview Carlson**
-- [The Moscow Times — Dugin rails against Western liberalism (Carlson, 30 avril 2024)](https://www.themoscowtimes.com/2024/04/30/russian-philosopher-dugin-rails-against-western-liberalism-in-tucker-carlson-interview-a84990) · [CEPA — Tucker Carlson and "Putin's Rasputin"](https://cepa.org/article/tucker-carlson-and-putins-rasputin-enter-the-us-living-room/) · [The Daily Beast — Dugin declares victory after interview](https://www.thedailybeast.com/putins-brain-alexander-dugin-declares-victory-after-tucker-carlson-interview/)
+- [The Moscow Times, Dugin rails against Western liberalism (Carlson, 30 avril 2024)](https://www.themoscowtimes.com/2024/04/30/russian-philosopher-dugin-rails-against-western-liberalism-in-tucker-carlson-interview-a84990) · [CEPA, Tucker Carlson and "Putin's Rasputin"](https://cepa.org/article/tucker-carlson-and-putins-rasputin-enter-the-us-living-room/) · [The Daily Beast, Dugin declares victory after interview](https://www.thedailybeast.com/putins-brain-alexander-dugin-declares-victory-after-tucker-carlson-interview/)
 
 **Doctrine**
-- [Aleksandr Dugin — Wikipedia](https://en.wikipedia.org/wiki/Aleksandr_Dugin) · [Stanford FSI — Dunlop sur *Foundations of Geopolitics*](https://tec.fsi.stanford.edu/docs/aleksandr-dugins-foundations-geopolitics) · [ResearchGate — Dugin's Intellectual Framework (Traditionalism, Eurasianism, 4PT)](https://www.researchgate.net/publication/384363152_Alexander_Dugin's_Intellectual_Framework_Traditionalism_Eurasianism_and_the_Fourth_Political_Theory)
+- [Aleksandr Dugin, Wikipedia](https://en.wikipedia.org/wiki/Aleksandr_Dugin) · [Stanford FSI, Dunlop sur *Foundations of Geopolitics*](https://tec.fsi.stanford.edu/docs/aleksandr-dugins-foundations-geopolitics) · [ResearchGate, Dugin's Intellectual Framework (Traditionalism, Eurasianism, 4PT)](https://www.researchgate.net/publication/384363152_Alexander_Dugin's_Intellectual_Framework_Traditionalism_Eurasianism_and_the_Fourth_Political_Theory)
 
 **Le pont traditionaliste (Bannon)**
-- [Benjamin Teitelbaum, *War for Eternity* — University of Colorado](https://www.colorado.edu/today/2020/04/22/inside-steve-bannons-war-eternity) · [Jacobin — recension critique de *War for Eternity*](https://jacobin.com/2021/01/benjamin-teitelbaum-war-for-eternity-steve-bannon) · [Reason — The Nationalism-ists (recension)](https://reason.com/2020/11/01/the-nationalism-ists/)
+- [Benjamin Teitelbaum, *War for Eternity*, University of Colorado](https://www.colorado.edu/today/2020/04/22/inside-steve-bannons-war-eternity) · [Jacobin, recension critique de *War for Eternity*](https://jacobin.com/2021/01/benjamin-teitelbaum-war-for-eternity-steve-bannon) · [Reason, The Nationalism-ists (recension)](https://reason.com/2020/11/01/the-nationalism-ists/)
 
 ### Note de méthode
 Faits datés vérifiés sur presse (Moscow Times, CEPA, Daily Beast) et sources universitaires (Stanford FSI/Dunlop, Teitelbaum). Les surnoms (« cerveau de Poutine ») et la thèse de Teitelbaum sont explicitement présentés comme contestés. Le volet documente une convergence d'écosystème, pas une chaîne causale.
 
 ### Voir aussi
-[Volet 2 — Thiel](./peter-thiel-paypal-mafia.md) · [Volet 4 — Transhumanisme × crypto (Network State)](./transhumanisme-crypto-convergences.md) · [Volet 6 — Marinetti](./marinetti-futurisme-fascisme.md) · [Volet 7 — Nick Land](./nick-land-accelerationnisme.md) · [Volet 9 — Portraits (Yarvin, Vance)](./portraits-individuels.md) · [Volet 13 — Anatomie du techno-fascisme](./techno-fascisme-anatomie-concept.md)
+[Volet 2, Thiel](./peter-thiel-paypal-mafia.md) · [Volet 4, Transhumanisme × crypto (Network State)](./transhumanisme-crypto-convergences.md) · [Volet 6, Marinetti](./marinetti-futurisme-fascisme.md) · [Volet 7, Nick Land](./nick-land-accelerationnisme.md) · [Volet 9, Portraits (Yarvin, Vance)](./portraits-individuels.md) · [Volet 13, Anatomie du techno-fascisme](./techno-fascisme-anatomie-concept.md)

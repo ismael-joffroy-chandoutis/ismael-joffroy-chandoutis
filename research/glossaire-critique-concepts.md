@@ -119,12 +119,12 @@ Acronyme critique forgé par Timnit Gebru et Émile P. Torres pour désigner un 
 ---
 
 ## 8. Sources
-- [TESCREAL — Wikipedia (Gebru/Torres)](https://en.wikipedia.org/wiki/TESCREAL)
-- [Transhumanism — Wikipedia](https://en.wikipedia.org/wiki/Transhumanism)
-- [LessWrong — Wikipedia](https://en.wikipedia.org/wiki/LessWrong)
-- [Technocracy movement — Wikipedia](https://en.wikipedia.org/wiki/Technocracy_movement)
-- [Effective accelerationism — Wikipedia](https://en.wikipedia.org/wiki/Effective_accelerationism)
-- [Eruditorum Press — « Neoreaction, Rationalism, and Eliezer Yudkowsky »](https://www.eruditorumpress.com/blog/neoreaction-rationalism-and-eliezer-yudkowsky)
+- [TESCREAL, Wikipedia (Gebru/Torres)](https://en.wikipedia.org/wiki/TESCREAL)
+- [Transhumanism, Wikipedia](https://en.wikipedia.org/wiki/Transhumanism)
+- [LessWrong, Wikipedia](https://en.wikipedia.org/wiki/LessWrong)
+- [Technocracy movement, Wikipedia](https://en.wikipedia.org/wiki/Technocracy_movement)
+- [Effective accelerationism, Wikipedia](https://en.wikipedia.org/wiki/Effective_accelerationism)
+- [Eruditorum Press, « Neoreaction, Rationalism, and Eliezer Yudkowsky »](https://www.eruditorumpress.com/blog/neoreaction-rationalism-and-eliezer-yudkowsky)
 
 ### Voir aussi
-[Synthèse — l'argument du dossier](./00-SYNTHESE-argument.md) · [Camp « prudence IA »](./camp-prudence-bengio-bostrom-yudkowsky.md) · [Vectofascisme](./vectofascisme-chatonsky-wark.md) · [Eugénisme et TESCREAL](./eugenisme-tescreal-filiation.md) · [Manifeste techno-optimiste](./manifeste-techno-optimiste-andreessen.md)
+[Synthèse, l'argument du dossier](./00-SYNTHESE-argument.md) · [Camp « prudence IA »](./camp-prudence-bengio-bostrom-yudkowsky.md) · [Vectofascisme](./vectofascisme-chatonsky-wark.md) · [Eugénisme et TESCREAL](./eugenisme-tescreal-filiation.md) · [Manifeste techno-optimiste](./manifeste-techno-optimiste-andreessen.md)

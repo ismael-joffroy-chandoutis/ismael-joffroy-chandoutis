@@ -27,7 +27,7 @@ The **central** divide of the entire dossier. It is not about the *speed* of tec
 | **Method** | Deliberation, transparency, compromise, checks and balances | Expert decision, often under **urgency** |
 | **Motto** | "No one has the right to decide in the people's place" | "This is too complex/important to be left to a vote" |
 
-**Why it structures the series:** e/acc (Andreessen), neoreaction (Yarvin), longtermism (Bostrom) and doomerism (Yudkowsky) **clash violently over the speed of AI**, but often share the **same technocratic reflex** — the idea that an enlightened elite should decide humanity's fate. Their **common denominator** is a **distrust of mass democracy**.
+**Why it structures the series:** e/acc (Andreessen), neoreaction (Yarvin), longtermism (Bostrom) and doomerism (Yudkowsky) **clash violently over the speed of AI**, but often share the **same technocratic reflex**, the idea that an enlightened elite should decide humanity's fate. Their **common denominator** is a **distrust of mass democracy**.
 
 > ⚠️ Trap to avoid: "anti-accelerationist" ≠ "democrat." One can want to **slow AI for elitist reasons** ("only the wise should control AGI"), which is just as anti-democratic as acceleration. That is why **Bengio** (public, multilateral governance) is a genuine counter-power, whereas **Yudkowsky** ("shut it all down" by expert decision) remains technocratic. *(See [Part 11](./camp-prudence-bengio-bostrom-yudkowsky.md).)*
 
@@ -41,12 +41,12 @@ The **central** divide of the entire dossier. It is not about the *speed* of tec
 - radical life extension / the fight against aging;
 - brain implants (Neuralink-style), human-machine interfaces;
 - consciousness **uploading**, gene editing;
-- **cryonics** (being frozen while awaiting a future "resurrection") — Yudkowsky is signed up.
+- **cryonics** (being frozen while awaiting a future "resurrection"), Yudkowsky is signed up.
 
 **Roots:** extropianism (Max More, 1988-92), Kurzweil and the **Singularity** (~2045). It is the **T** in **TESCREAL**.
 
-**Verdict — bullshit or not?** *A serious core + a religious drift.*
-- ✅ **Defensible:** healing, extending life, augmenting capacities — medicine, prosthetics and eyeglasses already do this. A legitimate philosophical question.
+**Verdict, bullshit or not?** *A serious core + a religious drift.*
+- ✅ **Defensible:** healing, extending life, augmenting capacities, medicine, prosthetics and eyeglasses already do this. A legitimate philosophical question.
 - ❌ **Bullshit:** **digital immortality, uploading, cryonics** are **unproven, quasi-religious promises** ("Paradise for geeks"). And an **elite fantasy**: who will get access to augmentation? The rich. The risk is a **two-tier medicine** elevated into a civilizational project.
 
 ---
@@ -62,9 +62,9 @@ The **central** divide of the entire dossier. It is not about the *speed* of tec
 
 It is the **R** in **TESCREAL**.
 
-**Verdict — bullshit or not?** *Good tools + a dangerous arrogance.*
+**Verdict, bullshit or not?** *Good tools + a dangerous arrogance.*
 - ✅ **Defensible:** knowing one's biases, thinking in probabilities, demanding evidence = **genuinely useful**.
-- ❌ **Bullshit:** the **arrogance** of believing oneself "the rational one" and judging anyone who diverges "irrational." It produces **numerically-dressed delusional certainties** (P(doom) = 100%) that **look** like rigor but rest on bogus assumptions. Plus a **cultish culture** (jargon, gurus, "fan-club") — out of which, as a side effect, **neoreaction** (Yarvin) emerged.
+- ❌ **Bullshit:** the **arrogance** of believing oneself "the rational one" and judging anyone who diverges "irrational." It produces **numerically-dressed delusional certainties** (P(doom) = 100%) that **look** like rigor but rest on bogus assumptions. Plus a **cultish culture** (jargon, gurus, "fan-club"), out of which, as a side effect, **neoreaction** (Yarvin) emerged.
 
 ---
 
@@ -84,21 +84,21 @@ A critical acronym coined by **Timnit Gebru** and **Émile P. Torres** to design
 
 | Concept | Valid core ✅ | "Bullshit" drift ❌ | Overall verdict |
 |---|---|---|---|
-| **Transhumanism** | Augmented medicine, life extension | Immortality/upload/cryonics = unproven faith; elite fantasy | **Ideology**, not science — real core, quasi-religious promises |
+| **Transhumanism** | Augmented medicine, life extension | Immortality/upload/cryonics = unproven faith; elite fantasy | **Ideology**, not science, real core, quasi-religious promises |
 | **Rationalism** | Biases, probabilities, demand for evidence | Arrogance, numerically-dressed delusional certainties, cultish culture | **Valid tools hijacked** into dogma |
 | **Technocracy** | Expertise should **inform** decisions | Expertise **replaces** the vote → denial of democracy | Dangerous when it **bypasses** the people |
 | **Longtermism** (Part 11) | Thinking long-term = healthy | Sacrificing the present to 10^58 future lives | **Elitist**, authoritarian implications |
 
-> **Reading rule:** across this entire galaxy, **the form is scientific, the substance is often a faith.** People who present themselves as "the ultra-rational" arrive at **extreme and unverifiable** conclusions (immortality, certain extinction, "only the enlightened should decide"). It is **not** complete bullshit — it is an **ideology wearing the clothes of reason**. That is exactly the critique of [Part 1](./manifeste-techno-optimiste-andreessen.md): *technological reason turned into religion.*
+> **Reading rule:** across this entire galaxy, **the form is scientific, the substance is often a faith.** People who present themselves as "the ultra-rational" arrive at **extreme and unverifiable** conclusions (immortality, certain extinction, "only the enlightened should decide"). It is **not** complete bullshit, it is an **ideology wearing the clothes of reason**. That is exactly the critique of [Part 1](./manifeste-techno-optimiste-andreessen.md): *technological reason turned into religion.*
 
 ---
 
 ## 6. Sources
-- [TESCREAL — Wikipedia (Gebru/Torres)](https://en.wikipedia.org/wiki/TESCREAL)
-- [Transhumanism — Wikipedia](https://en.wikipedia.org/wiki/Transhumanism)
-- [LessWrong — Wikipedia](https://en.wikipedia.org/wiki/LessWrong)
-- [Technocracy movement — Wikipedia](https://en.wikipedia.org/wiki/Technocracy_movement)
-- [Eruditorum Press — "Neoreaction, Rationalism, and Eliezer Yudkowsky"](https://www.eruditorumpress.com/blog/neoreaction-rationalism-and-eliezer-yudkowsky)
+- [TESCREAL, Wikipedia (Gebru/Torres)](https://en.wikipedia.org/wiki/TESCREAL)
+- [Transhumanism, Wikipedia](https://en.wikipedia.org/wiki/Transhumanism)
+- [LessWrong, Wikipedia](https://en.wikipedia.org/wiki/LessWrong)
+- [Technocracy movement, Wikipedia](https://en.wikipedia.org/wiki/Technocracy_movement)
+- [Eruditorum Press, "Neoreaction, Rationalism, and Eliezer Yudkowsky"](https://www.eruditorumpress.com/blog/neoreaction-rationalism-and-eliezer-yudkowsky)
 
 ### See also
 [The "AI caution" camp (Bengio, Bostrom, Yudkowsky)](./camp-prudence-bengio-bostrom-yudkowsky.md) · [Transhumanism × Crypto](./transhumanisme-crypto-convergences.md) · [Counter-powers](./contre-pouvoirs.md) · [Techno-Optimist Manifesto](./manifeste-techno-optimiste-andreessen.md)

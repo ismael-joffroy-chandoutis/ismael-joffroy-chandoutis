@@ -66,4 +66,4 @@ La conclusion n'est donc ni doomer ni optimiste. Elle est politique : la terre n
 ---
 
 ### Voir aussi
-[Note d'autorat (le dossier écrit par une IA)](./note-autorat-ia.md) · [Volet 12 — Glossaire critique](./glossaire-critique-concepts.md) · [Volet 25 — Les solutions](./solutions-bifurcations.md) · [README — sommaire complet](./README.md)
+[Note d'autorat (le dossier écrit par une IA)](./note-autorat-ia.md) · [Volet 12, Glossaire critique](./glossaire-critique-concepts.md) · [Volet 25, Les solutions](./solutions-bifurcations.md) · [README, sommaire complet](./README.md)

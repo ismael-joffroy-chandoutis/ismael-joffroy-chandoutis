@@ -35,10 +35,10 @@
 ```mermaid
 graph TD
     subgraph CAPITAL["💰 Venture capital"]
-        A16Z["a16z — Andreessen & Horowitz"]
-        FF["Founders Fund — Thiel"]
-        SEQ["Sequoia — Botha"]
-        CRAFT["Craft Ventures — Sacks"]
+        A16Z["a16z, Andreessen & Horowitz"]
+        FF["Founders Fund, Thiel"]
+        SEQ["Sequoia, Botha"]
+        CRAFT["Craft Ventures, Sacks"]
     end
 
     subgraph ORIGINE["🌱 Matrices"]
@@ -47,16 +47,16 @@ graph TD
     end
 
     subgraph POUVOIR["🏛️ State (2025-2026)"]
-        VANCE["JD Vance — VP"]
-        MUSK["Musk — DOGE"]
-        SACKS["Sacks — AI/crypto czar"]
-        PCAST["Andreessen — PCAST"]
+        VANCE["JD Vance, VP"]
+        MUSK["Musk, DOGE"]
+        SACKS["Sacks, AI/crypto czar"]
+        PCAST["Andreessen, PCAST"]
     end
 
     subgraph INFRA["🛰️ Infrastructure / Authoritarian Stack"]
-        PLTR["Palantir — data/surveillance"]
-        ANDURIL["Anduril — drones/defense"]
-        XAI["xAI / OpenAI — AI"]
+        PLTR["Palantir, data/surveillance"]
+        ANDURIL["Anduril, drones/defense"]
+        XAI["xAI / OpenAI, AI"]
     end
 
     subgraph IDEO["📚 Ideologues"]
@@ -111,12 +111,12 @@ graph LR
 ## 4. Who really rules? The "Thielverse" in power
 
 The central fact of 2025-2026: **the network born out of PayPal has gained a foothold in the State.**
-- **JD Vance** (vice president) — Thiel protégé, Narya fund backed by Thiel & Andreessen, ideas drawn from Yarvin.
-- **Elon Musk** — led **DOGE** (cuts to the federal administration).
-- **David Sacks** — White House **AI & crypto "czar"**.
-- **Marc Andreessen** — advisor, appointed to **PCAST** (2026).
-- **Thiel** — reportedly placed **≥ 10 associates** in the administration.
-- **Palantir** — US Army contract of **~$10B** (2025).
+- **JD Vance** (vice president), Thiel protégé, Narya fund backed by Thiel & Andreessen, ideas drawn from Yarvin.
+- **Elon Musk**, led **DOGE** (cuts to the federal administration).
+- **David Sacks**, White House **AI & crypto "czar"**.
+- **Marc Andreessen**, advisor, appointed to **PCAST** (2026).
+- **Thiel**, reportedly placed **≥ 10 associates** in the administration.
+- **Palantir**, US Army contract of **~$10B** (2025).
 
 This is no longer lobbying: it is a **partial fusion between tech capital and the State apparatus**, what some analysts call the **"Authoritarian Stack"** (cloud + AI + finance + drones + satellites) or a **"technological oligarchy"** (Oxfam).
 
@@ -127,8 +127,8 @@ This is no longer lobbying: it is a **partial fusion between tech capital and th
 ## 5. The structuring axes
 
 The entire field can be read along **three axes**:
-1. **Accelerate ↔ Secure** (e/acc vs EA) — the major fault line on AI.
-2. **Exit the State ↔ Capture the State** (network state/exit vs Thielverse in power) — the tension between the anti-State cypherpunk ethos and the 2025 reality of a fusion with the State.
+1. **Accelerate ↔ Secure** (e/acc vs EA), the major fault line on AI.
+2. **Exit the State ↔ Capture the State** (network state/exit vs Thielverse in power), the tension between the anti-State cypherpunk ethos and the 2025 reality of a fusion with the State.
 3. **Egalitarian ↔ Aristocratic** (Andreessen's "pro-human" rhetoric vs the avowed Nietzscheanism of Thiel/Yarvin).
 
 The **observed trajectory**: a shift toward **Accelerate + Capture the State + Aristocratic**.
@@ -173,7 +173,7 @@ The most likely is a **mix of A + D** (oligarchy at the center, exit enclaves on
 2. **Ideology is not decorative**: it **precedes and justifies** decisions (Thiel cites Girard; Andreessen, Marinetti; Vance, Yarvin). Taking it seriously is a precondition for contesting it.
 3. **The decisive cleavage of the coming years** is not the classic left/right, but **acceleration+concentration of power** ↔ **caution+democratic checks and balances**.
 4. **Europe** appears as the main **institutional counterweight**; the question is whether it can regulate without giving up on innovation.
-5. **The best civic compass**: refuse the false choice of "blissful techno-optimism vs techno-pessimism". The defensible position is **innovation coupled with democracy, pluralism, ethics, and ecology** — exactly what the manifestos studied here cast aside.
+5. **The best civic compass**: refuse the false choice of "blissful techno-optimism vs techno-pessimism". The defensible position is **innovation coupled with democracy, pluralism, ethics, and ecology**, exactly what the manifestos studied here cast aside.
 
 ---
 
