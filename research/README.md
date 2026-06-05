@@ -28,6 +28,7 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 17 | [**Le pont natsec**](./pont-natsec-doomers-faucons.md) | Aschenbrenner, AI 2027, la mort des safety summits (Bletchley→Paris→Delhi), politique Trump 2025-26, affaire Anthropic/Pentagone, IA militaire (Lavender, Ukraine) |
 | 18 | [**Les maîtres de modèles — portraits 2**](./maitres-de-modeles-portraits-2.md) | Les trois parrains (LeCun/AMI, Bengio/LawZero, Hinton), Amodei le doomer qui accélère, Hassabis, Zuckerberg/Wang, Sutskever, Murati, Mistral, financeurs safety |
 | 19 | [**Les troisièmes voies**](./troisiemes-voies-ia.md) | Sortir du binaire e/acc vs doom : McQuillan (IA et fascisation, decomputing), d/acc (Buterin), accélérationnisme de gauche, Yuk Hui, « normal technology », Public AI, Morozov |
+| 20 | [**Anthropic : le double discours**](./anthropic-double-discours.md) | La semaine des deux discours (IPO 965 Md$ + appel à l'option de pause, juin 2026), Claude Mythos/Glasswing, chronologie 2021-26, RSP abandonnée, lobbying, « vraiment différent d'OpenAI ? », 4 grilles d'interprétation — écrit par Claude sur son fabricant, conflit d'intérêt documenté |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
