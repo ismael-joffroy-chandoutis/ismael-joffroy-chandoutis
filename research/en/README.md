@@ -45,12 +45,12 @@ A series of *deep research* reports (with cited, cross-checked sources) on the i
 | 29 | [**Gender, masculinity, pronatalism**](./genre-masculinite-pronatalisme.md) | A vector, not a backdrop: pronatalism (Musk, Collins, Natal Con), embryo selection, "based" virilism, gendered labor, the counter-field (Haraway). Diptych with Part 28 |
 | 🧭 | [**Synthesis: the dossier's argument**](./00-SYNTHESE-argument.md) | The overall thesis after 29 parts. Entry point |
 | 🪞 | [**Authorship note (written by an AI)**](./note-autorat-ia.md) | The fundamental conflict of interest, named and worked through |
-| 🗺️ | [**Interactive cartography (HTML)**](./cartographie.html) | Clickable map of actors & ideas (interface in French) |
-| 🕸️ | [**Lombardi flow map (HTML)**](./lombardi.html) | "Capital, compute and power": money and power flows à la Mark Lombardi (interface in French) |
-| 📊 | [**Two-axes map (HTML)**](./deux-axes.html) | Each actor placed on accelerate↔slow / concentrate↔democratize: the thesis at a glance (interface in French) |
-| 🕰️ | [**Timeline 2021-2026 (HTML)**](./timeline.html) | The events gathered from a dozen parts (interface in French) |
+| 🗺️ | [**Interactive cartography (HTML)**](./cartographie-en.html) | Clickable map of actors & ideas (labs, China, left/third ways) |
+| 🕸️ | [**Lombardi flow map (HTML)**](./lombardi-en.html) | "Capital, compute and power": money and power flows à la Mark Lombardi |
+| 📊 | [**Two-axes map (HTML)**](./deux-axes-en.html) | Each actor placed on accelerate↔slow / concentrate↔democratize: the thesis at a glance |
+| 🕰️ | [**Timeline 2021-2026 (HTML)**](./timeline-en.html) | The events gathered from a dozen parts |
 
-*All HTML maps are self-contained and offline: double-click after downloading, no dependencies. Their interface is in French.*
+*All HTML maps are self-contained and offline: double-click after downloading, no dependencies. (French versions of the maps are in the parent `research/` folder.)*
 
 ## How to read the series
 
