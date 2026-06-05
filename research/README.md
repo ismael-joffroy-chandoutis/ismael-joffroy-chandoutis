@@ -23,6 +23,11 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 12 | [**Glossaire critique : concepts décodés**](./glossaire-critique-concepts.md) | Technocratie vs démocratie, transhumanisme, rationalisme, TESCREAL — avec verdict « bullshit ou pas ? » |
 | 13 | [**Techno-fascisme : anatomie d'un concept**](./techno-fascisme-anatomie-concept.md) | Généalogie (Mimura, Herf), Coeckelbergh, grilles (Paxton/Eco/Stanley), le débat « est-ce vraiment du fascisme ? », définition de travail |
 | 14 | [**« If Anyone Builds It, Everyone Dies » — lecture critique**](./if-anyone-builds-it-lecture-critique.md) | Première source primaire de la série : le livre de Yudkowsky & Soares (2025) lu en intégralité — arguments, failles, placement sur les deux axes du volet 11 |
+| 15 | [**La Chine : l'autre modèle**](./chine-ia-autre-modele.md) | Le moment DeepSeek, plan AI+, gouvernance CAC, le camp prudence chinois (CnAISDA, Yao), Yuk Hui/Zhao Tingyang — techno-autoritarisme d'État vs technofascisme oligarchique |
+| 16 | [**L'empire matériel**](./empire-materiel-sud-global-compute.md) | Sud global (Karen Hao, travail des données, eau), pétromonarchies (Stargate UAE, HUMAIN), NVIDIA/TSMC/ASML, export controls, énergie (Three Mile Island, Colossus/NAACP) |
+| 17 | [**Le pont natsec**](./pont-natsec-doomers-faucons.md) | Aschenbrenner, AI 2027, la mort des safety summits (Bletchley→Paris→Delhi), politique Trump 2025-26, affaire Anthropic/Pentagone, IA militaire (Lavender, Ukraine) |
+| 18 | [**Les maîtres de modèles — portraits 2**](./maitres-de-modeles-portraits-2.md) | Les trois parrains (LeCun/AMI, Bengio/LawZero, Hinton), Amodei le doomer qui accélère, Hassabis, Zuckerberg/Wang, Sutskever, Murati, Mistral, financeurs safety |
+| 19 | [**Les troisièmes voies**](./troisiemes-voies-ia.md) | Sortir du binaire e/acc vs doom : McQuillan (IA et fascisation, decomputing), d/acc (Buterin), accélérationnisme de gauche, Yuk Hui, « normal technology », Public AI, Morozov |
 | 🗺️ | [**Cartographie interactive (HTML)**](./cartographie.html) | Carte cliquable des acteurs & idées (autonome, hors-ligne) |
 | 🇬🇧 | [**English version**](./en/README.md) | Full English translation of the series |
 
