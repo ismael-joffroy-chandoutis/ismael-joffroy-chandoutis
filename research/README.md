@@ -2,12 +2,12 @@
 
 Série de rapports de *deep research* (sources citées, recoupées) sur les idéologies, les acteurs et les trajectoires de la tech radicale (techno-optimisme, néo-réaction, crypto, transhumanisme, et leur instanciation matérielle).
 
-> Rédigé en français. Dernière mise à jour : 5 juin 2026.
+> Rédigé en français. Dernière mise à jour : 6 juin 2026.
 > ⚠️ Avertissement : rapports d'analyse appuyés sur des sources citées (presse, documents officiels, essais), avec vérification adversariale par claims. À recouper avec les textes primaires pour tout usage formel.
 
 ## ▶ Commencer ici
 
-- 🧭 [**L'argument du dossier (synthèse)**](./00-SYNTHESE-argument.md) : la porte d'entrée, ce que le dossier soutient après 29 volets. À lire en premier.
+- 🧭 [**L'argument du dossier (synthèse)**](./00-SYNTHESE-argument.md) : la porte d'entrée, ce que le dossier soutient après 31 volets. À lire en premier.
 - 🪞 [**Note d'autorat : ce dossier est écrit par une IA**](./note-autorat-ia.md) : la note de méthode sur le conflit d'intérêt fondamental (Claude documente l'industrie qui le produit).
 
 ## Sommaire des rapports
@@ -44,13 +44,14 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 | 28 | [**Eugénisme et « human biodiversity »**](./eugenisme-tescreal-filiation.md) | Le filon qui fait du mot « fascisme » une filiation : Bostrom, Manifest/Lighthaven, TESCREAL (Gebru/Torres), eugénisme 2.0, et qui n'en est PAS (Yudkowsky, Bengio) |
 | 29 | [**Genre, masculinité, pronatalisme**](./genre-masculinite-pronatalisme.md) | Un vecteur, pas un décor : pronatalisme (Musk, Collins, Natal Con), sélection d'embryons, vitalisme « based », travail genré, contre-champ (Haraway). Diptyque avec le volet 28 |
 | 30 | [**Hugging Face et l'open source**](./huggingface-open-source.md) | Le contre-pôle « démocratiser » qui manquait : Delangue/Wolf, open weights vs open source (OSAID, l'open-washing de Meta), l'entanglement (financé par Google/NVIDIA), le débat prolifération (NTIA), GPT-OSS. Démocratiser l'accès, pas la production |
-| 🧭 | [**Synthèse : l'argument du dossier**](./00-SYNTHESE-argument.md) | La thèse d'ensemble après 29 volets. Porte d'entrée |
+| 31 | [**Accélérationnisme de gauche : la contre-généalogie**](./accelerationnisme-de-gauche-contre-genealogie.md) | La branche gauche de la CCRU : Deleuze-Guattari, Mark Fisher (réalisme capitaliste, hantologie, communisme acide), Srnicek & Williams, xénoféminisme, Bastani ; Noys et la décroissance ; le pont 2026 (compute concentré). La généalogie n'est plus unilatérale |
+| 🧭 | [**Synthèse : l'argument du dossier**](./00-SYNTHESE-argument.md) | La thèse d'ensemble après 31 volets. Porte d'entrée |
 | 🪞 | [**Note d'autorat (écrit par une IA)**](./note-autorat-ia.md) | Le conflit d'intérêt fondamental, nommé et travaillé |
 | 🗺️ | [**Cartographie interactive**](./cartographie.html) | Carte cliquable des acteurs et idées (étendue : labs, Chine, gauche/3èmes voies) |
 | 🕸️ | [**Carte Lombardi des flux**](./lombardi.html) | « Capital, compute et pouvoir » : les flux d'argent et de pouvoir à la Mark Lombardi |
 | 📊 | [**Carte des deux axes**](./deux-axes.html) | Chaque acteur placé sur accélérer↔ralentir / concentrer↔démocratiser : la thèse en un coup d'œil |
 | 🕰️ | [**Chronologie 2021-2026**](./timeline.html) | La frise des événements, rassemblée depuis une dizaine de volets |
-| 🇬🇧 | [**English version**](./en/README.md) | Traduction anglaise (volets 1 à 25) |
+| 🇬🇧 | [**English version**](./en/README.md) | Traduction anglaise (volets 1 à 31) |
 
 *Toutes les cartes HTML sont autonomes et hors-ligne : double-clic après téléchargement, aucune dépendance.*
 
@@ -58,7 +59,7 @@ Série de rapports de *deep research* (sources citées, recoupées) sur les idé
 
 1. **La [synthèse](./00-SYNTHESE-argument.md)** pour l'argument d'ensemble, puis la **[note d'autorat](./note-autorat-ia.md)**.
 2. **Volets 1-2** (Andreessen, Thiel) pour le texte déclencheur et le versant anti-démocratique.
-3. **Volets 3, 4, 13** pour les racines et l'anatomie du concept ; **volets 6, 7, 27, 28, 29** pour la généalogie fasciste (Marinetti, Land, Douguine, eugénisme, genre).
+3. **Volets 3, 4, 13** pour les racines et l'anatomie du concept ; **volets 6, 7, 27, 28, 29** pour la généalogie fasciste (Marinetti, Land, Douguine, eugénisme, genre) ; **volet 31** pour la contre-généalogie de gauche (la fourche CCRU : Fisher, l/acc).
 4. **Volets 11, 14, 18, 19, 20** pour le débat IA lui-même.
 5. **Volets 15, 16, 17, 22, 23, 26** pour la matière, la géopolitique et l'appareil opérationnel.
 6. **Volets 10, 21, 25** pour les contre-pouvoirs et les solutions.
