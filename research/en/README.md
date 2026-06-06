@@ -2,12 +2,12 @@
 
 A series of *deep research* reports (with cited, cross-checked sources) on the ideologies, the actors, and the trajectories of radical tech (techno-optimism, neo-reaction, crypto, transhumanism, and their material instantiation).
 
-> English translation of the French series. Last updated: 5 June 2026.
+> English translation of the French series. Last updated: 6 June 2026.
 > ⚠️ Disclaimer: analytical reports based on cited sources (press, official documents, essays), with adversarial verification by claims. To be cross-checked against the primary texts for any formal use.
 
 ## ▶ Start here
 
-- 🧭 [**The dossier's argument (synthesis)**](./00-SYNTHESE-argument.md): the entry point, what the dossier argues after 29 parts. Read first.
+- 🧭 [**The dossier's argument (synthesis)**](./00-SYNTHESE-argument.md): the entry point, what the dossier argues after 31 parts. Read first.
 - 🪞 [**Authorship note: this dossier is written by an AI**](./note-autorat-ia.md): the methodological note on the fundamental conflict of interest (Claude documenting the industry that produces it).
 
 ## Index of reports
@@ -44,7 +44,8 @@ A series of *deep research* reports (with cited, cross-checked sources) on the i
 | 28 | [**Eugenics and "human biodiversity"**](./eugenisme-tescreal-filiation.md) | The seam that makes "fascism" a lineage: Bostrom, Manifest/Lighthaven, TESCREAL (Gebru/Torres), Eugenics 2.0, and who is NOT part of it (Yudkowsky, Bengio) |
 | 29 | [**Gender, masculinity, pronatalism**](./genre-masculinite-pronatalisme.md) | A vector, not a backdrop: pronatalism (Musk, Collins, Natal Con), embryo selection, "based" virilism, gendered labor, the counter-field (Haraway). Diptych with Part 28 |
 | 30 | [**Hugging Face and open source**](./huggingface-open-source.md) | The missing "democratize" counter-pole: Delangue/Wolf, open weights vs open source (OSAID, Meta's open-washing), the entanglement (funded by Google/NVIDIA), the proliferation debate (NTIA), GPT-OSS. Democratizing access, not production |
-| 🧭 | [**Synthesis: the dossier's argument**](./00-SYNTHESE-argument.md) | The overall thesis after 29 parts. Entry point |
+| 31 | [**Left accelerationism: the counter-genealogy**](./accelerationnisme-de-gauche-contre-genealogie.md) | The left branch of the CCRU: Deleuze-Guattari, Mark Fisher (capitalist realism, hauntology, acid communism), Srnicek & Williams, xenofeminism, Bastani; Noys and degrowth; the 2026 bridge (concentrated compute). The genealogy is no longer one-sided |
+| 🧭 | [**Synthesis: the dossier's argument**](./00-SYNTHESE-argument.md) | The overall thesis after 31 parts. Entry point |
 | 🪞 | [**Authorship note (written by an AI)**](./note-autorat-ia.md) | The fundamental conflict of interest, named and worked through |
 | 🗺️ | [**Interactive cartography (HTML)**](./cartographie-en.html) | Clickable map of actors & ideas (labs, China, left/third ways) |
 | 🕸️ | [**Lombardi flow map (HTML)**](./lombardi-en.html) | "Capital, compute and power": money and power flows à la Mark Lombardi |
@@ -57,7 +58,7 @@ A series of *deep research* reports (with cited, cross-checked sources) on the i
 
 1. **The [synthesis](./00-SYNTHESE-argument.md)** for the overall argument, then the **[authorship note](./note-autorat-ia.md)**.
 2. **Parts 1-2** (Andreessen, Thiel) for the trigger text and the anti-democratic dimension.
-3. **Parts 3, 4, 13** for the roots and the anatomy of the concept; **Parts 6, 7, 27, 28, 29** for the fascist genealogy (Marinetti, Land, Dugin, eugenics, gender).
+3. **Parts 3, 4, 13** for the roots and the anatomy of the concept; **Parts 6, 7, 27, 28, 29** for the fascist genealogy (Marinetti, Land, Dugin, eugenics, gender); **Part 31** for the left counter-genealogy (the CCRU fork: Fisher, l/acc).
 4. **Parts 11, 14, 18, 19, 20** for the AI debate itself.
 5. **Parts 15, 16, 17, 22, 23, 26** for matter, geopolitics, and the operational apparatus.
 6. **Parts 10, 21, 25** for counter-powers and solutions.

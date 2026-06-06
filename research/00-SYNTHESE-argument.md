@@ -1,6 +1,6 @@
 # L'argument du dossier (synthèse)
 
-> Texte de synthèse. Écrit le 5 juin 2026. C'est la porte d'entrée du dossier : ce qu'il soutient, après 30 volets. À lire en premier, ou en dernier.
+> Texte de synthèse. Écrit le 5 juin 2026. C'est la porte d'entrée du dossier : ce qu'il soutient, après 31 volets. À lire en premier, ou en dernier.
 > Il remplace la fonction du volet 5 (cartographie/prospective), écrit alors que le dossier n'avait que dix volets et avant le tournant matériel et chinois.
 
 ---
@@ -68,12 +68,13 @@ Deux écarts, qu'il faut nommer pour ne pas faire dire au texte plus qu'il ne di
 
 Sources : *Magnifica humanitas*, encyclique de Léon XIV, 25 mai 2026 ; Anne Alombert, entretien recueilli par Anne Dujin, « Léon XIV, à partir de l'IA, se livre à un véritable plaidoyer pour l'action publique », *Le Monde*, 30 mai 2026 ; Anne Alombert, *De la bêtise artificielle*, Allia, 2025.
 
-## Comment lire les 30 volets
+## Comment lire les 31 volets
 
 - **Pour comprendre l'idéologie** : volets 1 (Andreessen), 2 (Thiel), 3 et 4 (les sources), 13 (anatomie du concept).
 - **Pour le débat IA lui-même** : volets 11 (camp prudence), 14 (le livre de Yudkowsky lu en entier), 18 (les maîtres de modèles), 19 (les troisièmes voies), 20 (Anthropic), 30 (Hugging Face et l'open source).
 - **Pour la matière et la géopolitique** : volets 15 (Chine), 16 (l'empire matériel), 17 (natsec), 22 (énergie/nucléaire), 23 (NVIDIA/Huawei), 26 (Palantir/Anduril).
 - **Pour la généalogie fasciste** : volets 6 (Marinetti), 7 (Land), 24 (vectofascisme), 27 (Douguine), 28 (eugénisme), 29 (genre et pronatalisme).
+- **Pour la contre-généalogie de gauche** : volet 31 (la fourche CCRU, Mark Fisher, l'accélérationnisme de gauche).
 - **Pour agir** : volets 10 (contre-pouvoirs), 21 (la gauche mondiale), 25 (les solutions).
 - **Les cartes** : la [cartographie interactive](./cartographie.html) et la [carte Lombardi des flux](./lombardi.html).
 
