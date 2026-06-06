@@ -54,6 +54,20 @@ Si le danger est l'exigence d'illimité, alors chaque solution est une manière 
 
 La conclusion n'est donc ni doomer ni optimiste. Elle est politique : la terre ne sombre pas avec l'IA, elle sombre avec l'illimité. Et l'illimité, lui, a des adresses, des bilans et des permis de construire. C'est-à-dire des prises.
 
+## Réception : un diagnostic convergent, hors du champ tech
+
+Un signe que l'axe 2 n'est pas une vue de l'esprit : il est désormais formulé, presque à l'identique, hors de la tech. En mai 2026, l'encyclique *Magnifica humanitas* de Léon XIV consacre l'essentiel de son propos à l'IA. Telle que la lit la philosophe Anne Alombert (*De la bêtise artificielle*, Allia, 2025) dans *Le Monde*, elle déplace les mêmes lignes que ce dossier :
+
+- elle refuse le « pour ou contre l'IA » et l'idée qu'il suffirait d'« aligner » les modèles sur nos valeurs : l'IA y est une question politique (qui développe, selon quels modèles économiques, quels projets), pas seulement morale. C'est notre passage de l'axe 1 à l'axe 2 ;
+- elle oppose deux projets technopolitiques, Babel (uniformisation, toute-puissance de quelques-uns) et Jérusalem (diversité des compétences, contributions du plus grand nombre) : c'est, en typologie biblique, notre axe concentrer↔démocratiser ;
+- elle fait de l'action publique et du bien commun la source des limites opposables aux plateformes : c'est notre thèse de l'illimité (volet 25, « rendre une limite opposable ») ;
+- elle ancre le problème dans la matière (travailleurs du clic, épuisement des ressources) et dans l'architecture algorithmique plutôt que dans la seule « chasse aux fausses informations » : c'est notre tournant matériel (volet 16) et notre déplacement du moral vers le structurel ;
+- elle regrette enfin l'absence d'alternatives nommées (Wikipédia, Tournesol, Pol.is) : c'est notre pôle « démocratiser » (volet 30).
+
+Deux écarts, qu'il faut nommer pour ne pas faire dire au texte plus qu'il ne dit. D'abord, l'encyclique s'arrête au diagnostic : elle ne prononce pas le mot « fascisme » et ne construit pas la généalogie (Marinetti, Land, Douguine, eugénisme) qui, ici, transforme l'analogie en filiation. Ensuite, elle parle depuis une extériorité relative que ce dossier déclarait introuvable (« il n'y a pas de dehors propre ») : l'Église n'est pas financée par les fortunes tech. Cette convergence est atteinte par une autre voie intellectuelle, la lignée Stiegler (pharmacologie de la technique, économie contributive, que cite Alombert avec Tournesol et Pol.is), là où ce dossier passe par l'économie politique et la généalogie des idées. Deux appareils étrangers qui tombent sur le même axe caché : c'est ce qui renforce le diagnostic, plutôt que de le répéter.
+
+Sources : *Magnifica humanitas*, encyclique de Léon XIV, 25 mai 2026 ; Anne Alombert, entretien recueilli par Anne Dujin, « Léon XIV, à partir de l'IA, se livre à un véritable plaidoyer pour l'action publique », *Le Monde*, 30 mai 2026 ; Anne Alombert, *De la bêtise artificielle*, Allia, 2025.
+
 ## Comment lire les 30 volets
 
 - **Pour comprendre l'idéologie** : volets 1 (Andreessen), 2 (Thiel), 3 et 4 (les sources), 13 (anatomie du concept).
