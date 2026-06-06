@@ -26,9 +26,9 @@
 <body>
 <div id="wrap">
   <h1>The two-axes map</h1>
-  <div class="sub">Each actor placed on the dossier's two axes. Horizontal: slow down ↔ accelerate (speed). Vertical: concentrate ↔ democratize (power). The dossier's thesis can be read at a glance: the bottom-right quadrant (accelerate + concentrate) is saturated with powerful actors; the genuine counter-powers are top-left; and the doomer camp (Yudkowsky) is bottom-left, slowing down but without democracy. Hover over a point.</div>
+  <div class="sub">Each actor placed on the dossier's two axes. Horizontal: slow down ↔ accelerate (speed). Vertical: concentrate ↔ democratize (power). The dossier's thesis can be read at a glance: the bottom-right quadrant (accelerate + concentrate) is saturated with powerful actors; the genuine counter-powers are top-left; and the doomer camp (Yudkowsky) is bottom-left, slowing down but without democracy. The top-right (accelerate + democratize) is left accelerationism's lost wager (Fisher, l-acc, Bastani): the emancipatory speed the right captured (Part 31). Hover over a point.</div>
   <svg id="plot" viewBox="0 0 1000 720" xmlns="http://www.w3.org/2000/svg"></svg>
-  <div id="info"><i>Hover over a point for the note. Placements are indicative, drawn from the verdicts of Parts 11, 15, 18, 19, 23, 26.</i></div>
+  <div id="info"><i>Hover over a point for the note. Placements are indicative, drawn from the verdicts of Parts 11, 15, 18, 19, 23, 26, 31.</i></div>
   <div class="foot">Qualitative placements, not measurements. Color by camp. Source: dossier parts. Self-contained, offline. June 2026.</div>
 </div>
 <script>
@@ -63,6 +63,11 @@ const A = [
   {n:'Mistral', ax:80, dem:48, c:'labs', d:"European sovereignty, real or cosmetic? (Part 18)."},
   {n:'Yuk Hui', ax:30, dem:70, c:'gauche', d:"Cosmotechnics, technodiversity: exiting the Valley/Beijing standoff (Part 19)."},
   {n:'Vance / US state', ax:75, dem:12, c:'power', d:"Capture of the state by the tech-right (Parts 9, 17)."},
+  {n:'Mark Fisher', ax:58, dem:82, c:'gauche', d:"Capitalist realism, hauntology: he names the disease (\"no alternative\"). The left branch of the CCRU, facing Land (Part 31)."},
+  {n:'l-acc (Srnicek & Williams)', ax:74, dem:70, c:'gauche', d:"Accelerate technology toward post-work, but on the democratize side. The lost wager: the right captured speed by owning the compute (Part 31)."},
+  {n:'Bastani / FALC', ax:88, dem:84, c:'gauche', d:"Fully automated luxury communism: acceleration plus abundance for all. Post-scarcity utopia (Part 31)."},
+  {n:'Land / r-acc', ax:94, dem:5, c:'nrx', d:"The other branch of the CCRU: capital-machine beyond the human, Dark Enlightenment. The fork, facing Fisher (Parts 7, 31)."},
+  {n:'Degrowth (Hickel, Saito)', ax:9, dem:66, c:'gauche', d:"The other left: slow down, make a limit opposable. The brake against acceleration (Parts 22, 31)."},
 ];
 const svg = document.getElementById('plot'), NS='http://www.w3.org/2000/svg';
 const info = document.getElementById('info');

@@ -26,9 +26,9 @@
 <body>
 <div id="wrap">
   <h1>La carte des deux axes</h1>
-  <div class="sub">Chaque acteur placé sur les deux axes du dossier. Horizontal : ralentir ↔ accélérer (vitesse). Vertical : concentrer ↔ démocratiser (pouvoir). La thèse du dossier se lit d'un coup d'œil : le quadrant bas-droite (accélérer + concentrer) est saturé d'acteurs puissants ; les vrais contre-pouvoirs sont en haut-gauche ; et le camp doomer (Yudkowsky) est en bas-gauche, ralentir mais sans démocratie. Survolez un point.</div>
+  <div class="sub">Chaque acteur placé sur les deux axes du dossier. Horizontal : ralentir ↔ accélérer (vitesse). Vertical : concentrer ↔ démocratiser (pouvoir). La thèse du dossier se lit d'un coup d'œil : le quadrant bas-droite (accélérer + concentrer) est saturé d'acteurs puissants ; les vrais contre-pouvoirs sont en haut-gauche ; et le camp doomer (Yudkowsky) est en bas-gauche, ralentir mais sans démocratie. Le haut-droite (accélérer + démocratiser) est le pari perdu de l'accélérationnisme de gauche (Fisher, l-acc, Bastani) : la vitesse rêvée émancipatrice que la droite a captée (volet 31). Survolez un point.</div>
   <svg id="plot" viewBox="0 0 1000 720" xmlns="http://www.w3.org/2000/svg"></svg>
-  <div id="info"><i>Survolez un point pour la note. Les placements sont indicatifs, tirés des verdicts des volets 11, 15, 18, 19, 23, 26.</i></div>
+  <div id="info"><i>Survolez un point pour la note. Les placements sont indicatifs, tirés des verdicts des volets 11, 15, 18, 19, 23, 26, 31.</i></div>
   <div class="foot">Placements qualitatifs, pas des mesures. Couleur par camp. Source : volets du dossier. Document autonome, hors-ligne. Juin 2026.</div>
 </div>
 <script>
@@ -63,6 +63,11 @@ const A = [
   {n:'Mistral', ax:80, dem:48, c:'labs', d:"Souveraineté européenne, réelle ou cosmétique ? (volet 18)."},
   {n:'Yuk Hui', ax:30, dem:70, c:'gauche', d:"Cosmotechnique, technodiversité : sortir du face-à-face Valley/Pékin (volet 19)."},
   {n:'Vance / État US', ax:75, dem:12, c:'power', d:"Capture de l'État par la tech-droite (volets 9, 17)."},
+  {n:'Mark Fisher', ax:58, dem:82, c:'gauche', d:"Réalisme capitaliste, hantologie : il nomme la maladie (« no alternative »). La branche gauche de la CCRU, face à Land (volet 31)."},
+  {n:'l-acc (Srnicek & Williams)', ax:74, dem:70, c:'gauche', d:"Accélérer la technique vers le post-travail, mais côté démocratiser. Le pari perdu : la droite a capté la vitesse en possédant le compute (volet 31)."},
+  {n:'Bastani / FALC', ax:88, dem:84, c:'gauche', d:"Communisme de luxe pleinement automatisé : accélération plus abondance pour tous. Utopie post-rareté (volet 31)."},
+  {n:'Land / r-acc', ax:94, dem:5, c:'nrx', d:"L'autre branche de la CCRU : capital-machine par-delà l'humain, Dark Enlightenment. La fourche, face à Fisher (volets 7, 31)."},
+  {n:'Décroissance (Hickel, Saito)', ax:9, dem:66, c:'gauche', d:"L'autre gauche : ralentir, rendre une limite opposable. Le frein contre l'accélération (volets 22, 31)."},
 ];
 const svg = document.getElementById('plot'), NS='http://www.w3.org/2000/svg';
 const info = document.getElementById('info');
