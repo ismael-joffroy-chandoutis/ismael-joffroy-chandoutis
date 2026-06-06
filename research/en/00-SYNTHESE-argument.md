@@ -54,6 +54,20 @@ If the danger is the demand for the limitless, then every solution is a way of m
 
 The conclusion is therefore neither doomer nor optimist. It is political: the earth does not sink with AI, it sinks with the limitless. And the limitless, for its part, has addresses, balance sheets, and building permits. That is to say, handles.
 
+## Reception: A Convergent Diagnosis, Outside the Tech Field
+
+A sign that axis 2 is not a figment of the mind: it is now stated, almost identically, outside tech. In May 2026, Leo XIV's encyclical *Magnifica humanitas* devotes most of its argument to AI. As read by the philosopher Anne Alombert (*De la bêtise artificielle*, Allia, 2025) in *Le Monde*, it shifts the same lines as this dossier:
+
+- it refuses the "for or against AI" framing and the idea that it would suffice to "align" models with our values: AI is a political question (who develops it, under which economic models, for which projects), not merely a moral one. This is our move from axis 1 to axis 2;
+- it opposes two technopolitical projects, Babel (uniformization, the omnipotence of a few) and Jerusalem (diversity of skills, contributions of the many): in biblical typology, this is our concentrate↔democratize axis;
+- it makes public action and the common good the source of limits opposable to the platforms: this is our thesis of the limitless (Part 25, "making a limit opposable");
+- it roots the problem in matter (click workers, resource exhaustion) and in algorithmic architecture rather than in the mere "hunt for false information": this is our material turn (Part 16) and our shift from the moral to the structural;
+- and it regrets the absence of named alternatives (Wikipedia, Tournesol, Pol.is): this is our "democratize" pole (Part 30).
+
+Two gaps, which must be named so as not to make the text say more than it does. First, the encyclical stops at the diagnosis: it does not utter the word "fascism" and does not build the genealogy (Marinetti, Land, Dugin, eugenics) that, here, turns analogy into lineage. Second, it speaks from a relative exteriority that this dossier declared nonexistent ("there is no clean outside"): the Church is not funded by tech fortunes. This convergence is reached by another intellectual route, the Stiegler lineage (pharmacology of technology, the contributory economy, which Alombert cites with Tournesol and Pol.is), where this dossier goes through political economy and the genealogy of ideas. Two foreign apparatuses landing on the same hidden axis: that is what strengthens the diagnosis, rather than merely repeating it.
+
+Sources: *Magnifica humanitas*, encyclical of Leo XIV, May 25, 2026; Anne Alombert, interview by Anne Dujin, "Léon XIV, à partir de l'IA, se livre à un véritable plaidoyer pour l'action publique," *Le Monde*, May 30, 2026; Anne Alombert, *De la bêtise artificielle*, Allia, 2025.
+
 ## How to Read the 30 Parts
 
 - **To understand the ideology**: Parts 1 (Andreessen), 2 (Thiel), 3 and 4 (the sources), 13 (anatomy of the concept).
