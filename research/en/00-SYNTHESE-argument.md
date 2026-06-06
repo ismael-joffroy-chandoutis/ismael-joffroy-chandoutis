@@ -1,6 +1,6 @@
 # The Dossier's Argument (Synthesis)
 
-> Synthesis text. Written June 5, 2026. This is the dossier's entry point: what it argues, after 30 parts. To be read first, or last.
+> Synthesis text. Written June 5, 2026. This is the dossier's entry point: what it argues, after 31 parts. To be read first, or last.
 > It replaces the function of Part 5 (cartography/foresight), written when the dossier had only ten parts and before the material and Chinese turn.
 
 ---
@@ -68,12 +68,13 @@ Two gaps, which must be named so as not to make the text say more than it does. 
 
 Sources: *Magnifica humanitas*, encyclical of Leo XIV, May 25, 2026; Anne Alombert, interview by Anne Dujin, "Léon XIV, à partir de l'IA, se livre à un véritable plaidoyer pour l'action publique," *Le Monde*, May 30, 2026; Anne Alombert, *De la bêtise artificielle*, Allia, 2025.
 
-## How to Read the 30 Parts
+## How to Read the 31 Parts
 
 - **To understand the ideology**: Parts 1 (Andreessen), 2 (Thiel), 3 and 4 (the sources), 13 (anatomy of the concept).
 - **For the AI debate itself**: Parts 11 (caution camp), 14 (Yudkowsky's book read in full), 18 (the model masters), 19 (the third ways), 20 (Anthropic), 30 (Hugging Face and open source).
 - **For matter and geopolitics**: Parts 15 (China), 16 (the material empire), 17 (natsec), 22 (energy/nuclear), 23 (NVIDIA/Huawei), 26 (Palantir/Anduril).
 - **For the fascist genealogy**: Parts 6 (Marinetti), 7 (Land), 24 (vectofascism), 27 (Dugin), 28 (eugenics), 29 (gender and pronatalism).
+- **For the left counter-genealogy**: Part 31 (the CCRU fork, Mark Fisher, left accelerationism).
 - **To act**: Parts 10 (counter-powers), 21 (the global left), 25 (solutions).
 - **The maps**: the [interactive cartography](./cartographie.html) and the [Lombardi flow map](./lombardi.html).
 
