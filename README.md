@@ -35,11 +35,11 @@ Not a filmmaker who uses AI, but an artist whose method is computational and who
 
 Working documents, not finished tools.
 
-- **[deep-research](https://github.com/12georgiadis/deep-research):** essays from inside an AI-native practice
-- **[ai-cinema-method](https://github.com/12georgiadis/ai-cinema-method):** AI as artistic method
-- **[comfyui-blender-temporal](https://github.com/12georgiadis/comfyui-blender-temporal):** Blender passes as temporal conditioning for AI cinema
-- **[stegg-lab](https://github.com/12georgiadis/stegg-lab):** steganography and media provenance for post-deepfake documentary
-- **[storycurve](https://github.com/12georgiadis/storycurve):** visualizing nonlinear narrative
+- **[deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research):** essays from inside an AI-native practice
+- **[ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method):** AI as artistic method
+- **[comfyui-blender-temporal](https://github.com/ismael-joffroy-chandoutis/comfyui-blender-temporal):** Blender passes as temporal conditioning for AI cinema
+- **[stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab):** steganography and media provenance for post-deepfake documentary
+- **[storycurve](https://github.com/ismael-joffroy-chandoutis/storycurve):** visualizing nonlinear narrative
 
 ---
 
