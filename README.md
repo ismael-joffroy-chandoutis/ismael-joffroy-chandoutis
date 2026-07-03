@@ -1,3 +1,8 @@
+**Cinéaste et artiste, Paris.**
+*Filmmaker and artist, Paris.*
+
+---
+
 ## Ismaël Joffroy Chandoutis
 
 Filmmaker and artist at the intersection of cinema, contemporary art and AI. I move between documentary, fiction and animation, in hybrid and experimental forms: film, immersive installation, performance.
