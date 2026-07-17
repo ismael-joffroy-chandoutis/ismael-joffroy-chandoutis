@@ -1,50 +1,64 @@
-**Cinéaste et artiste, Paris.**
-*Filmmaker and artist, Paris.*
+**English** · [Français](README.fr.md)
+
+# Ismaël Joffroy Chandoutis
+
+**Filmmaker and artist, Paris. I build the computational instruments of my films.**
+
+I make films about things that leave no footage: online identities, cybercrime infrastructure, digital events that happened without witnesses. The latent space has become my documentary territory. The AI I work with is not a style and not a tool — it is a method for imaging what cannot be filmed.
+
+**César 2022** for Best Documentary Short (*Maalbeek*). Semaine de la Critique (Cannes), Annecy, IDFA, Clermont-Ferrand, Hot Docs. Honorary Mention at Ars Electronica. Prix Révélation Art Numérique (ADAGP). Associate artist at the **Centquatre-Paris**. Resident at **Villa Albertine**. Alumnus of **Le Fresnoy** and **INSAS**.
+
+[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com)
 
 ---
 
-## Ismaël Joffroy Chandoutis
+### Now
 
-Filmmaker and artist at the intersection of cinema, contemporary art and AI. I move between documentary, fiction and animation, in hybrid and experimental forms: film, immersive installation, performance.
-
-I make films about things that leave no footage: online identities, cybercrime infrastructure, digital events that happened without witnesses. My documentary gesture takes hybrid forms, probing the invisible and the unspeakable of the digital.
-
-The latent space has become my documentary territory, where singular traces of the real contaminate the generative models. The AI I work with is not a style and not a tool. It is a method for imaging what cannot be filmed.
-
-**César 2022** for Best Documentary Short (*Maalbeek*). Selected at the Semaine de la Critique (Cannes), Annecy, IDFA, Clermont-Ferrand and Hot Docs. Honorary Mention at Ars Electronica. Prix Révélation Art Numérique (ADAGP). *Maalbeek* in the City of Paris contemporary art collection. Associate artist at the **Centquatre-Paris** since 2022. Resident at **Villa Albertine**. Alumnus of **Le Fresnoy** and **INSAS**.
+- ***The Goldberg Variations*** — hybrid feature on Joshua Ryne Goldberg, a case of online identity construction. Villa Albertine / Films Grand Huit.
+- ***Virus*** — hybrid feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented.
+- **Spectre** — one intelligence layer across all my machines: a single memory and context over multiple workstations, with an agentic CLI as the operating layer.
 
 ---
 
-### Currently
+### Instruments
 
-**The Goldberg Variations.** Hybrid feature film on Joshua Ryne Goldberg, a case of online identity construction. Developed at Villa Albertine, 2026.
+Tools I build for my own practice, released as they stabilize.
 
-**Virus.** Hybrid feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented. In development.
+| | |
+|---|---|
+| [cinema-ai-toolkit](https://github.com/ismael-joffroy-chandoutis/cinema-ai-toolkit) | Voice repair, VHS analysis, OCR for handwritten archives — built on real productions |
+| [comfyui-cinema-pipeline](https://github.com/ismael-joffroy-chandoutis/comfyui-cinema-pipeline) | ComfyUI for professional cinema production, 70+ workflows with honest stability ratings |
+| [comfyui-blender-temporal](https://github.com/ismael-joffroy-chandoutis/comfyui-blender-temporal) | Blender EXR passes as temporal conditioning for AI cinema |
+| [oscli](https://github.com/ismael-joffroy-chandoutis/oscli) | Headless oscilloscope toolkit — the sound is the image |
+| [film-indexer](https://github.com/ismael-joffroy-chandoutis/film-indexer) | Multi-perspective editorial council for documentary rushes |
+| [agent-viewer](https://github.com/ismael-joffroy-chandoutis/agent-viewer) | Kanban board for orchestrating agent fleets in tmux |
 
-**Spectre.** A personal research project: a unified AI layer across my machines, one memory and one context over multiple workstations, Windows and Mac, with Claude Code as the orchestration layer.
+### Field notes
 
----
+How the practice actually works — configs, benchmarks, methods, documented from the inside.
 
-### Method
+- [ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method) — AI as artistic method
+- [claude-code-filmmaker](https://github.com/ismael-joffroy-chandoutis/claude-code-filmmaker) — how a filmmaker runs an agentic CLI daily
+- [open-source-cinema](https://github.com/ismael-joffroy-chandoutis/open-source-cinema) — RAW filmmaking with hacked cameras and open hardware
+- [stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab) — steganography and media provenance for post-deepfake documentary
 
-Not a filmmaker who uses AI, but an artist whose method is computational and whose material is documentary. I practice a form of permacomputing: open-source models running locally, fine-tuned on datasets I capture in the field, rather than prompts sent to a closed platform. The author stays in the loop, deciding what to keep and what to reject. The research is the work.
+### Essays (FR/EN)
 
-- Latent space as documentary territory
-- Cinema without a camera, intervening in the interstices of image generation
-- Photogrammetry, point clouds, game engines and deepfake as materials, not effects
-- Media provenance and the production of the real in the post-truth era
+Writing from inside an AI-native practice. The reference versions live on [my site](https://ismaeljoffroychandoutis.com); the working repositories are here.
 
----
+- [posseder-les-mains](https://github.com/ismael-joffroy-chandoutis/posseder-les-mains) — *Own the hands, rent the brain*: sovereign infrastructures for AI-assisted creation
+- [ne-pas-casser-la-machine](https://github.com/ismael-joffroy-chandoutis/ne-pas-casser-la-machine) — on AI anxiety: don't break the machine, own it
+- [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research) — research notes from a filmmaker working with computational instruments
 
-### Open research
+### Agentic systems, beyond cinema
 
-Working documents, not finished tools.
+The same systems that run my studio — autonomous agent fleets, multi-machine orchestration, verification harnesses, reporting pipelines — apply directly to organizations. Selected public work:
 
-- **[deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research):** essays from inside an AI-native practice
-- **[ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method):** AI as artistic method
-- **[comfyui-blender-temporal](https://github.com/ismael-joffroy-chandoutis/comfyui-blender-temporal):** Blender passes as temporal conditioning for AI cinema
-- **[stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab):** steganography and media provenance for post-deepfake documentary
-- **[storycurve](https://github.com/ismael-joffroy-chandoutis/storycurve):** visualizing nonlinear narrative
+- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods) — reusable agentic methods: GEO/AEO, reporting, QC harnesses
+- [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota) — a verified state of the art of decentralized AI compute
+- [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026) — sovereign local LLM hardware, from memory bandwidth up
+
+For consulting, audits and applied AI systems: **contact via [site](https://ismaeljoffroychandoutis.com/contact)**.
 
 ---
 
@@ -54,20 +68,21 @@ Working documents, not finished tools.
 |---|---|
 | *The Goldberg Variations* | Hybrid feature, in development, Villa Albertine 2026 |
 | *Virus* | Hybrid feature, in development |
-| *Rewild* | Video installation, ongoing, Biennale NÉMO 2025, Centquatre-Paris |
+| *Rewild* | Video installation, Biennale NÉMO 2025, Centquatre-Paris |
 | *Mémoires fractales* | Photo series and video installation, in progress |
-| *Madostuki_the_dreamer* | Generative video installation, 2023. Videoformes, Le Port des Créateurs, Biennale NÉMO |
-| *Virtual Kintsugi* | Generative video installation, 2023, Musée Granet collection |
+| *Madotsuki_the_dreamer* | Generative video installation, 2023 — Videoformes, Biennale NÉMO |
+| *Virtual Kintsugi* | Generative video installation, 2023 — Musée Granet collection |
 | *Deep Forensic* | Photographic series, 2022 |
-| *Maalbeek* | Short film, 2020, César 2022, Semaine de la Critique Cannes |
+| *Maalbeek* | Short film, 2020 — César 2022, Semaine de la Critique |
 | *Amnesia* | Digital image series, 2019 |
-| *Swatted* | Short film, 2018, Honorary Mention Ars Electronica, Oscar-qualifying |
-| *Ondes noires* | Short film, 2017, Grand Prix Regensburg |
+| *Swatted* | Short film, 2018 — Honorary Mention Ars Electronica, Oscar-qualifying |
+| *Ondes noires* | Short film, 2017 — Grand Prix Regensburg |
 
 ---
 
-### Available for
+### Work with me
 
-Artistic direction. Auteur AI work. Film consulting. Research-creation collaborations. Talks and workshops.
+Artistic direction · auteur AI work · film consulting · applied agentic systems for organizations · talks and workshops.
 
-[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) · [Hugging Face](https://huggingface.co/12georgiadis) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDB](https://www.imdb.com/name/nm5604010/)
+
+[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDb](https://www.imdb.com/name/nm5604010/)
