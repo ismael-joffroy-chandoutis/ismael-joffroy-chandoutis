@@ -15,7 +15,7 @@ Je fais des films sur ce qui ne laisse pas d'images : identités en ligne, infra
 ### En ce moment
 
 - ***The Goldberg Variations*** — long métrage hybride sur Joshua Ryne Goldberg, un cas de construction d'identités en ligne. Villa Albertine / Films Grand Huit.
-- ***Virus*** — long métrage hybride sur Mihai Ionut Paunescu, opérateur d'une des plus grandes infrastructures de cybercriminalité jamais documentées.
+- ***Virus*** — long métrage hybride sur Mihai Ionut Paunescu, qui a opéré un service de bulletproof hosting au cœur de campagnes majeures de malwares (Gozi, Zeus, SpyEye).
 - **Spectre** — une seule couche d'intelligence sur toutes mes machines : une mémoire et un contexte uniques au-dessus de plusieurs stations de travail.
 
 ---

@@ -15,7 +15,7 @@ I make films about things that leave no footage: online identities, cybercrime i
 ### Now
 
 - ***The Goldberg Variations*** — hybrid feature on Joshua Ryne Goldberg, a case of online identity construction. Villa Albertine / Films Grand Huit.
-- ***Virus*** — hybrid feature on Mihai Ionut Paunescu, operator of one of the largest cybercrime infrastructures ever documented.
+- ***Virus*** — hybrid feature on Mihai Ionut Paunescu, who ran a bulletproof hosting service at the core of major malware campaigns (Gozi, Zeus, SpyEye).
 - **Spectre** — one intelligence layer across all my machines: a single memory and context over multiple workstations, with an agentic CLI as the operating layer.
 
 ---
