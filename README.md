@@ -40,7 +40,7 @@ Tools I build for my own practice, released as they stabilize.
 How the practice actually works: configs, benchmarks, methods, documented from the inside.
 
 - [ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method) : AI as artistic method
-- [claude-code-filmmaker](https://github.com/ismael-joffroy-chandoutis/claude-code-filmmaker) : how a filmmaker runs an agentic CLI daily
+- [agentic-cli-filmmaker](https://github.com/ismael-joffroy-chandoutis/agentic-cli-filmmaker) : how a filmmaker runs an agentic CLI daily
 - [open-source-cinema](https://github.com/ismael-joffroy-chandoutis/open-source-cinema) : RAW filmmaking with hacked cameras and open hardware
 - [stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab) : steganography and media provenance for post-deepfake documentary
 

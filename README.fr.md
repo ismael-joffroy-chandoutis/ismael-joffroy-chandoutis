@@ -40,7 +40,7 @@ Les outils que je construis pour ma propre pratique, publiés quand ils se stabi
 Comment la pratique fonctionne réellement : configurations, comparatifs, méthodes, documentés de l'intérieur.
 
 - [ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method) : l'IA comme méthode artistique
-- [claude-code-filmmaker](https://github.com/ismael-joffroy-chandoutis/claude-code-filmmaker) : l'usage quotidien d'un CLI agentique par un cinéaste
+- [agentic-cli-filmmaker](https://github.com/ismael-joffroy-chandoutis/agentic-cli-filmmaker) : l'usage quotidien d'un CLI agentique par un cinéaste
 - [open-source-cinema](https://github.com/ismael-joffroy-chandoutis/open-source-cinema) : filmer en RAW avec des caméras débridées et du matériel ouvert
 - [stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab) : stéganographie et provenance des médias pour le documentaire post-deepfake
 
