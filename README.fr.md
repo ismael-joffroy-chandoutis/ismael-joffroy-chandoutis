@@ -1,4 +1,6 @@
-<img src="banner.svg" alt="Ismaël Joffroy Chandoutis" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner.svg"><img src="banner-light.svg" alt="Ismaël Joffroy Chandoutis" width="100%"></picture>
+
+<p align="center"><i>L'espace latent est devenu mon territoire documentaire.</i></p>
 
 [English](README.md) · **Français**
 
@@ -6,7 +8,7 @@
 
 **Cinéaste et artiste, Paris. Je construis les instruments computationnels de mes films.**
 
-Je fais des films sur ce qui ne laisse pas d'images : identités en ligne, infrastructures de cybercriminalité, événements numériques advenus sans témoins. L'espace latent est devenu mon territoire documentaire. L'IA avec laquelle je travaille est une méthode pour imager ce qui ne peut pas être filmé.
+Je fais des films sur ce qui ne laisse pas d'images : identités en ligne, infrastructures de cybercriminalité, événements numériques advenus sans témoins. L'IA avec laquelle je travaille est une méthode pour imager ce qui ne peut pas être filmé.
 
 **César 2022** du meilleur court métrage documentaire (*Maalbeek*). Semaine de la Critique (Cannes), Annecy, IDFA, Clermont-Ferrand, Hot Docs. Mention honorifique à Ars Electronica. Prix Révélation Art Numérique (ADAGP). Artiste associé au **Centquatre-Paris**. Résident à la **Villa Albertine**. Ancien du **Fresnoy** et de l'**INSAS**.
 
@@ -65,6 +67,21 @@ Pour le conseil, les audits et les systèmes IA appliqués : **contact via le [s
 ---
 
 ### Films et art vidéo
+
+<sub>Œuvres choisies</sub>
+
+<table>
+<tr>
+<td width="33%"><a href="https://ismaeljoffroychandoutis.com/works/maalbeek"><img src="assets/works/maalbeek.jpg" width="100%"></a><br><sub><i>Maalbeek</i>, 2020</sub></td>
+<td width="33%"><a href="https://ismaeljoffroychandoutis.com/works/swatted"><img src="assets/works/swatted.jpg" width="100%"></a><br><sub><i>Swatted</i>, 2018</sub></td>
+<td width="33%"><a href="https://ismaeljoffroychandoutis.com/works/madostuki-the-dreamer"><img src="assets/works/madotsuki.jpg" width="100%"></a><br><sub><i>Madotsuki_the_dreamer</i>, 2023</sub></td>
+</tr>
+<tr>
+<td width="33%"><a href="https://ismaeljoffroychandoutis.com/works/virtual-kintsugi"><img src="assets/works/virtual-kintsugi.jpg" width="100%"></a><br><sub><i>Virtual Kintsugi</i>, 2023</sub></td>
+<td width="33%"><a href="https://ismaeljoffroychandoutis.com/works/dark-waves"><img src="assets/works/ondes-noires.jpg" width="100%"></a><br><sub><i>Ondes noires</i>, 2017</sub></td>
+<td width="33%"></td>
+</tr>
+</table>
 
 | | |
 |---|---|
