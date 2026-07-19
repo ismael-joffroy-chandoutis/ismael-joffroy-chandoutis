@@ -52,10 +52,10 @@ Comment la pratique fonctionne réellement : configurations, comparatifs, métho
 
 - [posseder-les-mains](https://github.com/ismael-joffroy-chandoutis/posseder-les-mains) : *Posséder les mains, louer le cerveau*, sur les infrastructures souveraines pour la création assistée par IA
 - [ne-pas-casser-la-machine](https://github.com/ismael-joffroy-chandoutis/ne-pas-casser-la-machine) : sur l'angoisse de l'IA, ne pas casser la machine, la posséder
-- [le-clavier-mal-tempere](https://github.com/ismael-joffroy-chandoutis/le-clavier-mal-tempere) : écrire avec les machines, d'après Bach
-- [la-langue-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/la-langue-n-existe-pas) : la langue n'existe pas, et les modèles le prouvent
-- [le-bon-format-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas) : le bon format n'existe pas non plus
-- [souverainete-numerique-critique](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique) : un lexique critique de la souveraineté numérique
+- [le-clavier-mal-tempere](https://github.com/ismael-joffroy-chandoutis/le-clavier-mal-tempere) : le geste de l'artiste dans l'espace latent, d'après Bach
+- [la-langue-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/la-langue-n-existe-pas) : un LLM ne lit aucune langue, seulement des tokens, et le token est une décision d'ingénierie
+- [le-bon-format-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas) : le bon format n'existe pas, ça dépend qui lit
+- [souverainete-numerique-critique](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique) : critique du concept de souveraineté numérique, et les lexiques qui pourraient le remplacer
 - [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research) : notes de recherche d'un cinéaste travaillant avec des instruments computationnels
 
 ### Systèmes agentiques, au-delà du cinéma
