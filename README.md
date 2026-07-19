@@ -103,4 +103,4 @@ For consulting, audits and applied AI systems: **contact via [site](https://isma
 
 Commissions and co-productions · artistic direction · auteur AI work for film, installation and exhibition · applied agentic systems for organizations · talks, workshops and masterclasses.
 
-[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Contact](https://ismaeljoffroychandoutis.com/contact) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDb](https://www.imdb.com/name/nm5604010/)
+[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Contact](https://ismaeljoffroychandoutis.com/contact) · [Vimeo](https://vimeo.com/user4983240) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDb](https://www.imdb.com/name/nm5604010/)

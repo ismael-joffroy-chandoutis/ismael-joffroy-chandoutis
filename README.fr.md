@@ -103,4 +103,4 @@ Pour le conseil, les audits et les systèmes IA appliqués : **contact via le [s
 
 Commandes et coproductions · direction artistique · œuvres IA d'auteur pour le film, l'installation et l'exposition · systèmes agentiques appliqués pour les organisations · conférences, ateliers et masterclasses.
 
-[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Contact](https://ismaeljoffroychandoutis.com/contact) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDb](https://www.imdb.com/name/nm5604010/)
+[ismaeljoffroychandoutis.com](https://ismaeljoffroychandoutis.com) · [Contact](https://ismaeljoffroychandoutis.com/contact) · [Vimeo](https://vimeo.com/user4983240) · [Instagram](https://instagram.com/ismaeljoffroychandoutis) · [IMDb](https://www.imdb.com/name/nm5604010/)
