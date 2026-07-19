@@ -41,26 +41,26 @@ Tools I build for my own practice, released as they stabilize.
 
 How the practice actually works: configs, benchmarks, methods, documented from the inside.
 
-- [ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method) : AI as artistic method
-- [agentic-cli-filmmaker](https://github.com/ismael-joffroy-chandoutis/agentic-cli-filmmaker) : how a filmmaker runs an agentic CLI daily
-- [open-source-cinema](https://github.com/ismael-joffroy-chandoutis/open-source-cinema) : RAW filmmaking with hacked cameras and open hardware
-- [stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab) : steganography and media provenance for post-deepfake documentary
+- [ai-cinema-method](https://github.com/ismael-joffroy-chandoutis/ai-cinema-method): AI as artistic method
+- [agentic-cli-filmmaker](https://github.com/ismael-joffroy-chandoutis/agentic-cli-filmmaker): how a filmmaker runs an agentic CLI daily
+- [open-source-cinema](https://github.com/ismael-joffroy-chandoutis/open-source-cinema): RAW filmmaking with hacked cameras and open hardware
+- [stegg-lab](https://github.com/ismael-joffroy-chandoutis/stegg-lab): steganography and media provenance for post-deepfake documentary
 
 ### Essays (FR/EN)
 
 Writing from inside an AI-native practice. The reference versions live on [my site](https://ismaeljoffroychandoutis.com); the working repositories are here.
 
-- [posseder-les-mains](https://github.com/ismael-joffroy-chandoutis/posseder-les-mains) : *Own the hands, rent the brain*, on sovereign infrastructures for AI-assisted creation
-- [ne-pas-casser-la-machine](https://github.com/ismael-joffroy-chandoutis/ne-pas-casser-la-machine) : on AI anxiety, don't break the machine, own it
-- [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research) : research notes from a filmmaker working with computational instruments
+- [posseder-les-mains](https://github.com/ismael-joffroy-chandoutis/posseder-les-mains): *Own the hands, rent the brain*, on sovereign infrastructures for AI-assisted creation
+- [ne-pas-casser-la-machine](https://github.com/ismael-joffroy-chandoutis/ne-pas-casser-la-machine): on AI anxiety, don't break the machine, own it
+- [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research): research notes from a filmmaker working with computational instruments
 
 ### Agentic systems, beyond cinema
 
 My studio runs as an agentic system: a fleet of five machines under a single memory, autonomous agent teams, verification harnesses, reporting pipelines. I engineer it myself, and the same systems apply to organizations. Selected public work:
 
-- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods) : reusable agentic methods: GEO/AEO, reporting, QC harnesses
-- [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota) : a verified state of the art of decentralized AI compute
-- [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026) : sovereign local LLM hardware, from memory bandwidth up
+- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods): reusable agentic methods: GEO/AEO, reporting, QC harnesses
+- [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota): a verified state of the art of decentralized AI compute
+- [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026): sovereign local LLM hardware, from memory bandwidth up
 
 For consulting, audits and applied AI systems: **contact via [site](https://ismaeljoffroychandoutis.com/contact)**.
 
