@@ -52,6 +52,10 @@ Writing from inside an AI-native practice. The reference versions live on [my si
 
 - [posseder-les-mains](https://github.com/ismael-joffroy-chandoutis/posseder-les-mains): *Own the hands, rent the brain*, on sovereign infrastructures for AI-assisted creation
 - [ne-pas-casser-la-machine](https://github.com/ismael-joffroy-chandoutis/ne-pas-casser-la-machine): on AI anxiety, don't break the machine, own it
+- [le-clavier-mal-tempere](https://github.com/ismael-joffroy-chandoutis/le-clavier-mal-tempere): on writing with machines, after Bach
+- [la-langue-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/la-langue-n-existe-pas): language does not exist, and models prove it
+- [le-bon-format-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas): the right format does not exist either
+- [souverainete-numerique-critique](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique): a critical lexicon of digital sovereignty
 - [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research): research notes from a filmmaker working with computational instruments
 
 ### Agentic systems, beyond cinema

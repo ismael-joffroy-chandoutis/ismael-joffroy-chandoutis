@@ -52,6 +52,10 @@ Comment la pratique fonctionne réellement : configurations, comparatifs, métho
 
 - [posseder-les-mains](https://github.com/ismael-joffroy-chandoutis/posseder-les-mains) : *Posséder les mains, louer le cerveau*, sur les infrastructures souveraines pour la création assistée par IA
 - [ne-pas-casser-la-machine](https://github.com/ismael-joffroy-chandoutis/ne-pas-casser-la-machine) : sur l'angoisse de l'IA, ne pas casser la machine, la posséder
+- [le-clavier-mal-tempere](https://github.com/ismael-joffroy-chandoutis/le-clavier-mal-tempere) : écrire avec les machines, d'après Bach
+- [la-langue-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/la-langue-n-existe-pas) : la langue n'existe pas, et les modèles le prouvent
+- [le-bon-format-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas) : le bon format n'existe pas non plus
+- [souverainete-numerique-critique](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique) : un lexique critique de la souveraineté numérique
 - [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research) : notes de recherche d'un cinéaste travaillant avec des instruments computationnels
 
 ### Systèmes agentiques, au-delà du cinéma
